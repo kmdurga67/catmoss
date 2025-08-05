@@ -1,13 +1,13 @@
-import React from "react";
 import { Carousel } from 'react-responsive-carousel';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { carouselData, workDetails } from "../constants/constant";
 import SectionTitle from "../components/SectionTitle";
 import ResearchCard from "../components/ResearchCard";
+import NewsSection from "../components/NewsSection";
 
 const HomePage = () => {
   return (
-    <div className="home-page">
+    <div>
       <div className="relative">
         <Carousel 
           showArrows={true}
@@ -32,9 +32,6 @@ const HomePage = () => {
                   <div className="container mx-auto px-4 text-white text-center">
                     <h1 className="text-3xl md:text-5xl font-bold mb-4">{item.title}</h1>
                     <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto">{item.details}</p>
-                    <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg text-lg font-medium transition">
-                      Learn More
-                    </button>
                   </div>
                 </div>
               </div>
@@ -71,17 +68,19 @@ const HomePage = () => {
             />
             <ResearchCard 
               title="Surface Science"
-              description="Investigating molecular interactions at surfaces"
+              description="Exploring surfaces relevant to catalysis under realistic conditions (Bridging the pressure Gap)"
               icon="🔬"
             />
             <ResearchCard 
-              title="Nanomaterials"
-              description="Designing functional nanomaterials for catalytic applications"
+              title="Nanocatalyst"
+              description="Synthesis of functional nanomaterials for catalytic applications. Predictive and Rational catalyst design"
               icon="⚛️"
             />
           </div>
         </div>
       </section>
+
+      <NewsSection />
     </div>
   );
 };

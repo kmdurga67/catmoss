@@ -10,6 +10,7 @@ import Publications from "./pages/Publications";
 import Patents from "./pages/Patents";
 import Accolades from "./pages/Accolades";
 import Contact from "./pages/Contact";
+import NewsPage from "./pages/NewsPage";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           <Route path="/patents" element={<Patents />} />
           <Route path="/accolades" element={<Accolades />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/news" element={<NewsPage />} />
         </Routes>
       </main>
       <Footer />

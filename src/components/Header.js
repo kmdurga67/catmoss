@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { NavItems } from "../constants/constant";
+import LOGO from "../assets/logo.png"
 
 const Header = () => {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -10,8 +11,8 @@ const Header = () => {
             <div className="container mx-auto px-4 py-3">
                 <div className="flex justify-between items-center">
                     <Link to="/" className="flex items-center">
-                        <img src="#" alt="Lab Logo" className="h-12 mr-3" />
-                        <span className="text-xl font-bold text-gray-800">Catalysis Research Lab</span>
+                        <img src={LOGO} alt="Lab Logo" className="h-12 mr-3" />
+                        <span className="text-xl font-bold text-gray-800">Cat&MoSS</span>
                     </Link>
 
                     <nav className="hidden md:block">

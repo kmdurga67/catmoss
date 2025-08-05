@@ -1,25 +1,25 @@
 export const carouselData = [
   {
     id: 1,
-    imageUrl: "/images/carousel1.jpg",
+    imageUrl: "#",
     details: "Our research in heterogeneous catalysis",
     title: "Cutting-edge Catalysis Research"
   },
   {
     id: 2,
-    imageUrl: "/images/carousel2.jpg",
+    imageUrl: "#",
     details: "State-of-the-art laboratory facilities",
     title: "Advanced Research Facilities"
   },
   {
     id: 3,
-    imageUrl: "/images/carousel3.jpg",
+    imageUrl: "#",
     details: "Recent publications and breakthroughs",
     title: "Latest Publications"
   },
   {
     id: 4,
-    imageUrl: "/images/carousel4.jpg",
+    imageUrl: "#",
     details: "Meet our talented research team",
     title: "Our Research Team"
   }
@@ -33,7 +33,7 @@ export const NavItems = [
   {
     label: "Group Members",
     submenu: [
-      { label: "XYZ", link: "/xyz" },
+      { label: "Group Members", link: "/group-members" },
     ],
   },
   {
@@ -65,7 +65,9 @@ export const NavItems = [
 export const workDetails = "We work in the field of heterogeneous catalysis and surface science with an emphasis on sustainability. Designing new functional nanomaterials for a catalytic application requires a molecular-level understanding of the bond-breaking and making process on the catalyst surface. We also create flat model catalyst surfaces or structured nanoparticles and employ surface-sensitive techniques like X-ray Photoelectron Spectroscopy (XPS) and high-resolution microscopes like HRTEM to arrive at structure vs activity correlations.";
 
 export const contactInfo = {
-  email: "research@lab.edu",
-  phone: "+1 (123) 456-7890",
-  address: "123 Research Lane, Science Building, University City"
+  email: "cp.vinod.ncl@csir.res.in",
+  phone: "+91 20 2590 2086",
+  address: `Room No.135C, Main building`,
+  address1: 'National Chemical Laboratory',
+  address2:`Dr. Homi Bhabha Road Pune 411008, India`
 };
