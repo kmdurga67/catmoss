@@ -62,7 +62,7 @@ const HomePage = () => {
           />
           <div className="grid md:grid-cols-3 gap-8 mt-12">
             <ResearchCard 
-              title="Heterogeneous Catalysis"
+              title="Catalysis"
               description="Developing novel catalysts for sustainable chemical processes"
               icon="🧪"
             />
@@ -72,7 +72,7 @@ const HomePage = () => {
               icon="🔬"
             />
             <ResearchCard 
-              title="Nanocatalyst"
+              title="Nanomaterial synthesis"
               description="Synthesis of functional nanomaterials for catalytic applications. Predictive and Rational catalyst design"
               icon="⚛️"
             />
