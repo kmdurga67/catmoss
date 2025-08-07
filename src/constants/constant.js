@@ -2,8 +2,8 @@ export const carouselData = [
   {
     id: 1,
     imageUrl: "#",
-    details: "Our research in heterogeneous catalysis",
-    title: "Cutting-edge Catalysis Research"
+    details: "Our research in catalysis",
+    title: "Catalysis Research"
   },
   {
     id: 2,
