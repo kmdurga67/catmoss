@@ -1,7 +1,7 @@
 const NewsCard = ({ newsItem }) => {
   const imageUrl = newsItem.image !== '#' 
     ? newsItem.image 
-    : `https://source.unsplash.com/random/400x300/?${newsItem.category}`;
+    : null;
 
   const categoryColors = {
     publication: 'bg-blue-100 text-blue-800',
@@ -20,14 +20,20 @@ const NewsCard = ({ newsItem }) => {
 
   return (
     <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition duration-300 h-full flex flex-col">
-      <div className="h-48 overflow-hidden">
-        <img 
-          src={imageUrl}
-          alt={newsItem.title}
-          className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
-          loading="lazy"
-        />
-      </div>
+      {
+        newsItem.imageUrl && (
+          <div className="h-48 overflow-hidden">
+
+            <img
+              src={imageUrl}
+              alt={newsItem.title}
+              className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
+              loading="lazy"
+            />
+
+          </div>
+        )
+      }
       <div className="p-6 flex-grow flex flex-col">
         <div className="flex justify-between items-center mb-2">
           <span className="text-sm text-blue-600 font-medium">{newsItem.date}</span>

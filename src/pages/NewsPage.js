@@ -8,7 +8,7 @@ const NewsPage = () => {
   const categories = ['all', ...new Set(newsData.map(item => item.category))];
   
   const filteredNews = activeTab === 'all' 
-    ? newsData 
+    ? newsData.sort((a, b) => b.id - a.id) 
     : newsData.filter(item => item.category === activeTab);
 
   return (
