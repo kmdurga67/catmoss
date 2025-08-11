@@ -32,9 +32,7 @@ export const NavItems = [
   },
   {
     label: "Group Members",
-    submenu: [
-      { label: "Group Members", link: "/group-members" },
-    ],
+    link:"/group-members"
   },
   {
     label: "Research Topics",

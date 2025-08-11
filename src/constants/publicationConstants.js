@@ -326,7 +326,7 @@ export const publicationConstant = [
     ],
     other_details:"NEW AND FUTURE DEVELOPMENTS IN CATALYSIS: CATALYSIS BY NANOPARTICLES (Elsevier)., Chapter 12, 289 - 304 (2013)",
     year:"2013",
-    doi:"DOI:10.1016/B978-0-444-53874-1.00012-3."
+    doi:"https://10.1016/B978-0-444-53874-1.00012-3."
   },{
     id:"pub_029",
     title:"Design and Performance Aspects of a Custom-Built Ambient Pressure Photoelectron Spectrometer toward Bridging the Pressure Gap: Oxidation of Cu, Ag, and Au Surfaces at 1 mbar O-2 Pressure",
@@ -349,7 +349,7 @@ export const publicationConstant = [
     ],
     other_details:"Particle & Particle Systems Characterization., 31, 236 - 244 (2014)",
     year:"2014",
-    doi:"DOI:10.1002/ppsc.201300195."
+    doi:"https://10.1002/ppsc.201300195."
   },{
     id:"pub_031",
     title:"Structure Sensitive Chemical Reactivity by Palladium Concave Nanocubes and Nanoflowers Synthesised by Seed Mediated Procedure in Aqueous Medium",
@@ -360,7 +360,7 @@ export const publicationConstant = [
     ],
     other_details:"Nanoscale., 6, 7496 - 7502 (2014)",
     year:'2014',
-    doi:"DOI:10.1039/c4nr01283f."
+    doi:"https://10.1039/c4nr01283f."
   },{
     id:"pub_032",
     title:"Oxidation catalysis by large trisoctahedral gold nanoparticles: Mind the step!",
@@ -371,7 +371,7 @@ export const publicationConstant = [
     ],
     other_details:"Catalysis Today., 244, 177 - 183 (2015)",
     year:"2015",
-    doi:"DOI:10.1016/j.cattod.2014.02.049."
+    doi:"https://10.1016/j.cattod.2014.02.049."
   },{
     id:"pub_033",
     title:"Activity enhancement on Titanium incorporation: Au@Ti-SiO2 core shell nanocatalysts for CO oxidation reaction",
@@ -383,7 +383,7 @@ export const publicationConstant = [
     ],
     other_details:"ChemCatChem., 7 (7), 1222 - 1230 (2015)",
     year:"2015",
-    doi:"DOI:10.1002/cctc.201402954."
+    doi:"https://10.1002/cctc.201402954."
   },{
     id:"pub_034",
     title:"Demonstration of Synergistic Catalysis in Au@Ni Bimetallic Core Shell Nanostructures",
@@ -394,7 +394,7 @@ export const publicationConstant = [
     ],
     other_details:"J Phys Chem C., 119 (15), 8138 - 8146 (2015)",
     year:"2015",
-    doi:"DOI:10.1021/jp5128089."
+    doi:"https://10.1021/jp5128089."
   },{
     id:"pub_035",
     title:"Mesoporous TUD-1 supported indium oxide nanoparticles for epoxidation of styrene using molecular O2",
@@ -414,7 +414,7 @@ export const publicationConstant = [
     ],
     other_details:"RSC Advances., (Just Accepted), (2015)",
     year:"2015",
-    doi:"DOI:10.1039/C5RA03400K."
+    doi:"https://10.1039/C5RA03400K."
   },{
     id:"pub_036",
     title:"Pd loaded amphiphilic COF as catalyst for multi-fold Heck reactions, C-C couplings and CO oxidation",
@@ -428,7 +428,7 @@ export const publicationConstant = [
     ],
     other_details:"Nature Scientific Reports., , (2015)",
     year:'2015',
-    doi:"DOI:10.1038/srep10876."
+    doi:"https://10.1038/srep10876."
   },{
     id:"pub_037",
     title:"Surfactant assisted formation of Ruthenium nanochains under mild conditions and their catalytic CO oxidation activity",
@@ -438,7 +438,7 @@ export const publicationConstant = [
     ],
     other_details:"Chemical Communications., 51, 10178 - 10181 (2015)",
     year:'2015',
-    doi:"DOI:10.1039/C4CC09430A."
+    doi:"https://10.1039/C4CC09430A."
   },{
     id:"pub_038",
     title:"Preparation of mesoporous titanosilicate with isolated Ti active centers for cyclohexene oxidation",
@@ -449,7 +449,7 @@ export const publicationConstant = [
     ],
     other_details:"RSC Advances., 5, 92371 - 92377 (2015)",
     year:"2015",
-    doi:"DOI:10.1039/c5ra18044a."
+    doi:"https://10.1039/c5ra18044a."
   },{
     id:"pub_039",
     title:"Porous Thin Films Towards Bridging the Material Gap in Heterogeneous Catalysis",
@@ -473,7 +473,7 @@ export const publicationConstant = [
     ],
     other_details:"New Journal of Chemistry., (accepted), (2016)",
     year:"2016",
-    doi:"DOI:10.1039/C5NJ02686E."
+    doi:"https://10.1039/C5NJ02686E."
   },{
     id:"pub_041",
     title:"Correlating the role of hydrophilic/hydrophobic nature of Rh(I) and Ru(II) supported organosilica/silica catalysts in organotransformation reactions",
@@ -486,7 +486,7 @@ export const publicationConstant = [
     ],
     other_details:"Applied Catalysis A., 513, 138 - 146 (2016)",
     year:'2016',
-    doi:"DOI:10.1016/j.apcata.2015.12.026."
+    doi:"https://10.1016/j.apcata.2015.12.026."
   },{
     id:"pub_042",
     title:"Synthesis of Au@Ni bimetallic core shell nanoparticle and nanochains in soyabean oil and their catalytic hydrogenation reactions",
@@ -499,7 +499,7 @@ export const publicationConstant = [
     ],
     other_details:"Chemistry Select., 1 (2), 140 - 146 (2016)",
     year:"2016",
-    doi:"DOI:10.1002/slct.201500006."
+    doi:"https://10.1002/slct.201500006."
   },{
     id:"pub_043",
     title:"Phenyl acetylene hydrogenation on Au@Ni bimetallic core shell nanoparticles synthesized under mild conditions",
@@ -512,7 +512,7 @@ export const publicationConstant = [
     ],
     other_details:"Catalysis Science and Technology., 6, 708 - 712 (2016)",
     year:"2016",
-    doi:"DOI:10.1039/C5CY02005K."
+    doi:"https://10.1039/C5CY02005K."
   },{
     id:"pub_044",
     title:"CO oxidation on large high index faceted Pd nanostructures",
@@ -523,7 +523,7 @@ export const publicationConstant = [
     ],
     other_details:"Journal of Catalysis., 337, 138 - 144 (2016)",
     year:"2016",
-    doi:"DOI:10.1016/j.jcat.2016.01.017."
+    doi:"https://10.1016/j.jcat.2016.01.017."
   },{
     id:"pub_045",
     title:"Gold incorporated mesoporous silica thin film model surface as a robust SERS and catalytically active substrate",
@@ -544,7 +544,7 @@ export const publicationConstant = [
     ],
     other_details:"Applied Catalysis A: General., 524, 1 - 7 (2016)",
     year:"2016",
-    doi:"DOI:10.1016/j.apcata.2016.05.023."
+    doi:"https://10.1016/j.apcata.2016.05.023."
   },
   {
     id:"pub_047",
@@ -561,7 +561,7 @@ export const publicationConstant = [
     ],
     other_details:"Microporous and Mesoporous Materials., (2016)",
     year:"2016",
-    doi:"DOI:10.1016/j.micromeso.2016.07.024."
+    doi:"https://10.1016/j.micromeso.2016.07.024."
   },{
     id:"pub_048",
     title:"Low Band Gap Benzimidazole COF Supported Ni3N as highly active OER catalyst",
@@ -577,7 +577,7 @@ export const publicationConstant = [
     ],
     other_details:"Advanced Energy Materials., 6(24), (2016)",
     year:"2016",
-    doi:"DOI:10.1002/aenm.201601189."
+    doi:"https://10.1002/aenm.201601189."
   },{
     id:"pub_049",
     title:"A heterogeneous route for transfer hydrogenation reactions of ketones using Ru (II) Cymene complex over modified benzene-organosilica (PMO B)",
@@ -589,7 +589,7 @@ export const publicationConstant = [
     ],
     other_details:"Molecular Catalysis., 440, 66 - 74 (2017)",
     year:"2017",
-    doi:"DOI:https://doi.org/10.1016/j.mcat.2017.07.018."
+    doi:"https://https://doi.org/10.1016/j.mcat.2017.07.018."
   },{
     id:"pub_050",
     title:"Exploration of amination reactions on highly extendable active sites of Pd (II)-3-allylsalicylaldiminophenol (ASIP) complex over thiofunctionalized SBA-15",
@@ -600,7 +600,7 @@ export const publicationConstant = [
     ],
     other_details:" Microporous and Mesoporous Materials., 242, 173 - 181 (2017)",
     year:"2017",
-    doi:"DOI:https://doi.org/10.1016/j.micromeso.2017.01.026."
+    doi:"https://https://doi.org/10.1016/j.micromeso.2017.01.026."
   },{
     id:"pub_051",
     title:"A Convenient Route for Au@Ti-SiO2 Nanocatalyst Synthesis and its Application for Room Temperature CO Oxidation",
@@ -613,7 +613,7 @@ export const publicationConstant = [
     ],
     other_details:"The Journal of Physical Chemistry C., 121(9), 4946 - 4957 (2017)",
     year:"2017",
-    doi:"DOI:10.1021/acs.jpcc.6b10202."
+    doi:"https://10.1021/acs.jpcc.6b10202."
   },{
     id:"pub_052",
     title:"Diverse reactivity trends of Ni surface in Au@Ni core-shell nanoparticle probed by Near Ambient Pressure (NAP) XPS",
@@ -625,7 +625,7 @@ export const publicationConstant = [
     ],
     other_details:"Catalysis Science & Technology., (2017)",
     year:"2017",
-    doi:"DOI:10.1039/C7CY01070B."
+    doi:"https://10.1039/C7CY01070B."
   },{
     id:"pub_053",
     title:`Model Nanoparticles in Catalysis, book chapter in "Metal Nanoparticles and Clusters Advances in Synthesis, Properties and Applications"`,
@@ -636,7 +636,7 @@ export const publicationConstant = [
     ],
     other_details:"Springer (2017)., , 165 - 199 (2018)",
     year:"2017",
-    doi:"DOI:doi.org/10.1007/978-3-319-68053-8_5."
+    doi:"https://doi.org/10.1007/978-3-319-68053-8_5."
   },{
     id:"pub_054",
     title:" Ru(II)-functionalized SBA-15 as highly chemoselective, acid free and sustainable heterogeneous catalyst for acetalization of aldehydes and ketones",
@@ -675,7 +675,7 @@ export const publicationConstant = [
     ],
     other_details:"Journal of the American Chemical Society., , (2018)",
     year:"2018",
-    doi:"DOI:10.1021/jacs.8b01286."
+    doi:"https://10.1021/jacs.8b01286."
   },{
     id:"pub_057",
     title:"Selective oxidation of cyclohexane to cyclohexanone using chromium oxide supported mesoporous MCM-41 nanospheres: Probing the nature of catalytically active chromium sites",
@@ -705,7 +705,7 @@ export const publicationConstant = [
     ],
     other_details:"Macromolecules., , (2018)",
     year:"2018",
-    doi:"DOI:10.1002/cnma.201800081."
+    doi:"https://10.1002/cnma.201800081."
   },{
     id:"pub_059",
     title:"Mesoporous shell@macroporous core aluminosilicates as sustainable nanocatalysts for direct N-alkylation of Amines",
@@ -719,7 +719,38 @@ export const publicationConstant = [
     ],
     other_details:"ChemNanoMat., (accepted as VIP article), (2018)",
     year:"2018",
-    doi:"DOI:10.1002/cnma.201800081."
+    doi:"https://10.1002/cnma.201800081."
+  },{
+    id:"pub_060",
+    title:"Enhanced selectivity of 3-D ordered macroporous Pt/Al2O3 catalysts in nitrites removal from water",
+    authors:[
+      "A.C. SunilSekhar",
+      "A.Zaki",
+      "S.Troncea",
+      "S.Casale",
+      "C.P.Vinod",
+      "J.P.Dacquin*",
+      "P.Granger"
+    ],
+    other_details:"Applied Catalysis A: General., , (2018)",
+    year:"2018",
+    doi:"https://10.1016/j.apcata.2018.07.014."
+  },{
+    id:"pub_061",
+    title:"Highly Stable COF?Supported Co/Co(OH)2 Nanoparticles Heterogeneous Catalyst for Reduction of Nitrile/Nitro Compounds under Mild Conditions",
+    authors:[
+      "Dinesh Mullangi",
+      "Debanjan Chakraborty",
+      "Anu Pradeep",
+      "Vijay Koshti",
+      "C. P. Vinod",
+      "Soumendranath Panja",
+      "Sunil Nair",
+      "Ramanathan Vaidhyanathan*"
+    ],
+    other_details:"Small., , (2018)",
+    year:"2018",
+    doi:"https://10.1002/smll.201801233."
   }
 
 ];

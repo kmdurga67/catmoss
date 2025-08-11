@@ -1,0 +1,183 @@
+import ADITYA from "../assets/team/Aditya.jpg";
+import ARUNDATHI from "../assets/team/Arundathi.jpeg";
+import ASWIN from "../assets/team/Aswin.jpeg";
+import POOJA from "../assets/team/Pooja.jpeg";
+import SANIKA from "../assets/team/Sanika.jpeg";
+import SANKET from "../assets/team/Sanket.jpeg";
+import SRINATH from "../assets/team/Srinath.jpeg";
+import SRISHTI from "../assets/team/Srishti .jpeg";
+import SUMANTA from "../assets/team/Sumanta.jpg";
+import TWINKLE from "../assets/team/Twinkle.jpeg";
+import VISHNU from "../assets/team/Vishnu.jpeg";
+
+export const groupMembers = [
+    {
+        "id": 1,
+        "name": "Sanket Bhumare",
+        "designation": "PhD SRF",
+        "researchArea": "Utilization of CO2 and CH4 under mild reaction conditions",
+        "conferences": [
+            "9th Green and Sustainable Chemistry Conference by elsevier",
+            "Indo-French Seminar on Catalysis for Sustainability (CIFES), IISER TVM",
+            "NCL RF conference"
+        ],
+        "awards": [],
+        "publications": [],
+        "patents": [],
+        "imageURL":SANKET
+    },
+    {
+        "id": 2,
+        "name": "Twinkle Gorai",
+        "designation": "DST-Inspire SRF",
+        "researchArea": "CO2 fixation into cyclic organic carbonates (COCs) and its application in aqueous zinc ion battery",
+        "awards": [
+            {
+                "title": "CACEE 2024 Best Poster Award",
+                "conference": "TIFR Mumbai"
+            }
+        ],
+        "achievements": [
+            "AcSIR-RMIT Dual Ph.D Program under Dr. Suresh Bhargava, Dr. Selvekannan Periasamy, and Dr. Paramita Koley"
+        ],
+        "publications": [
+            {
+                "title": "Publication 1",
+                "doi": "10.1016/j.cej.2025.163159",
+                "url": "https://doi.org/10.1016/j.cej.2025.163159"
+            },
+            {
+                "title": "Publication 2",
+                "doi": "10.1002/chem.202500873",
+                "url": "https://doi.org/10.1002/chem.202500873"
+            }
+        ],
+        "patents": [],
+        "imageURL":TWINKLE
+    },
+    {
+        "id": 3,
+        "name": "Pooja Nehra",
+        "designation": "PhD SRF",
+        "researchArea": "Developing efficient catalytic materials for hydrogenation of CO2 to value added products & biomass conversion",
+        "publications": [
+            {
+                "title": "Selective Hydrogenation of Furfural to Furfuryl Alcohol over Pd Supported on Ternary Oxide in Aqueous Medium Under Mild Conditions",
+                "year": 2025,
+                "journal": "ChemCatChem"
+            }
+        ],
+        "awards": [
+            {
+                "title": "Best poster award in catalysis & inorganic chemistry division",
+                "conference": "NCL-RF Agnimitra Memorial Poster Award, National Science Day 2024 at CSIR-NCL, Pune"
+            },
+            {
+                "title": "Best poster award",
+                "conference": "International Conference on Carbon Capture & Utilisation 2024 at JNCASR, India"
+            }
+        ],
+        "conferences": [
+            "Indo-French seminar on Catalysis for sustainability at IISER TVM"
+        ],
+        "patents": [],
+        "imageURL":POOJA
+    },
+    {
+        "id": 4,
+        "name": "Srishti Kesarwani",
+        "designation": "PhD SRF",
+        "researchArea": "Tailored Nanocatalysts for Sustainable Biomass and CH4 Valorization",
+        "conferences": [],
+        "awards": [],
+        "publications": [],
+        "patents": [],
+        "imageURL":SRISHTI
+    },
+    {
+        "id": 5,
+        "name": "Arundhathi K V",
+        "designation": "PhD SRF",
+        "researchArea": "Developing Novel Catalysts for Methane and Nitrogen Activation",
+        "conferences": [],
+        "awards": [],
+        "publications": [],
+        "patents": [],
+        "imageURL":ARUNDATHI
+    },
+    {
+        "id": 6,
+        "name": "Sanika U",
+        "designation": "JRF",
+        "researchArea": "Design and development of novel catalysts for CO2 reduction. CO2 fixation through organic drug intermediates synthesis",
+        "conferences": [],
+        "awards": [],
+        "publications": [],
+        "patents": [],
+        "imageURL":SANIKA
+    },
+    {
+        "id": 7,
+        "name": "Srinath Das",
+        "designation": "Project Associate-I",
+        "researchArea": "Employing operando NAP-XPS and DRIFTS to elucidate structure-composition-function correlations in catalytic reactions",
+        "patents": [
+            {
+                "title": "A biopolymer-based metal-organic framework composite and method of fabrication thereof",
+                "inventors": "Choudhary Munmun, De Asmita, Das Srinath, Mishra Sumit",
+                "status": "Published",
+                "publishedDate": "2024-09-20",
+                "filedDate": "2024-07-12",
+                "applicationNo": "202431053454"
+            }
+        ],
+        "conferences": [],
+        "awards": [],
+        "publications": [],
+        "imageURL":SRINATH
+    },
+    {
+        "id": 8,
+        "name": "Sumanta Giri",
+        "designation": "Project Associate-I",
+        "researchArea": "Thermal and Electro-Catalysis of CO2 and N2 reduction",
+        "conferences": [],
+        "awards": [],
+        "publications": [],
+        "patents": [],
+        "imageURL":SUMANTA
+    },
+    {
+        "id": 9,
+        "name": "Aditya A Nile",
+        "designation": "Project Associate 1",
+        "researchArea": "Designing and optimizing CO₂-to-methanol processes via catalytic hydrogenation with emphasis on reactor operation and process integration within the CCUS framework",
+        "conferences": [],
+        "awards": [],
+        "publications": [],
+        "patents": [],
+        "imageURL":ADITYA
+    },
+    {
+        "id": 10,
+        "name": "Vishnu vyas",
+        "designation": "Project Associate-1",
+        "researchArea": "Finding sustainable solutions for carbon capture, utilization and storage through designing efficient catalytic materials",
+        "conferences": [],
+        "awards": [],
+        "publications": [],
+        "patents": [],
+        "imageURL":VISHNU
+    },
+    {
+        "id": 11,
+        "name": "Aswin Sreenivas B K",
+        "designation": "Project Associate 1",
+        "researchArea": "Experimental descriptors by unravelling oxygen and nitrogen electrochemistry through surface spectroscopy techniques",
+        "conferences": [],
+        "awards": [],
+        "publications": [],
+        "patents": [],
+        "imageURL":ASWIN
+    }
+]
