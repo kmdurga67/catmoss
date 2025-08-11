@@ -546,20 +546,180 @@ export const publicationConstant = [
     year:"2016",
     doi:"DOI:10.1016/j.apcata.2016.05.023."
   },
-  // {
-  //   id:"pub_047",
-  //   title:"Highly stable In-SBA-15 catalyst for vapor phase Beckmann rearrangement reaction",
-  //   authors:[
-  //     "Rawesh Kumara",
-  //     "Sneha Shaha",
-  //     "Jitendra Bahadur",
-  //     "Yuri B. Melnichenko",
-  //     "Debasis Sen",
-  //     "S. Mazumder",
-  //     "C. P. Vinod",
-  //     "Biswajit Chowdhury"
-  //   ],
-  //   year:""
-  // }
+  {
+    id:"pub_047",
+    title:"Highly stable In-SBA-15 catalyst for vapor phase Beckmann rearrangement reaction",
+    authors:[
+      "Rawesh Kumara",
+      "Sneha Shaha",
+      "Jitendra Bahadur",
+      "Yuri B. Melnichenko",
+      "Debasis Sen",
+      "S. Mazumder",
+      "C. P. Vinod",
+      "Biswajit Chowdhury"
+    ],
+    other_details:"Microporous and Mesoporous Materials., (2016)",
+    year:"2016",
+    doi:"DOI:10.1016/j.micromeso.2016.07.024."
+  },{
+    id:"pub_048",
+    title:"Low Band Gap Benzimidazole COF Supported Ni3N as highly active OER catalyst",
+    authors:[
+      "Shyamapada Nandi",
+      "Santosh Kumar Singh",
+      "Dinesh Mullangi",
+      "Rajith Illathvalappil",
+      "Leena George",
+      "C. P. Vinod",
+      "Sreekumar Kurungot",
+      "Ramanathan Vaidhyanathan"
+    ],
+    other_details:"Advanced Energy Materials., 6(24), (2016)",
+    year:"2016",
+    doi:"DOI:10.1002/aenm.201601189."
+  },{
+    id:"pub_049",
+    title:"A heterogeneous route for transfer hydrogenation reactions of ketones using Ru (II) Cymene complex over modified benzene-organosilica (PMO B)",
+    authors:[
+      "A Lazar",
+      "S Silpa",
+      "CP Vinod",
+      "AP Singh"
+    ],
+    other_details:"Molecular Catalysis., 440, 66 - 74 (2017)",
+    year:"2017",
+    doi:"DOI:https://doi.org/10.1016/j.mcat.2017.07.018."
+  },{
+    id:"pub_050",
+    title:"Exploration of amination reactions on highly extendable active sites of Pd (II)-3-allylsalicylaldiminophenol (ASIP) complex over thiofunctionalized SBA-15",
+    authors:[
+      "A Lazar",
+      "CP Vinod",
+      "AP Singh"
+    ],
+    other_details:" Microporous and Mesoporous Materials., 242, 173 - 181 (2017)",
+    year:"2017",
+    doi:"DOI:https://doi.org/10.1016/j.micromeso.2017.01.026."
+  },{
+    id:"pub_051",
+    title:"A Convenient Route for Au@Ti-SiO2 Nanocatalyst Synthesis and its Application for Room Temperature CO Oxidation",
+    authors:[
+      "Yogita Soni",
+      "E. A. Anumol",
+      "Chandrani Nayak",
+      "Leonard Deepak Francis",
+      "C. P. Vinod"
+    ],
+    other_details:"The Journal of Physical Chemistry C., 121(9), 4946 - 4957 (2017)",
+    year:"2017",
+    doi:"DOI:10.1021/acs.jpcc.6b10202."
+  },{
+    id:"pub_052",
+    title:"Diverse reactivity trends of Ni surface in Au@Ni core-shell nanoparticle probed by Near Ambient Pressure (NAP) XPS",
+    authors:[
+      "A B Vysakh",
+      "Ruchi Jain",
+      "C S Gopinath",
+      "C. P. Vinod*"
+    ],
+    other_details:"Catalysis Science & Technology., (2017)",
+    year:"2017",
+    doi:"DOI:10.1039/C7CY01070B."
+  },{
+    id:"pub_053",
+    title:`Model Nanoparticles in Catalysis, book chapter in "Metal Nanoparticles and Clusters Advances in Synthesis, Properties and Applications"`,
+    authors:[
+      "C P Vinod*",
+      "A B Vysakh",
+      "S Sreedhala"
+    ],
+    other_details:"Springer (2017)., , 165 - 199 (2018)",
+    year:"2017",
+    doi:"DOI:doi.org/10.1007/978-3-319-68053-8_5."
+  },{
+    id:"pub_054",
+    title:" Ru(II)-functionalized SBA-15 as highly chemoselective, acid free and sustainable heterogeneous catalyst for acetalization of aldehydes and ketones",
+    authors:[
+      "Anish Lazar",
+      "K J Betsy",
+      "C. P. Vinod",
+      "A. P. Singh"
+    ],
+    other_details:"Catalysis Communications., 104, 62 - 66 (2018)",
+    year:"2018",
+    doi:"https://doi.org/10.1016/j.catcom.2017.10.016."
+  },{
+    id:"pub_055",
+    title:"Highly selective aqueous phase hydrogenation of phenols over nanostructured RuO 2 on MCM-41 catalysts",
+    authors:[
+      "K. J. Betsy",
+      "Anish Lazar",
+      "C. P. Vinod*"
+    ],
+    other_details:"Nano-Structures & Nano-Objects., 13, 36 - 43 (2018)",
+    year:"2018",
+    doi:"https://doi.org/10.1016/j.nanoso.2017.11.004"
+  },{
+    id:"pub_056",
+    title:"Iron Catalyzed Hydroformylation of Alkenes under Mild Conditions: Evidence of an Fe (II) Catalyzed Process",
+    authors:[
+      "Swechchha Pandey",
+      "K Vipin Raj",
+      "Dinesh R Shinde",
+      "Kumar Vanka",
+      "Varchaswal Kashyap",
+      "Sreekumar Kurungot",
+      "C P Vinod",
+      "Samir H Chikkali*"
+    ],
+    other_details:"Journal of the American Chemical Society., , (2018)",
+    year:"2018",
+    doi:"DOI:10.1021/jacs.8b01286."
+  },{
+    id:"pub_057",
+    title:"Selective oxidation of cyclohexane to cyclohexanone using chromium oxide supported mesoporous MCM-41 nanospheres: Probing the nature of catalytically active chromium sites",
+    authors:[
+      "K. J. Betsy",
+      "Chandrani Nayak",
+      "Anish Lazar",
+      "Athira Krishnan",
+      "D. Bhattacharyya",
+      "S. N. Jha",
+      "C. P. Vinod*"
+    ],
+    other_details:"ChemCatChem (2018)",
+    year:"2018",
+    doi:"10.1002/cctc.201800309"
+  },{
+    id:"pub_058",
+    title:"Judicious Reduction of Supported Ti Catalyst Enables Access to Disentangled Ultrahigh Molecular Weight Polyethylene",
+    authors:[
+      "Ravindra P Gote",
+      "Dipa Mandal",
+      "Ketan Patel",
+      "Krishnaroop Chaudhuri",
+      "CP Vinod",
+      "Ashish K Lele",
+      "Samir H Chikkali*"
+    ],
+    other_details:"Macromolecules., , (2018)",
+    year:"2018",
+    doi:"DOI:10.1002/cnma.201800081."
+  },{
+    id:"pub_059",
+    title:"Mesoporous shell@macroporous core aluminosilicates as sustainable nanocatalysts for direct N-alkylation of Amines",
+    authors:[
+      "A C Sunil Sekhar",
+      "Anumol Erumpukuthickal Ashokkumar",
+      "C T Cygnet",
+      "S Vidhya Lakshmi",
+      "Francis Leonard Deepak",
+      "C P Vinod*"
+    ],
+    other_details:"ChemNanoMat., (accepted as VIP article), (2018)",
+    year:"2018",
+    doi:"DOI:10.1002/cnma.201800081."
+  }
 
 ];
