@@ -31,7 +31,7 @@ const GroupLeaderCard = ({ leader }) => {
                             )}
                             <div className="absolute -bottom-4 left-1/2 transform -translate-x-1/2">
                                 <span className="inline-flex items-center px-4 py-1 rounded-full text-sm font-medium bg-white text-indigo-700 shadow-md">
-                                    Group Leader
+                                    Team Leader
                                 </span>
                             </div>
                         </div>
@@ -337,7 +337,7 @@ const GroupMembers = () => {
                 {groupLeader.length > 0 && (
                     <section aria-labelledby="group-leader-heading" className="mb-12">
                         <h2 id="group-leader-heading" className="text-2xl font-bold text-gray-800 mb-6">
-                            Group Leader
+                            Team Leader
                         </h2>
                         <GroupLeaderCard leader={groupLeader[0]} />
                     </section>
