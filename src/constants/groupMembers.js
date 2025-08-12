@@ -194,3 +194,41 @@ export const groupLeader = [
         imageURL: CPVINOD
     }
 ];
+
+export const phdAlumini = [
+    {
+        id:"phdalumini_001",
+        name:"Dr. Sunil Shekhar A C",
+        tenure:"2011 - 2016",
+        thesisTitle:"Metal oxide supported nobel metal catalyst: Powders, Thin films and Nanostructures",
+        currentPosition:"Assistant Professor, Department of Chemistry, Union Christian College, Aluva-683102",
+        email:["sunilsekhar@uccollege.edu.in","sunilsekharac@gmail.com"],
+        imageURL:""
+    },{
+        id:"phdalumini_002",
+        name:"Dr. S. Shreedhala",
+        tenure:"2011 - 2016",
+        thesisTitle:"Studies on structured model nanoparticle surfaces for active site elucidation in heterogenous catalysis",
+        currentPosition:"N/A",
+        email:[
+            "srdhls4@gmail.com"
+        ],
+        imageURL:""
+    },{
+        id:"phdalumini_003",
+        name:"Dr. Vysakh A B",
+        tenure:"2011 - 2017",
+        thesisTitle:"Reactivity of Strained Bimetallics Systems: A Case Study of Au-Ni Nanoparticles",
+        currentPosition:"Assistant Manager (Research) at Indian Oil R&D Center",
+        email:"vysakhab@gmail.com",
+        imageURL:""
+    },{
+        id:"phdalumini_004",
+        name:"Dr. Yogita Soni",
+        tenure:"2013 - 2019",
+        thesisTitle:"New formulation for nobal metal (Au, Pd) supported metal oxides and their catalytic applications",
+        currentPosition:"Post doctoral researcher at Tufts University, Massachusetts, USA",
+        email:"yogitaksoni@gmail.com",
+        imageURL:""
+    }
+];
