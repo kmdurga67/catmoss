@@ -9,6 +9,7 @@ import SRISHTI from "../assets/team/Srishti .jpeg";
 import SUMANTA from "../assets/team/Sumanta.jpg";
 import TWINKLE from "../assets/team/Twinkle.jpeg";
 import VISHNU from "../assets/team/Vishnu.jpeg";
+import CPVINOD from "../assets/team/cpvinod.jpeg";
 
 export const groupMembers = [
     {
@@ -180,4 +181,16 @@ export const groupMembers = [
         "patents": [],
         "imageURL":ASWIN
     }
-]
+];
+
+export const groupLeader = [
+    {
+        id:"grphead_001",
+        name:"Dr. C. P. Vinod FRSC",
+        designation:"Chief Scientist & Prof (AcSIR)",
+        mail:"cp.vinod.ncl@csir.res.in",
+        description:"C P Vinod completed his PhD in 2001 under the guidance of Prof. CNR Rao FRS in the field of Surface Science and Catalysis from Jawaharlal Nehru Centre For Advanced Scientific Research, Bangalore. Subsequently, he worked as a postdoctoral fellow at several European universities like, the Technical University of Eindhoven, Technical University of Denmark and Cardiff University (UK). In 2010, he joined as Senior Scientist at CSIR-National Chemical Laboratory, Pune where he currently holds the position of Senior Principal Scientist. He is also a Professor at the Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India, an institute of national importance.",
+        researchFocus:"We work in the field of surface science  with special emphasize on understanding nanoscale catalysis phenomena. To design new functional nanomaterials for catalytic application requires a molecular level understanding on the bond breaking and making process on the catalyst surface. We create flat model catalyst surfaces or structured nanoparticles and employ surface sensitive technique like X-ray Photoelectron Spectroscopy (XPS) and high resolution microscopes like STM/AFM and HRTEM to arrive at structure vs activity correlations",
+        imageURL: CPVINOD
+    }
+];

@@ -1,6 +1,116 @@
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
-import { groupMembers } from '../constants/groupMembers';
+import { groupMembers, groupLeader } from '../constants/groupMembers';
+
+const GroupLeaderCard = ({ leader }) => {
+    const [expanded, setExpanded] = useState(false);
+    const [imageError, setImageError] = useState(false);
+
+    const handleImageError = () => {
+        setImageError(true);
+    };
+
+    return (
+        <div className="w-full mb-12" data-testid="group-leader-card">
+            <div className="relative bg-white rounded-xl shadow-lg overflow-hidden border border-gray-100 transition-all duration-300 hover:shadow-xl">
+                <div className="md:flex">
+                    <div className="md:w-1/3 lg:w-1/4 p-6 flex items-center justify-center bg-gradient-to-br from-blue-600 to-indigo-700">
+                        <div className="relative">
+                            {leader.imageURL && !imageError ? (
+                                <img
+                                    src={leader.imageURL}
+                                    alt={leader.name}
+                                    onError={handleImageError}
+                                    className="w-48 h-48 rounded-full object-cover border-4 border-white shadow-lg"
+                                    loading="lazy"
+                                />
+                            ) : (
+                                <div className="w-48 h-48 rounded-full bg-white bg-opacity-20 flex items-center justify-center text-white text-6xl font-bold border-4 border-white shadow-lg">
+                                    {leader.name.charAt(0)}
+                                </div>
+                            )}
+                            <div className="absolute -bottom-4 left-1/2 transform -translate-x-1/2">
+                                <span className="inline-flex items-center px-4 py-1 rounded-full text-sm font-medium bg-white text-indigo-700 shadow-md">
+                                    Group Leader
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="md:w-2/3 lg:w-3/4 p-6">
+                        <div className="flex flex-col h-full">
+                            <div>
+                                <h2 className="text-2xl font-bold text-gray-800">{leader.name}</h2>
+                                <p className="text-lg text-indigo-600 font-medium mb-2">{leader.designation}</p>
+                                <div className="flex flex-wrap items-center gap-4 mb-4">
+                                    <a 
+                                        href={`mailto:${leader.mail}`}
+                                        className="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors"
+                                        aria-label={`Email ${leader.name}`}
+                                    >
+                                        <svg className="w-5 h-5 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                                        </svg>
+                                        {leader.mail}
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div className="mt-4">
+                                <h3 className="text-lg font-semibold text-gray-800 mb-2">About</h3>
+                                <p className="text-gray-600 text-justify">
+                                    {expanded ? leader.description : `${leader.description.substring(0, 200)}...`}
+                                </p>
+                                {leader.description.length > 200 && (
+                                    <button 
+                                        onClick={() => setExpanded(!expanded)}
+                                        className="mt-2 text-indigo-600 hover:text-indigo-800 text-sm font-medium transition-colors"
+                                        aria-expanded={expanded}
+                                        aria-controls="leader-description"
+                                    >
+                                        {expanded ? 'Show less' : 'Read more'}
+                                    </button>
+                                )}
+                            </div>
+
+                            <div className="mt-4">
+                                <h3 className="text-lg font-semibold text-gray-800 mb-2">Research Focus</h3>
+                                <p className="text-gray-600 text-justify" id="research-focus">{leader.researchFocus}</p>
+                            </div>
+
+                            <div className="mt-auto pt-4 flex flex-wrap gap-2">
+                                <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
+                                    Surface Science
+                                </span>
+                                <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-green-100 text-green-800">
+                                    Nanocatalysis
+                                </span>
+                                <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-purple-100 text-purple-800">
+                                    XPS Spectroscopy
+                                </span>
+                                <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-yellow-100 text-yellow-800">
+                                    HRTEM/STM
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
+};
+
+GroupLeaderCard.propTypes = {
+    leader: PropTypes.shape({
+        id: PropTypes.string.isRequired,
+        name: PropTypes.string.isRequired,
+        designation: PropTypes.string.isRequired,
+        mail: PropTypes.string.isRequired,
+        description: PropTypes.string.isRequired,
+        researchFocus: PropTypes.string.isRequired,
+        imageURL: PropTypes.string,
+    }).isRequired,
+};
 
 const ResearchGroupMemberCard = ({ member }) => {
     const {
@@ -27,6 +137,7 @@ const ResearchGroupMemberCard = ({ member }) => {
                             alt={member.name}
                             onError={handleImageError}
                             className="h-24 w-24 rounded-full object-cover border-4 border-white shadow-md"
+                            loading="lazy"
                         />
                     ) : (
                         <div className="h-24 w-24 rounded-full bg-white bg-opacity-20 flex items-center justify-center text-white text-4xl font-bold border-4 border-white shadow-md">
@@ -40,7 +151,6 @@ const ResearchGroupMemberCard = ({ member }) => {
                 <div className="flex-1">
                     <div className="text-center mb-4">
                         <h2 className="text-xl font-bold text-gray-800">{member.name}</h2>
-                        {/* <p className="text-sm font-medium text-indigo-600">{member.designation}</p> */}
                     </div>
 
                     <div className="mb-4 text-center">
@@ -103,7 +213,7 @@ const ResearchGroupMemberCard = ({ member }) => {
                                                 href={pub.url || '#'}
                                                 target="_blank"
                                                 rel="noopener noreferrer"
-                                                className="text-indigo-600 hover:text-indigo-800 flex items-start"
+                                                className="text-indigo-600 hover:text-indigo-800 flex items-start transition-colors"
                                             >
                                                 <span className="mr-1">•</span>
                                                 <span className="hover:underline">
@@ -224,69 +334,88 @@ const GroupMembers = () => {
                     </p>
                 </div>
 
-                <div className="mb-8 bg-white p-6 rounded-xl shadow-sm">
-                    <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
-                        <div className="w-full sm:flex-1">
-                            <div className="relative">
-                                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                    <svg className="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                                    </svg>
+                {groupLeader.length > 0 && (
+                    <section aria-labelledby="group-leader-heading" className="mb-12">
+                        <h2 id="group-leader-heading" className="text-2xl font-bold text-gray-800 mb-6">
+                            Group Leader
+                        </h2>
+                        <GroupLeaderCard leader={groupLeader[0]} />
+                    </section>
+                )}
+
+                <section aria-labelledby="team-members-heading">
+                    <h2 id="team-members-heading" className="text-2xl font-bold text-gray-800 mb-6">
+                        Team Members
+                    </h2>
+
+                    <div className="mb-8 bg-white p-6 rounded-xl shadow-sm">
+                        <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
+                            <div className="w-full sm:flex-1">
+                                <label htmlFor="search-researchers" className="sr-only">Search researchers</label>
+                                <div className="relative">
+                                    <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                                        <svg className="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                                        </svg>
+                                    </div>
+                                    <input
+                                        id="search-researchers"
+                                        type="text"
+                                        placeholder="Search by name, research area, or designation..."
+                                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+                                        value={searchTerm}
+                                        onChange={(e) => setSearchTerm(e.target.value)}
+                                    />
                                 </div>
-                                <input
-                                    type="text"
-                                    placeholder="Search by name, research area, or designation..."
-                                    className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
-                                    value={searchTerm}
-                                    onChange={(e) => setSearchTerm(e.target.value)}
-                                />
+                            </div>
+                            <div className="w-full sm:w-64">
+                                <label htmlFor="filter-designation" className="sr-only">Filter by designation</label>
+                                <select
+                                    id="filter-designation"
+                                    className="block w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+                                    value={filter}
+                                    onChange={(e) => setFilter(e.target.value)}
+                                >
+                                    <option value="">All Designations</option>
+                                    <option value="PhD SRF">PhD SRF</option>
+                                    <option value="JRF">JRF</option>
+                                    <option value="Project Associate">Project Associate</option>
+                                </select>
                             </div>
                         </div>
-                        <div className="w-full sm:w-64">
-                            <select
-                                className="block w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
-                                value={filter}
-                                onChange={(e) => setFilter(e.target.value)}
-                            >
-                                <option value="">All Designations</option>
-                                <option value="PhD SRF">PhD SRF</option>
-                                <option value="JRF">JRF</option>
-                                <option value="Project Associate">Project Associate</option>
-                            </select>
+                    </div>
+
+                    <div className="mb-4 text-sm text-gray-600">
+                        Showing {filteredMembers.length} of {groupMembers.length} researchers
+                    </div>
+
+                    {filteredMembers.length > 0 ? (
+                        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+                            {filteredMembers.map((member) => (
+                                <ResearchGroupMemberCard
+                                    key={member.id}
+                                    member={{
+                                        ...member,
+                                        awards: member.awards || [],
+                                        publications: member.publications || [],
+                                        conferences: member.conferences || [],
+                                        patents: member.patents || [],
+                                        achievements: member.achievements || [],
+                                        imageURL: member.imageURL || ''
+                                    }}
+                                />
+                            ))}
                         </div>
-                    </div>
-                </div>
-
-                <div className="mb-4 text-sm text-gray-600">
-                    Showing {filteredMembers.length} of {groupMembers.length} researchers
-                </div>
-
-                {filteredMembers.length > 0 ? (
-                    <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-                        {filteredMembers.map((member) => (
-                            <ResearchGroupMemberCard
-                                key={member.id}
-                                member={{
-                                    ...member,
-                                    awards: member.awards || [],
-                                    publications: member.publications || [],
-                                    conferences: member.conferences || [],
-                                    patents: member.patents || [],
-                                    achievements: member.achievements || [],
-                                    imageURL: member.imageURL || ''
-                                }}
-                            />
-                        ))}
-                    </div>
-                ) : (
-                    <div className="bg-white rounded-xl shadow-sm p-8 text-center">
-                        <svg className="mx-auto h-12 w-12 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                        </svg>
-                        <h3 className="mt-2 text-lg font-medium text-gray-900">No researchers found</h3>
-                        <p className="mt-1 text-gray-500">Try adjusting your search or filter criteria</p>
-                    </div>
-                )}
+                    ) : (
+                        <div className="bg-white rounded-xl shadow-sm p-8 text-center">
+                            <svg className="mx-auto h-12 w-12 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                            <h3 className="mt-2 text-lg font-medium text-gray-900">No researchers found</h3>
+                            <p className="mt-1 text-gray-500">Try adjusting your search or filter criteria</p>
+                        </div>
+                    )}
+                </section>
             </div>
         </div>
     );
