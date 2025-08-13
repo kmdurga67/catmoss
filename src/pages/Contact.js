@@ -5,7 +5,8 @@ import {
   MdLocationOn,
   MdWork,
   MdSchool,
-  MdScience
+  MdScience,
+  MdSend
 } from 'react-icons/md';
 import { FaClock } from 'react-icons/fa';
 
@@ -26,7 +27,7 @@ const Contact = () => {
     {
       icon: MdLocationOn,
       label: "Address",
-      value: `National Chemical Laboratory\nDr. Homi Bhabha Road\nPune 411008, India`
+      value: `Catalysis & Inorganic Chemistry Division \nNational Chemical Laboratory\nDr. Homi Bhabha Road\nPune 411008, India`
     },
     {
       icon: MdWork,
@@ -38,21 +39,21 @@ const Contact = () => {
   const openPositions = [
     {
       title: "PhD Candidates",
-      description: "Seeking motivated PhD students in heterogeneous catalysis and nanomaterials",
+      description: "Seeking motivated PhD students in heterogeneous catalysis, nanomaterials & surface science",
       requirements: [
-        "MSc in Chemistry/Chemical Engineering/Materials Science",
-        "CSIR-NET",
-        "Strong interest in surface science"
+        "MSc in Chemistry/ Chemical Engineering/ Materials Science with minimum 55% or 7.5 CGPA",
+        "CSIR-NET/ UGC-NET/ DST-INSPIRE ",
+        "Strong background in physical chemistry/ inorganic chemistry with an interest to learn & work with instruments"
       ]
     },
     {
-      title: "Junior Research Fellows (JRF)",
-      description: "Opportunities for JRFs in funded projects on sustainable catalysis",
+      title: "Project Assistants/ Associates",
+      description: "Opportunities for project assistants to work in the area of sustainable catalysis",
       requirements: [
         "Postgraduate in relevant discipline",
-        "Prior research experience preferred",
-        "Willingness to learn advanced characterization techniques"
-      ]
+        "Please visit NCL job page for current vacancies"
+      ],
+      visitLink:"https://jobs.ncl.res.in/"
     }
   ];
 
@@ -113,7 +114,7 @@ const Contact = () => {
                   Availability
                 </h3>
                 <p className="text-gray-600">
-                  <span className="font-medium">Office Hours:</span> Monday-Friday, 10:00 AM - 5:30 PM IST
+                  <span className="font-medium">Office Hours:</span> Monday-Friday, 10:00 AM - 6:30 PM IST
                 </p>
                 <p className="text-gray-600 mt-1">
                   Please email for appointment scheduling
@@ -142,10 +143,20 @@ const Contact = () => {
                       {position.requirements.map((req, i) => (
                         <li key={i} className="flex items-start">
                           <span className="text-indigo-500 mr-2">•</span>
-                          <span className="text-gray-700">{req}</span>
+                          <span className="text-gray-700">{req} </span>
                         </li>
                       ))}
                     </ul>
+                   {position.visitLink && (  <div className="mt-4">
+                      <a
+                        target='_blank'
+                        href="https://jobs.ncl.res.in/"
+                        className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                      >
+                        Apply Now
+                        <MdSend className="ml-2 h-4 w-4" />
+                      </a>
+                    </div>)}
 
                     <div className="mt-4">
                       <a

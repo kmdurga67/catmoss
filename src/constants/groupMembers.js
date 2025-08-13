@@ -118,7 +118,7 @@ export const groupMembers = [
     {
         "id": 6,
         "name": "Sanika U",
-        "designation": "JRF",
+        "designation": "PhD JRF",
         "researchArea": "Design and development of novel catalysts for CO2 reduction. CO2 fixation through organic drug intermediates synthesis",
         "conferences": [],
         "awards": [],
@@ -215,7 +215,7 @@ export const phdAlumini = [
         imageURL: SUNILSEKHAR
     },{
         id:"phdalumini_002",
-        name:"Dr. S. Shreedhala",
+        name:"Dr. S. Sreedhala",
         tenure:"2011 - 2016",
         thesisTitle:"Studies on structured model nanoparticle surfaces for active site elucidation in heterogenous catalysis",
         currentPosition:"N/A",
