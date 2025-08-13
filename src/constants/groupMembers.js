@@ -10,6 +10,15 @@ import SUMANTA from "../assets/team/Sumanta.jpg";
 import TWINKLE from "../assets/team/Twinkle.jpeg";
 import VISHNU from "../assets/team/Vishnu.jpeg";
 import CPVINOD from "../assets/team/cpvinod.jpeg";
+import ANISHLAZAR from "../assets/team/Anishlazar.PNG";
+import BETSYKJ from "../assets/team/Betsykj.PNG";
+import GOVINDPORWAL from "../assets/team/GovindPorwal.PNG";
+import PREETIJAIN from "../assets/team/PreetiJain.PNG";
+import SHARADGUPTA from "../assets/team/SharadGupta.PNG";
+import SHREEDHALA from "../assets/team/Shreedhala.PNG";
+import SUNILSEKHAR from "../assets/team/Sunilsekhar.PNG";
+import VYSAKHAB from "../assets/team/Vysakhab.PNG";
+import YOGITASONI from "../assets/team/yogitasoni.PNG";
 
 export const groupMembers = [
     {
@@ -203,7 +212,7 @@ export const phdAlumini = [
         thesisTitle:"Metal oxide supported nobel metal catalyst: Powders, Thin films and Nanostructures",
         currentPosition:"Assistant Professor, Department of Chemistry, Union Christian College, Aluva-683102",
         email:["sunilsekhar@uccollege.edu.in","sunilsekharac@gmail.com"],
-        imageURL:""
+        imageURL: SUNILSEKHAR
     },{
         id:"phdalumini_002",
         name:"Dr. S. Shreedhala",
@@ -213,7 +222,7 @@ export const phdAlumini = [
         email:[
             "srdhls4@gmail.com"
         ],
-        imageURL:""
+        imageURL:SHREEDHALA
     },{
         id:"phdalumini_003",
         name:"Dr. Vysakh A B",
@@ -221,7 +230,7 @@ export const phdAlumini = [
         thesisTitle:"Reactivity of Strained Bimetallics Systems: A Case Study of Au-Ni Nanoparticles",
         currentPosition:"Assistant Manager (Research) at Indian Oil R&D Center",
         email:"vysakhab@gmail.com",
-        imageURL:""
+        imageURL:VYSAKHAB
     },{
         id:"phdalumini_004",
         name:"Dr. Yogita Soni",
@@ -229,6 +238,46 @@ export const phdAlumini = [
         thesisTitle:"New formulation for nobal metal (Au, Pd) supported metal oxides and their catalytic applications",
         currentPosition:"Post doctoral researcher at Tufts University, Massachusetts, USA",
         email:"yogitaksoni@gmail.com",
-        imageURL:""
+        imageURL:YOGITASONI
+    },{
+        id:"phdalumini_005",
+        name:"Dr. Anish Lazar",
+        tenure: "2014 - 2018",
+        thesisTitle:"Metal-organofunctionalized SBA-15 catalysts for fine chemical synthesis",
+        currentPosition:"Post-doctoral Fellow at IS2M, Mulhouse, France",
+        email:"anishlaz@gmail.com",
+        imageURL:ANISHLAZAR
+    },{
+        id:"phdalumini_006",
+        name:"Dr. Sharad Gupta",
+        tenure:"2014 - 2020",
+        thesisTitle:"Exploring Metal Oxide Nanostructures for CO2 Hydrogenation",
+        currentPosition:"Post-doctoral Fellow at UCEiV Universite Du Littoral Cote D'Opale  (ULCO) Dunkerque, France",
+        email:"sharadgupta195@gmail.com",
+        imageURL:SHARADGUPTA
+    },{
+        id:"phdalumini_007",
+        name:"Dr. Preeti Jain",
+        tenure:"2014 - 2020",
+        thesisTitle:"Investigation on Cobalt-based catalysts for Energy Applications",
+        currentPosition:"Post-doctoral Fellow, CEBC, Kanas State University, Lawrence, KS, USA",
+        email:"preetijanney@gmail.com",
+        imageURL:PREETIJAIN
+    },{
+        id:"phdalumini_008",
+        name:"Dr. Betsy K J",
+        tenure:"2018 - 2022",
+        thesisTitle:"Exploring the Chemical Modifications in Periodic Mesoporous Silica Materials for Heterogenous Catalytic Applications",
+        currentPosition:"Department of Chemistry, Denmark Technical University (DTU), Denmark",
+        email:"betzeekj@gmail.com",
+        imageURL:BETSYKJ
+    },{
+        id:"phdalumini_009",
+        name:"Dr. Govind Porwal",
+        tenure:"2016 - 2020",
+        thesisTitle:"Insights on the synthesis of fine chemicals and its upscaling on heterogenous catalysts",
+        currentPosition:"Project Scientist, NCL Pune",
+        email:"govind2708@gmail.com",
+        imageURL:GOVINDPORWAL
     }
 ];

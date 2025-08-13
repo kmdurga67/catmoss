@@ -41,7 +41,7 @@ const Contact = () => {
       description: "Seeking motivated PhD students in heterogeneous catalysis and nanomaterials",
       requirements: [
         "MSc in Chemistry/Chemical Engineering/Materials Science",
-        "CSIR-NET/GATE qualified",
+        "CSIR-NET",
         "Strong interest in surface science"
       ]
     },
