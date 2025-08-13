@@ -81,7 +81,7 @@ const Contact = () => {
                 <div className="text-center sm:text-left">
                   <h2 className="text-2xl font-bold text-gray-800">Dr. C. P. Vinod FRSC</h2>
                   <p className="text-indigo-600 font-medium">Chief Scientist & Prof (AcSIR)</p>
-                  <p className="text-gray-600">Catalysis & Materials Science Division</p>
+                  <p className="text-gray-600">Catalysis & Inorganic Chemistry Division</p>
                 </div>
               </div>
 

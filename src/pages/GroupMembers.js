@@ -265,7 +265,7 @@ const ContentSection = ({ title, content, small = false }) => (
         <h4 className={`${small ? 'text-xs' : 'text-sm'} font-semibold uppercase tracking-wider text-gray-700 mb-1`}>
             {title}
         </h4>
-        <p className={`${small ? 'text-sm' : 'text-base'} text-gray-600 ${small ? '' : 'text-justify'}`}>
+        <p className={`${small ? 'text-sm' : 'text-base'} text-gray-600 ${small ? '' : 'text-justify'} text-justify`}>
             {content}
         </p>
     </div>
@@ -408,6 +408,8 @@ const GroupMembers = () => {
                     </div>
 
                     {filteredMembers.length > 0 ? (
+                        <>
+                        <p className='text-gray-600 font-medium pb-4'>Current PhD Students</p>
                         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
                             {filteredMembers.map((member) => (
                                 <ResearchGroupMemberCard
@@ -416,6 +418,7 @@ const GroupMembers = () => {
                                 />
                             ))}
                         </div>
+                        </>
                     ) : (
                         <EmptyState message="No researchers found" suggestion="Try adjusting your search or filter criteria" />
                     )}
