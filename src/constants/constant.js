@@ -58,6 +58,10 @@ export const NavItems = [
     label: "Contact",
     link: "/contact",
   },
+  {
+    label:"Apply Now",
+    link:"https://jobs.ncl.res.in/"
+  }
 ];
 
 export const workDetails = "We work in the field of heterogeneous catalysis and surface science with an emphasis on sustainability. Designing new functional nanomaterials for a catalytic application requires a molecular-level understanding of the bond-breaking and making process on the catalyst surface. We also create flat model catalyst surfaces or structured nanoparticles and employ surface-sensitive techniques like X-ray Photoelectron Spectroscopy (XPS) and high-resolution microscopes like HRTEM to arrive at structure vs activity correlations.";

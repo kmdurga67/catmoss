@@ -9,6 +9,7 @@ import {
   MdSend
 } from 'react-icons/md';
 import { FaClock } from 'react-icons/fa';
+import CPVINOD from "../assets/team/cpvinod.jpeg";
 
 const Contact = () => {
   const contactInfo = [
@@ -18,6 +19,12 @@ const Contact = () => {
       value: "cp.vinod.ncl@csir.res.in",
       href: "mailto:cp.vinod.ncl@csir.res.in"
     },
+    // {
+    //   icon: MdEmail,
+    //   label:"Alternate email",
+    //   value:"cpvinod@gmail.com",
+    //   href: "mailto:cpvinod@gmail.com"
+    // },
     {
       icon: MdPhone,
       label: "Phone",
@@ -75,7 +82,7 @@ const Contact = () => {
               <div className="flex flex-col sm:flex-row items-center mb-8">
                 <div className="mb-4 sm:mb-0 sm:mr-6">
                   <div className="h-24 w-24 rounded-full bg-indigo-100 flex items-center justify-center text-indigo-600">
-                    <MdScience className="h-12 w-12" />
+                    <img src={CPVINOD} alt='cpvinod' />
                   </div>
                 </div>
                 <div className="text-center sm:text-left">
