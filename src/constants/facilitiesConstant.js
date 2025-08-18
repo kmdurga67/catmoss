@@ -10,6 +10,8 @@ import FACILITY9 from "../assets/facility/Facility9.jpeg";
 import FACILITY10 from "../assets/facility/Facility10.jpeg";
 import FACILITY11 from "../assets/facility/Facility11.jpeg";
 import FACILITY12 from "../assets/facility/Facility12.jpeg";
+import FACILITY13 from "../assets/facility/Facility13.jpeg";
+import FACILITY14 from "../assets/facility/Facility14.jpeg";
 
 export const facilitiesConstant = [
  {
@@ -72,5 +74,15 @@ export const facilitiesConstant = [
     nameOfInstrument:"",
     imageURL:FACILITY12,
     description:""
+ },{
+   id:"fac_013",
+   nameOfInstrument:"",
+   imageURL:FACILITY13,
+   description:""
+ },{
+   id:"fac_014",
+   nameOfInstrument:"",
+   imageURL:FACILITY14,
+   description:""
  }
 ];
