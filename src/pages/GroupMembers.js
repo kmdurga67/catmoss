@@ -345,6 +345,14 @@ const GroupMembers = () => {
         setFilteredMembers(results);
     }, [searchTerm, filter]);
 
+    const currentPhdMembers = filteredMembers.filter(member => 
+        !member.designation.toLowerCase().includes('project associate')
+    );
+    
+    const projectAssociates = filteredMembers.filter(member => 
+        member.designation.toLowerCase().includes('project associate')
+    );
+
     const renderSectionHeader = (title, description) => (
         <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-800 mb-2">{title}</h2>
@@ -406,20 +414,36 @@ const GroupMembers = () => {
                     <div className="mb-4 text-sm text-gray-600">
                         Showing {filteredMembers.length} of {groupMembers.length} researchers
                     </div>
-
-                    {filteredMembers.length > 0 ? (
+                    {currentPhdMembers.length > 0 && (
                         <>
-                        <p className='text-gray-600 font-medium pb-4'>Current PhD Students</p>
-                        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-                            {filteredMembers.map((member) => (
-                                <ResearchGroupMemberCard
-                                    key={member.id}
-                                    member={member}
-                                />
-                            ))}
-                        </div>
+                            <p className='text-gray-600 font-medium pb-4'>Current PhD Students</p>
+                            <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mb-12">
+                                {currentPhdMembers.map((member) => (
+                                    <ResearchGroupMemberCard
+                                        key={member.id}
+                                        member={member}
+                                    />
+                                ))}
+                            </div>
                         </>
-                    ) : (
+                    )}
+
+                    {/* Project Associates Section */}
+                    {projectAssociates.length > 0 && (
+                        <>
+                            <p className='text-gray-600 font-medium pb-4'>Project Associates</p>
+                            <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mb-12">
+                                {projectAssociates.map((member) => (
+                                    <ResearchGroupMemberCard
+                                        key={member.id}
+                                        member={member}
+                                    />
+                                ))}
+                            </div>
+                        </>
+                    )}
+
+                    {filteredMembers.length === 0 && (
                         <EmptyState message="No researchers found" suggestion="Try adjusting your search or filter criteria" />
                     )}
                 </section>
