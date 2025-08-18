@@ -12,7 +12,7 @@ const NewsSection = () => {
         />
         
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-          {newsData.slice(0,8).map((newsItem) => (
+          {newsData.sort((a,b) => b.id - a.id).slice(0,8).map((newsItem) => (
             <NewsCard key={newsItem.id} newsItem={newsItem} />
           ))}
         </div>
