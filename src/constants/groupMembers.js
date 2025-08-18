@@ -19,6 +19,7 @@ import SHREEDHALA from "../assets/team/Shreedhala.PNG";
 import SUNILSEKHAR from "../assets/team/Sunilsekhar.PNG";
 import VYSAKHAB from "../assets/team/Vysakhab.PNG";
 import YOGITASONI from "../assets/team/yogitasoni.PNG";
+import JYOTSNA from "../assets/team/Jyotsna.png";
 
 export const groupMembers = [
     {
@@ -114,9 +115,29 @@ export const groupMembers = [
         "publications": [],
         "patents": [],
         "imageURL":ARUNDATHI
+    },{
+        "id":6,
+        "name":"Ms. Jyotsna P. Bajpai",
+        "designation":"Senior Research Fellow",
+        "researchArea":"Catalyst development for CO2 hydrogenation to value-added products",
+        "conferences":[],
+        "awards":[],
+        "publications":[
+            {
+            "title":"Unravelling the Cu-Co nanoparticle synergy over Ceria-Zirconia support toward efficient reverse water gas shift (RWGS) conversion under H2 lean conditions",
+            "year":2025,
+            "journal":"Chemical Engineering Journal"
+        },{
+            "title":"Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
+            "year":2025,
+            "journal":"Chemical Engineering Journal"
+        }
+    ],
+        "patents":[],
+        "imageURL":JYOTSNA
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Sanika U",
         "designation": "PhD JRF",
         "researchArea": "Design and development of novel catalysts for CO2 reduction. CO2 fixation through organic drug intermediates synthesis",
@@ -127,7 +148,7 @@ export const groupMembers = [
         "imageURL":SANIKA
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Srinath Das",
         "designation": "Project Associate-I",
         "researchArea": "Employing operando NAP-XPS and DRIFTS to elucidate structure-composition-function correlations in catalytic reactions",
@@ -147,7 +168,7 @@ export const groupMembers = [
         "imageURL":SRINATH
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Sumanta Giri",
         "designation": "Project Associate-I",
         "researchArea": "Thermal and Electro-Catalysis of CO2 and N2 reduction",
@@ -158,7 +179,7 @@ export const groupMembers = [
         "imageURL":SUMANTA
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Aditya A Nile",
         "designation": "Project Associate 1",
         "researchArea": "Designing and optimizing CO₂-to-methanol processes via catalytic hydrogenation with emphasis on reactor operation and process integration within the CCUS framework",
@@ -169,7 +190,7 @@ export const groupMembers = [
         "imageURL":ADITYA
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "Vishnu vyas",
         "designation": "Project Associate-1",
         "researchArea": "Finding sustainable solutions for carbon capture, utilization and storage through designing efficient catalytic materials",
@@ -180,7 +201,7 @@ export const groupMembers = [
         "imageURL":VISHNU
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Aswin Sreenivas B K",
         "designation": "Project Associate 1",
         "researchArea": "Experimental descriptors by unravelling oxygen and nitrogen electrochemistry through surface spectroscopy techniques",

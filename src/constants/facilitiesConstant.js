@@ -1,7 +1,6 @@
 import FACILITY1 from "../assets/facility/Facility1.jpeg";
 import FACILITY2 from "../assets/facility/Facility2.jpeg";
 import FACILITY3 from "../assets/facility/Facility3.jpeg";
-import FACILITY4 from "../assets/facility/Facility4.jpeg";
 import FACILITY5 from "../assets/facility/Facility5.jpeg";
 import FACILITY6 from "../assets/facility/Facility6.jpeg";
 import FACILITY7 from "../assets/facility/Facility7.jpeg";
@@ -16,72 +15,67 @@ import FACILITY14 from "../assets/facility/Facility14.jpeg";
 export const facilitiesConstant = [
  {
     id:"fac_001",
-    nameOfInstrument:"",
+    nameOfInstrument:"Tubular Furnace",
     imageURL:FACILITY1,
     description:""
  },{
     id:"fac_002",
-    nameOfInstrument:"",
+    nameOfInstrument:"Agilent offline GC",
     imageURL:FACILITY2,
     description:""
  },{
     id:"fac_003",
-    nameOfInstrument:"",
+    nameOfInstrument:"Thermo Scientific HPLC",
     imageURL:FACILITY3,
     description:""
  },{
-    id:"fac_004",
-    nameOfInstrument:"",
-    imageURL:FACILITY4,
-    description:""
- },{
     id:"fac_005",
-    nameOfInstrument:"",
+    nameOfInstrument:"Near Ambient Pressure XPS",
     imageURL:FACILITY5,
     description:""
  },{
     id:"fac_006",
-    nameOfInstrument:"",
+    nameOfInstrument:"Bruker In-situ FTIR",
     imageURL:FACILITY6,
     description:""
  },{
     id:"fac_007",
-    nameOfInstrument:"",
+    nameOfInstrument:"MilliQ Water System",
     imageURL:FACILITY7,
     description:""
  },{
     id:"fac_008",
-    nameOfInstrument:"",
+    nameOfInstrument:"Oven",
     imageURL:FACILITY8,
     description:""
  },{
     id:"fac_009",
-    nameOfInstrument:"",
+    nameOfInstrument:"Muffle Furnace",
     imageURL:FACILITY9,
     description:""
  },{
     id:"fac_ 010",
-    nameOfInstrument:"",
+    nameOfInstrument:"Amar High Pressure Batch Reactor",
     imageURL:FACILITY10,
     description:""
  },{
     id:"fac_011",
-    nameOfInstrument:"",
+    nameOfInstrument:"Hydraulic Press",
     imageURL:FACILITY11,
     description:""
  },{
     id:"fac_012",
-    nameOfInstrument:"",
+    nameOfInstrument:"Centrifuge Eppendrof",
     imageURL:FACILITY12,
     description:""
  },{
    id:"fac_013",
-   nameOfInstrument:"",
+   nameOfInstrument:"High Pressure Fixed Bed Reactor",
    imageURL:FACILITY13,
    description:""
  },{
    id:"fac_014",
-   nameOfInstrument:"",
+   nameOfInstrument:"Atmospheric Pressure Fix Bed Reactor",
    imageURL:FACILITY14,
    description:""
  }
