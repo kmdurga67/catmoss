@@ -2,7 +2,7 @@ import ADITYA from "../assets/team/Aditya.jpg";
 import ARUNDATHI from "../assets/team/Arundathi.jpeg";
 import ASWIN from "../assets/team/Aswin.jpeg";
 import POOJA from "../assets/team/Pooja.jpeg";
-import SANIKA from "../assets/team/Sanika.jpeg";
+import SANIKA from "../assets/team/SANIKAU.jpeg";
 import SANKET from "../assets/team/Sanket.jpeg";
 import SRINATH from "../assets/team/Srinath.jpeg";
 import SRISHTI from "../assets/team/Srishti .jpeg";
@@ -38,7 +38,28 @@ export const groupMembers = [
         "imageURL":SANKET
     },
     {
-        "id": 2,
+        "id":2,
+        "name":"Ms. Jyotsna P. Bajpai",
+        "designation":"Senior Research Fellow",
+        "researchArea":"Catalyst development for CO2 hydrogenation to value-added products",
+        "conferences":[],
+        "awards":[],
+        "publications":[
+            {
+            "title":"Unravelling the Cu-Co nanoparticle synergy over Ceria-Zirconia support toward efficient reverse water gas shift (RWGS) conversion under H2 lean conditions",
+            "year":2025,
+            "journal":"Chemical Engineering Journal"
+        },{
+            "title":"Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
+            "year":2025,
+            "journal":"Chemical Engineering Journal"
+        }
+    ],
+        "patents":[],
+        "imageURL":JYOTSNA
+    },
+    {
+        "id": 3,
         "name": "Twinkle Gorai",
         "designation": "DST-Inspire SRF",
         "researchArea": "CO2 fixation into cyclic organic carbonates (COCs) and its application in aqueous zinc ion battery",
@@ -67,7 +88,7 @@ export const groupMembers = [
         "imageURL":TWINKLE
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Pooja Nehra",
         "designation": "PhD SRF",
         "researchArea": "Developing efficient catalytic materials for hydrogenation of CO2 to value added products & biomass conversion",
@@ -95,7 +116,7 @@ export const groupMembers = [
         "imageURL":POOJA
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Srishti Kesarwani",
         "designation": "PhD SRF",
         "researchArea": "Tailored Nanocatalysts for Sustainable Biomass and CH4 Valorization",
@@ -106,7 +127,7 @@ export const groupMembers = [
         "imageURL":SRISHTI
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Arundhathi K V",
         "designation": "PhD SRF",
         "researchArea": "Developing Novel Catalysts for Methane and Nitrogen Activation",
@@ -115,26 +136,6 @@ export const groupMembers = [
         "publications": [],
         "patents": [],
         "imageURL":ARUNDATHI
-    },{
-        "id":6,
-        "name":"Ms. Jyotsna P. Bajpai",
-        "designation":"Senior Research Fellow",
-        "researchArea":"Catalyst development for CO2 hydrogenation to value-added products",
-        "conferences":[],
-        "awards":[],
-        "publications":[
-            {
-            "title":"Unravelling the Cu-Co nanoparticle synergy over Ceria-Zirconia support toward efficient reverse water gas shift (RWGS) conversion under H2 lean conditions",
-            "year":2025,
-            "journal":"Chemical Engineering Journal"
-        },{
-            "title":"Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
-            "year":2025,
-            "journal":"Chemical Engineering Journal"
-        }
-    ],
-        "patents":[],
-        "imageURL":JYOTSNA
     },
     {
         "id": 7,

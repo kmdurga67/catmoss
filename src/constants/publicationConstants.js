@@ -751,6 +751,1437 @@ export const publicationConstant = [
     other_details:"Small., , (2018)",
     year:"2018",
     doi:"https://10.1002/smll.201801233."
+  },{
+    id:"pub_062",
+    title:"Distribution of Water in Pores of Periodic Mesoporous OrganoSilicates – a Proton Solid State MAS NMR Study",
+    authors:[
+      "V. S. Veena",
+      "Illath Kavya",
+      "Lazar Anish",
+      "C. P. Vinod",
+      "T. G. Ajithkumar",
+      "Sundaresan Jayanthi"
+    ],
+    other_details:"Physical Chemistry Chemical Physics (PCCP). (2018)",
+    year:"2018",
+    doi:"https://doi.org/10.1039/C8CP04902E"
+  },{
+    id:"pub_063",
+    title:"Role of oxygen vacancies and interstitials on structural phase transition, grain growth, and optical properties of Ga doped TiO2",
+    authors:[
+      "N Khatun",
+      "S Tiwari",
+      "CP Vinod",
+      "CM Tseng",
+      "S Wei Liu",
+      "S Biring",
+      "S Sen"
+    ],
+    other_details:"Journal of Applied Physics., 123 (24), 245702 (2018)",
+    year:"2018",
+    doi:"https://doi.org/10.1063/1.5027672"
+  },{
+    id:"pub_064",
+    title:"Nickel-Catalyzed Straightforward and Regioselective C-H Alkenylation of Indoles with Alkenyl Bromides: Scope and Mechanistic Aspect",
+    authors:[
+      "Rahul A Jagtap",
+      "C. P. Vinod",
+      "B. Punji*"
+    ],
+    other_details:"ACS Catalysis., 9 (1), 431 - 441 (2018)",
+    year:"2018",
+    doi:"https://doi.org/10.1021/acscatal.8b04267"
+  },{
+    id:"pub_065",
+    title:"One Pot Ligand Exchange Method for a Highly Stable Au- SBA- 15 Catalyst and its room temperature CO Oxidation",
+    authors:[
+      "Yogita Soni",
+      "Kavya Illath",
+      "T. G. Ajithkumar",
+      "C. P. Vinod*"
+    ],
+    other_details:"Chemical Communications., 54 (91), 12412 - 12415 (2018)",
+    year:"2018",
+    doi:"https://doi.org/10.1039/C8CC90494D"
+  },{
+    id:"pub_066",
+    title:"A direct Z-scheme g-C3N4/FeWO4 nanocomposite for Enhanced and Selective Photocatalytic CO2 Reduction under Visible Light",
+    authors:[
+      "R Bhosale",
+      "S Jain",
+      "CP Vinod",
+      "S Kumar",
+      "S Ogale"
+    ],
+    other_details:"ACS applied materials & interfaces., 11 (6), 6174 - 6183 (2019).",
+    year:"2018",
+    doi:"https://doi.org/10.1021/acsami.8b22434"
+  },{
+    id:"pub_067",
+    title:"Role of Li+ and Fe3+ in modified ZnO: Structural, vibrational, opto-electronic, mechanical and magnetic properties",
+    authors:[
+      "Gaurav Bajpai",
+      "Igamcha Moirangthem",
+      "Shuvam Sarkar",
+      "Sudipta RoyBarman",
+      "C.P.Vinod",
+      "Shubhra Bajpai",
+      "Sk. Riyajuddin",
+      "Kaushik Ghosh",
+      "Dharma R. Basaulah",
+      "Mahmud Khan",
+      "Shun-WeiLiui",
+      "Sajal Biring",
+      "SomadityaSen"
+    ],
+    other_details:"Ceramics International., 45, Issue 6, 7232 - 7243 (2019).",
+    year:"2019",
+    doi:"https://doi.org/10.1039/C8CP04902E" //not found
+  },{
+    id:"pub_068",
+    title:"In-situ X ray Absorption Spectroscopy Study of Fischer Tropsch Reaction with Co catalysts",
+    authors:[
+      "Chandrani. Nayak",
+      "Preeti Jain",
+      "C. P. Vinod",
+      "S. N. Jha",
+      "D. Bhattacharyyaa"
+    ],
+    other_details:"Journal of Synchrotron Radiation., 26, 137 - 144 (2019).",
+    year:"2019",
+    doi:"https://doi.org/10.1107/S1600577518015588"
+  },{
+    id:"pub_069",
+    title:"Palladium Impregnated Amine Co-condensed Hexagonal Mesoporous Silica: A Novel Catalyst in Tailoring Suzuki and Heck Coupling Reactions in Base Free Condition",
+    authors:[
+      "Prangya Paramita Das",
+      "C. P. Vinod",
+      "Samik Nanda",
+      "Debasis Sen",
+      "Biswajit Chowdhury"
+    ],
+    other_details:"Chemistry Select., (2019)",
+    year:"2019",
+    doi:"https://doi.org/10.1002/slct.201803485"
+  },{
+    id:"pub_070",
+    title:"Au based Ni and Co Bimetallic Core Shell Nanocatalysts for room temperature selective Decomposition of Hydrous Hydrazine to hydrogen",
+    authors:[
+      "Preeti Jain",
+      "K. A. Anila",
+      "C. P. Vinod*"
+    ],
+    other_details:"Chemistry Select., 4 (9), 2734 - 2740 (2019).",
+    year:"2019",
+    doi:"https://doi.org/10.1039/C8CP04902E" //not found
+  },{
+    id:"pub_071",
+    title:"Cu/Cu2O Nanoparticles Supported on a Phenol-Pyridyl COF as Heterogeneous Catalyst for the Synthesis of Unsymmetrical Diynes via Glaser-Hay Coupling",
+    authors:[
+      "D. Chakraborty",
+      "S. Nandi",
+      "D. Mullangi",
+      "S. Haldar",
+      "C. P. Vinod",
+      "R. Vaidhyanathan"
+    ],
+    other_details:"ACS Applied Materials & Interfaces., (2019)",
+    year:"2019",
+    doi:"https://doi.org/10.1021/acsami.9b02860"
+  },{
+    id:"pub_072",
+    title:"Carbon derived from soft pyrolysis of COF as a support for small-sized RuO2 showing exceptionally low-overpotential for OER",
+    authors:[
+      "Debanjan Chakraborty",
+      "Shyamapada Nandi",
+      "Rajith Illathvalappil",
+      "Dinesh Mullangi",
+      "Rahul Maity",
+      "Santosh K. Singh",
+      "Sattwick Haldar",
+      "C. P. Vinod",
+      "Sreekumar Kurungot",
+      "Ramanathan Vaidhyanathan*"
+    ],
+    other_details:"ACS Omega., (2019)",
+    year:"2019",
+    doi:"https://doi.org/10.1021/acsomega.9b01777"
+  },{
+    id:"pub_073",
+    title:"Aqueous-Phase Differentiation and Speciation of Fe3+ and Fe2+ Using Water-Stable Photoluminescent Lanthanide-Based Metal-Organic Framework",
+    authors:[
+      "Rahul Maity",
+      "Debanjan Chakraborty",
+      "Shyamapada Nandi",
+      "Ankit Kumar Yadav",
+      "Dinesh Mullangi",
+      "C.P. Vinod",
+      "Ramanathan Vaidhyanathan"
+    ],
+    other_details:"ACS Applied Nano Materials., (2019)",
+    year:"2019",
+    doi:"https://doi.org/10.1021/acsanm.9b01047"
+  },{
+    id:"pub_074",
+    title:"MnO2@Fe3O4 MNP: An Efficient and Recyclable Heterogeneous Catalyst for Benzylic sp3 C?H Oxidation",
+    authors:[
+      "Boopathy Gnanaprakasam*",
+      "Akanksha M Pandey",
+      "Sandip G Agalave",
+      "C. P. Vinod"
+    ],
+    other_details:"Chemistry An Asian Journal., (2019)",
+    year:"2019",
+    doi:"https://doi.org/10.1002/asia.201900810"
+  },{
+    id:"pub_075",
+    title:"Surfactant free Synthesis of Au@Ni Core-shell Nanochains in Aqueous Medium as Efficient Transfer Hydrogenation Catalyst",
+    authors:[
+      "A B Vysakh",
+      "K J Shebin",
+      "Ruchi Jain",
+      "P Sumanta",
+      "Chinnakonda S Gopinath",
+      "C P Vinod*"
+    ],
+    other_details:"Applied Catalysis A- General., 575, 93 - 100 (2019).",
+    year:"2019",
+    doi:"https://doi.org/10.1016/j.apcata.2019.01.017"
+  },{
+    id:"pub_076",
+    title:"Nickel-catalyzed C-H alkylation of indoles with unactivated alkyl chlorides: Evidence of Ni(I)/Ni(III) pathway",
+    authors:[
+      "Dilip K. Pandey",
+      "Shidheshwar B. Ankade",
+      "Abad Ali",
+      "C. P. Vinod",
+      "Benudhar Punji*"
+    ],
+    other_details:"Chemical Science., (2019)",
+    year:"2019",
+    doi:"https://doi.org/10.1039/C9SC01446B"
+  },{
+    id:"pub_077",
+    title:"Ag nanoparticles supported on a resorcinol?phenylenediamine based COF for chemical fixation of CO2",
+    authors:[
+      "Debanjan Chakraborty",
+      "Pragalbh Shekhar",
+      "Himan Dev Singh",
+      "Rinku Kushwaha",
+      "C P Vinod",
+      "Ramanathan Vaidhyanathan"
+    ],
+    other_details:"Chemistry–An Asian Journal., (2019)",
+    year:"2019",
+    doi:"https://doi.org/10.1002/asia.201901157"
+  },{
+    id:"pub_078",
+    title:"Mechanistic Insights into the Pathways of Phenol Hydrogenation on Pd Nanostructures",
+    authors:[
+      "Govind Porwal",
+      "Shelaka Gupta",
+      "Seshadri Sreedhala",
+      "Joes Elizabeth",
+      "Tuhin Khan",
+      "M. Ali Haider*",
+      "C. P. Vinod*"
+    ],
+    other_details:"ACS Sustainable Chemistry & Engineering., (2019)",
+    year:"2019",
+    doi:"https://doi.org/10.1021/acssuschemeng.9b03392"
+  },{
+    id:"pub_079",
+    title:"Unprecedented Isomerism-Activity Relation in Molecular Electrocatalysis",
+    authors:[
+      "Alagar Raja Kottaichamy",
+      "Shabbah Begum",
+      "Neethu Christudas Dargily",
+      "Mohammed Azeezulla Nazrulla",
+      "Mruthyunjayachari Chattanahalli Devendrachari",
+      "Zahid Manzoor Bhat",
+      "Harish Makri Nimbegondi Kotresh*",
+      "C. P. Vinod*",
+      "Musthafa Ottakam Thotiyl*"
+    ],
+    other_details:"J. Phys. Chem. Lett., (2019)",
+    year:"2019",
+    doi:"https://doi.org/10.1021/acs.jpclett.9b02689"
+  },{
+    id:"pub_080",
+    title:"Stress-Induced Electronic Structure Modulation of Manganese-Incorporated Ni2P Leading to Enhanced Activity for Water Splitting",
+    authors:[
+      "Shreya Sarkar",
+      "Lakshay Dheer",
+      "C. P. Vinod",
+      "Ranjit Thapa",
+      "Umesh V. Waghmare",
+      "Sebastian C. Peter*"
+    ],
+    other_details:"ACS Appl. Energy Materials., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1021/acsaem.9b02097"
+  },{
+    id:"pub_081",
+    title:"Geometrical Isomerism Directed Electrochemical Sensing",
+    authors:[
+      "Kottaichamy Alagar",
+      "Begum Shabbah",
+      "Devendrachari Mruthyunjayachari",
+      "Manzoor Bhat Zahid",
+      "Thimmappa Ravikumar",
+      "Makri Nimbegondi Kotresh Harish*",
+      "C. P. Vinod*",
+      "Thotiyl Musthafa*"
+    ],
+    other_details:"Analytical Chemistry., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1021/acs.analchem.9b05753"
+  },{
+    id:"pub_082",
+    title:"Dynamics in Amine-functionalized Mesoporous Hybrid Materials Probed through Deuterium MAS NMR and Molecular Dynamic Simulations",
+    authors:[
+      "V. S. Veena",
+      "Illath Kavya",
+      "Lazar Anish",
+      "C. P. Vinod",
+      "T. G. Ajithkumar",
+      "Sundaresan Jayanthi*"
+    ],
+    other_details:"The Journal of Physical Chemistry C., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1021/acs.jpcc.9b11948"
+  },{
+    id:"pub_083",
+    title:"Nanocrystalline Ag3PO4 for sunlight and ambient air driven oxidation of amines: high photocatalytic efficiency and a facile catalyst regeneration strategy",
+    authors:[
+      "Reeya Garg",
+      "Sanjit Mondal",
+      "LIPIPUSPA SAHOO",
+      "C P Vinod",
+      "Ujjal K. Gautam*"
+    ],
+    other_details:"ACS Applied Materials & Interfaces., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1021/acsami.0c05961"
+  },{
+    id:"pub_084",
+    title:"Iron-Catalyzed C(sp2)-H Alkylation of Indolines and Benzo[h]quinoline with Unactivated Alkyl Chlorides through Chelation-Assistance",
+    authors:[
+      "Rahul A. Jagtap",
+      "Pragnya Samal",
+      "C. P. Vinod",
+      "Sailaja Krishnamurty",
+      "Benudhar Punji*"
+    ],
+    other_details:"ACS Catalysis., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1021/acscatal.0c02030"
+  },{
+    id:"pub_085",
+    title:"Role of B site ion in bifunctional oxygen electrocatalysis: A structure property correlation study on doped Ca2Fe2O5 brownmillerites",
+    authors:[
+      "Shibin Thundiyil",
+      "C P Vinod",
+      "Sreekumar Kurungot",
+      "R. Nandini Devi*"
+    ],
+    other_details:"PhysChemChemPhys., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1039/D0CP02391D"
+  },{
+    id:"pub_086",
+    title:"Tweaking Palladium Electronic Structure to Attain Oxygen Reduction Activity Superior to Platinum/C",
+    authors:[
+      "Saurav Sarma",
+      "Sai Manoj Kaja",
+      "Vidyanshu Mishra",
+      "C. P. Vinod",
+      "Sebastian Peter*"
+    ],
+    other_details:"ACS Applied Energy Materials., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1021/acsaem.0c01241"
+  },{
+    id:"pub_087",
+    title:"Nanoporous Covalent Organic Framework Embedded with Fe/Fe3O4 Nanoparticles as Air-Stable Low-Density Nanomagnets",
+    authors:[
+      "Rinku Kushwaha",
+      "Dhananjayan Kaleeswaran",
+      "Sattwick Haldar",
+      "Debanjan Chakraborty",
+      "Dinesh Mullangi",
+      "Aditya Borah",
+      "C. P. Vinod",
+      "Ramaswamy Murugavel",
+      "Ramanathan Vaidhyanathan*"
+    ],
+    other_details:"ACS Appl. Nano Mater., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1021/acsomega.9b01777"
+  },{
+    id:"pub_088",
+    title:"Wavelength dependent luminescence decay kinetics in quantum confined g-C3N4 nanosheets exhibiting high photocatalytic efficiency upon plasmonic coupling",
+    authors:[
+      "Sanjit Mondal",
+      "Lipipuspa Sahoo",
+      "Yuvraj Vaishnav",
+      "Samita Mishra",
+      "Raj Sekhar Roy",
+      "C. P. Vinod",
+      "Arijit K De",
+      "Ujjal K. Gautam*"
+    ],
+    other_details:" Journal of Materials Chemistry A., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1039/D0TA08001B"
+  },{
+    id:"pub_089",
+    title:"Boron Nitride and Oxide Supported on Dendritic Fibrous Nanosilica for Catalytic Oxidative Dehydrogenation of Propane",
+    authors:[
+      "Rajesh Belgamwar",
+      "Andrew GM Rankin",
+      "Ayan Maity",
+      "Amit Kumar Mishra",
+      "Jennifer S Go?mez",
+      "Julien Tre?bosc",
+      "C P Vinod",
+      "Olivier Lafon*",
+      "Vivek Polshettiwar*"
+    ],
+    other_details:"ACS Sustainable Chemistry & Engineering., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.48550/arXiv.2011.00831"
+  },{
+    id:"pub_090",
+    title:"Role of exposed crystal facets in the atmospheric pressure CO hydrogenation on Co3O4 nanostructures",
+    authors:[
+      "Preeti Jain",
+      "Sharad Gupta",
+      "C. P. Vinod*"
+    ],
+    other_details:"Nanostructures and Nanoobjects., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1016/j.nanoso.2020.100504"
+  },{
+    id:"pub_091",
+    title:"Can We Identify the Salt–Cocrystal Continuum State Using XPS?",
+    authors:[
+      "Srinu Tothadi",
+      "Tabrez Rafique Shaikh",
+      "Sharad Gupta",
+      "Rambabu Dandela",
+      "C. P. Vinod",
+      "Ashwini K. Nangia*"
+    ],
+    other_details:"Cryst. Growth Des., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1021/mp0601345"
+  },{
+    id:"pub_092",
+    title:"Engineering pore morphology using silica template route over mesoporous cobalt oxide and its implications in atmospheric pressure carbon dioxide hydrogenation to olefins",
+    authors:[
+      "Sharad Gupta",
+      "Carmen Ciotonea",
+      "Sébastien Royer",
+      "Jean-Philippe Dacquin*",
+      "C. P. Vinod*"
+    ],
+    other_details:"Applied Materials Today., 19, 100586 (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1016/j.apmt.2020.100586"
+  },{
+    id:"pub_093",
+    title:"CO2 Hydrogenation to Formate by Palladium Nanoparticles Supported on N-Incorporated Periodic Mesoporous Organosilica",
+    authors:[
+      "K. J. Betsy",
+      "Anish Lazar",
+      "Anjuna Pavithran",
+      "C. P. Vinod*"
+    ],
+    other_details:"ACS Sustainable Chemistry & Engineering., (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1021/acssuschemeng.0c03860"
+  },{
+    id:"pub_094",
+    title:"Spectroscopic Evidences for the Size Dependent Generation of Pd Species Responsible for the Low Temperature CO Oxidation Activity on Pd-SBA-15 Nanocatalyst",
+    authors:[
+      "Yogita Soni",
+      "Sumanta Pradhan",
+      "Mahesh K Bamnia",
+      "AK Yadav",
+      "SN Jha",
+      "D Bhattacharyya",
+      "Tuhin Suvra Khan",
+      "MA Haider",
+      "CP Vinod*"
+    ],
+    other_details:"Applied Catalysis B: Environmental., 272, 118934 (2020)",
+    year:"2020",
+    doi:"https://doi.org/10.1016/j.apcatb.2020.118934"
+  },{
+    id:"pub_095",
+    title:"Unveiling the Roles of Lattice Strain and Descriptor Species on Pt-like Oxygen Reduction Activity in Pd-Bi catalysts",
+    authors:[
+      "Shreya Sarkar",
+      "S. D. Ramarao",
+      "Tisita Das",
+      "Risov Das",
+      "C. P. Vinod",
+      "Sudip Chakraborty",
+      "Sebastian C. Peter*"
+    ],
+    other_details:"ACS Catalysis., (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1021/acscatal.0c03415"
+  },{
+    id:"pub_096",
+    title:"Operando Generated Ordered Heterogeneous Catalyst for the Selective Conversion of CO2 to Methanol",
+    authors:[
+      "Arjun Cherevotan",
+      "Jithu Raj",
+      "Lakshay Dheer",
+      "Soumyabrata Roy",
+      "Shreya Sarkar",
+      "Risov Das",
+      "C P Vinod",
+      "Shaojun Xu",
+      "Peter P Wells",
+      "Umesh Waghmare",
+      "Sebastian Peter*"
+    ],
+    other_details:"ACS Energy Letters., (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1021/acsenergylett.0c02614"
+  },{
+    id:"pub_097",
+    title:"Conductive Interface Promoted Bifunctional Oxygen Reduction/Evolution Activity in Ultra-low Precious Metal based Hybrid Catalyst",
+    authors:[
+      "Shreya Sarkar",
+      "Merin Varghese",
+      "C. P. Vinod",
+      "Sebastian C. Peter*"
+    ],
+    other_details:"Chemical Communications., (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1039/D0CC08225B"
+  },{
+    id:"pub_098",
+    title:"Facile transfer of excited electrons in Au/SnS2 nanosheets for efficient solar-driven selective organic transformations",
+    authors:[
+      "Sanjit Mondal",
+      "Lipipuspa Sahoo",
+      "C. P. Vinod",
+      "Ujjal K. Gautam*"
+    ],
+    other_details:"Applied Catalysis B (Environmental)., (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1016/j.apcatb.2021.119927"
+  },{
+    id:"pub_099",
+    title:"Exceptional Capacitance Enhancement of a Non-conducting COF Through Potentialdriven Chemical Modulation by Redox Electrolyte",
+    authors:[
+      "Rinku Kushwaha",
+      "Sattwick Haldar",
+      "Pragalbh Shekhar",
+      "Akshara Krishnan",
+      "Jayeeta Saha",
+      "Pramiti Hui",
+      "C.P. Vinod",
+      "Chandramouli Subramaniam",
+      "Ramanathan Vaidhyanathan*"
+    ],
+    other_details:"Advanced Energy Materials., (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1002/aenm.202003626"
+  },{
+    id:"pub_100",
+    title:"Lithium Silicates Nanosheets with Excellent Capture Capacity and Kinetics with Unprecedented Stability for High-Temperature CO2 Capture",
+    authors:[
+      "Rajesh Belgamwar",
+      "Ayan Maity",
+      "Tisita Das",
+      "Sudip Chakraborty",
+      "C. P. Vinod",
+      "Vivek Polshettiwar*"
+    ],
+    other_details:"Chemical Science., (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1039/D0SC06843H"
+  },{
+    id:"pub_101",
+    title:"'Autophagy’ and unique aerial oxygen harvesting properties exhibited by highly photocatalytic carbon quantum dots",
+    authors:[
+      "Sanjit Mondal",
+      "C. P. Vinod",
+      "Ujjal K. Gautam*"
+    ],
+    other_details:"Carbon., 181, 16 - 27 (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1016/j.carbon.2021.04.054"
+  },{
+    id:"pub_102",
+    title:"Structure Tailored Non-Noble Metal based Ternary Chalcogenide Nanocrystals for Pt-like Electrocatalytic Hydrogen Production",
+    authors:[
+      "Shreya Sarkar",
+      "Abhishek Rawat",
+      "Tisita Das",
+      "Mattia Gaboardi",
+      "Sudip Chakraborty",
+      "C. P. Vinod",
+      "Sebastian C. Peter*"
+    ],
+    other_details:"ChemSusChem., (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1002/cssc.202100967"
+  },{
+    id:"pub_103",
+    title:"CuO as a reactive and reusable reagent for the hydrogenation of nitroarenes",
+    authors:[
+      "K. Rajendran",
+      "N. Pandurangan",
+      "C.P. Vinod",
+      "Tuhin S. Khan",
+      "Shelaka Gupta",
+      "M. Ali Haider",
+      "D. Jagadeesan*"
+    ],
+    other_details:"Applied Catalysis B (Environmental)., (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1016/j.apcatb.2021.120417"
+  },{
+    id:"pub_104",
+    title:"Role of Metal-Support Interaction for Atmospheric Pressure CO2 Hydrogenation over Pd/(Ti)-SBA-15 catalysts: Effects of Titanium Composition on Products Selectivity",
+    authors:[
+      "Yogita Soni*",
+      "Sharad Gupta",
+      "C. P. Vinod*"
+    ],
+    other_details:"Molecular Catalysis., (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1016/j.mcat.2021.111732"
+  },{
+    id:"pub_105",
+    title:"Unprecedented stability in Au@ Co core-shell bimetallic catalyst supported on SBA-15 (Au@ Co/SBA-15) for atmospheric pressure CO hydrogenation",
+    authors:[
+      "Preeti Jain",
+      "Manali Chimote",
+      "C P Vinod*"
+    ],
+    other_details:"Materials Today Sustainability., (2021)",
+    year:"2021",
+    doi:"https://doi.org/10.1016/j.mtsust.2021.100068"
+  },{
+    id:"pub_106",
+    title:"Coordination flexibility aided CO2-specific gating in an Iron Isonicotinate MOF",
+    authors:[
+      "Ramanathan Vaidhyanathan*",
+      "Himan Dev Singh",
+      "Shyamapada Nandi",
+      "Debanjan Chakraborty",
+      "Kirandeep Singh",
+      "C. P. Vinod"
+    ],
+    other_details:"Chemistry An Asian Journal., (2022)",
+    year:"2022",
+    doi:" https://doi.org/10.1002/asia.202101305"
+  },{
+    id:"pub_107",
+    title:"Synergistic Electronic Effects in AuCo Nanoparticles Stabilized in a Triazine-Based Covalent Organic Framework: A Catalyst for Methyl Orange and Methylene Blue Reduction",
+    authors:[
+      "Venkata Swaroopa Datta Devulapalli",
+      "Rinku Kushwaha",
+      "Edwin Ovalle",
+      "Himan Dev Singh",
+      "Pragalbh Shekhar",
+      "Debanjan Chakraborty",
+      "C P Vinod",
+      "Ramanathan Vaidhyanathan*",
+      "Eric Borguet*"
+    ],
+    other_details:"Appl. Nano Mater., (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1021/acsanm.1c04212"
+  },{
+    id:"pub_108",
+    title:"Potential- and Time-Dependent Dynamic Nature of an Oxide-Derived PdIn Nanocatalyst during Electrochemical CO2 Reduction",
+    authors:[
+      "D Bagchi",
+      "S Sarkar",
+      "AK Singh",
+      "CP Vinod",
+      "SC Peter*"
+    ],
+    other_details:"ACS Nano., 16 (4), 6185 - 6196 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1021/acsnano.1c11664"
+  },{
+    id:"pub_109",
+    title:"Controlled exchange bias behavior of manganese nanoparticles",
+    authors:[
+      "Garima Tiwari",
+      "C P Vinod",
+      "Balaji R Jagirdar*"
+    ],
+    other_details:"Journal of Magnetism and Magnetic Materials., 169504 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1016/j.jmmm.2022.169504"
+  },{
+    id:"pub_110",
+    title:"Single-step insertion of M-Nx moieties in commercial carbon for sustainable bifunctional electrocatalysis: Mapping insertion capacity, mass loss, and carbon reconstruction",
+    authors:[
+      "Reeya Garg",
+      "Lipipuspa Sahoo",
+      "Komalpreet Kaur",
+      "CP Vinod",
+      "Ujjal K Gautam"
+    ],
+    other_details:"Carbon., 196, 1001 - 1011 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1016/j.carbon.2022.06.008"
+  },{
+    id:"pub_111",
+    title:"Improvement in Oxygen Evolution Performance of NiFe Layered Double Hydroxide Grown in the Presence of 1T-Rich MoS2",
+    authors:[
+      "Soumita Chakraborty",
+      "Shivanna Marappa",
+      "Sakshi Agarwal",
+      "Debabrata Bagchi",
+      "Ankit Rao",
+      "Chathakudath P Vinod",
+      "Sebastian C Peter",
+      "Abhishek Singh",
+      "Muthusamy Eswaramoorthy"
+    ],
+    other_details:"ACS Applied Materials & Interfaces., (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1021/acsami.2c06210"
+  },{
+    id:"pub_112",
+    title:"Incorporating Conducting Polypyrrole into a Polyimide COF for Carbon?Free Ultra?High Energy Supercapacitor",
+    authors:[
+      "Sattwick Haldar",
+      "Deepak Rase",
+      "Pragalbh Shekhar",
+      "Chitvan Jain",
+      "C. P. Vinod",
+      "En Zhang",
+      "Leonid Shupletsov",
+      "Stefan Kaskel",
+      "Ramanathan Vaidhyanathan"
+    ],
+    other_details:"Advanced Energy Materials., 12 (34), 2200754 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1002/aenm.202200754"
+  },{
+    id:"pub_113",
+    title:"Regio-isomerism Directed Electrocatalysis for Energy Efficient Zinc-air Battery",
+    authors:[
+      "Sanchayita Mukhopadhyay",
+      "Mruthyunjayachari Chattanahalli Devendrachari",
+      "Sandeep C Kanade",
+      "C. P. Vinod",
+      "Harish Makri Nimbegondi Kotresh",
+      "Musthafa Ottakam Thotiyl*"
+    ],
+    other_details:"iScience., (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1016/j.isci.2022.105179"
+  },{
+    id:"pub_114",
+    title:"Single step strategy for crafting tin/carbon soot composite as highly stable Li?ion battery anode",
+    authors:[
+      "S Vashishth",
+      "DK Singh",
+      "C. P. Vinod",
+      "E Muthusamy*"
+    ],
+    other_details:"Electrochemical Science Advances., (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1002/elsa.202100019"
+  },{
+    id:"pub_115",
+    title:"Tuning of work function of ZnO by doping and co-doping: An investigation using X-ray photoelectron spectroscopy",
+    authors:[
+      "Soumya K",
+      "I. Packia Selvam",
+      "C P Vinod",
+      "S. N. Potty*"
+    ],
+    other_details:"Thin Solid Films., (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1016/j.tsf.2022.139538"
+  },{
+    id:"pub_116",
+    title:"Tuning the hybridization and charge polarization in metal nanoparticles dispersed over Schiff base functionalized SBA-15 enhances CO 2 capture and conversion to formic acid",
+    authors:[
+      "Arjun Cherevotan",
+      "Bitan Ray",
+      "Anish Yadav",
+      "Debabrata Bagchi",
+      "Ashutosh Kumar Singh",
+      "Mohd Riyaz",
+      "Sathyapal R Churipard",
+      "Vinay Naral",
+      "Komalpreet Kaur",
+      "Ujjal K Gautam",
+      "C. P. Vinod",
+      "Sebastian C Peter*"
+    ],
+    other_details:"Journal of Materials Chemistry A., 10(35), 18354 - 18362 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1039/D2TA03690H"
+  },{
+    id:"pub_117",
+    title:"A covalent organic framework with electrodeposited copper nanoparticles–a desirable catalyst for the Ullmann coupling reaction",
+    authors:[
+      "Chandana Chandran",
+      "Himan Dev Singh",
+      "Liya S Leo",
+      "Pragalbh Shekhar",
+      "Deepak Rase",
+      "Debanjan Chakraborty",
+      "C. P. Vinod",
+      "Ramanathan Vaidhyanathan*"
+    ],
+    other_details:"Journal of Materials Chemistry A., 10(29), 15647 - 15656 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1039/D2TA01326F"
+  },{
+    id:"pub_118",
+    title:"Influence of Support Textural Property on CO2 to Methane Activity of Ni/SiO2 Catalysts",
+    authors:[
+      "Arjun Cherevotan",
+      "Bitan Ray",
+      "Sathyapal R Churipard",
+      "Komalpreet Kaur",
+      "Ujjal K Gautam",
+      "C P Vinod",
+      "Sebastian C Peter*"
+    ],
+    other_details:"Applied Catalysis B: Environmental., 317, 121692 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1016/j.apcatb.2022.121692"
+  },{
+    id:"pub_119",
+    title:"Noble-Metal-Free Heterojunction Photocatalyst for Selective CO2 Reduction to Methane upon Induced Strain Relaxation",
+    authors:[
+      "Risov Das",
+      "Shreya Sarkar",
+      "Ritesh Kumar",
+      "Seethiraju D. Ramarao",
+      "Arjun Cherevotan",
+      "Mohammed Jasil",
+      "C. P. Vinod",
+      "Abhishek Kumar Singh",
+      "Sebastian C. Peter*"
+    ],
+    other_details:"ACS Catalysis., , 687 - 697 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1021/acscatal.1c04587"
+  },{
+    id:"pub_120",
+    title:"PdNi Alloy Nanowires as Highly Active ORR Electrocatalysts Exhibiting Morphology-Induced Durability over 200 K Cycles",
+    authors:[
+      "Lipipuspa Sahoo",
+      "Reeya Garg",
+      "Komalpreet Kaur",
+      "C. P. Vinod",
+      "Ujjal K. Gautam*"
+    ],
+    other_details:"Nano Letters., (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1021/acs.nanolett.1c03704"
+  },{
+    id:"pub_121",
+    title:"Structure-Tailored Surface Oxide on Cu-Ga Intermetallics Enhances CO2 Reduction Selectivity to Methanol at Ultra-Low Potential",
+    authors:[
+      "Debabrata Bagchi",
+      "Jithu Raj",
+      "Ashutosh Kumar Singh",
+      "Arjun Cherevotan",
+      "Soumyabrata Roy",
+      "Kaja Sai Manoj",
+      "CP Vinod",
+      "Sebastian C. Peter*"
+    ],
+    other_details:"Advanced Materials., 34 (19), 2109426 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1002/adma.202109426"
+  },{
+    id:"pub_122",
+    title:"Morphology Tuned Pt3Ge Accelerates Water Dissociation to Industrial Standard Hydrogen Production over a wide pH Range",
+    authors:[
+      "Soumi Mondal",
+      "Shreya Sarkar",
+      "Debabrata Bagchi",
+      "Tisita Das",
+      "Risov Das",
+      "Ashutosh Kumar Singh",
+      "Ponnappa Kechanda Prasanna",
+      "CP Vinod",
+      "Sudip Chakraborty",
+      "Sebastian C Peter*"
+    ],
+    other_details:"Advanced Materials., 34, 2202294 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1002/adma.202202294"
+  },{
+    id:"pub_123",
+    title:"Strain-Enhanced Phase Transformation of Iron Oxide for Higher Alcohol Production from CO2",
+    authors:[
+      "D Goud",
+      "SR Churipard",
+      "D Bagchi",
+      "AK Singh",
+      "M Riyaz",
+      "CP Vinod",
+      "SC Peter*"
+    ],
+    other_details:"ACS Catalysis., 12 (18), 11118 - 11128 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1021/acscatal.2c03183"
+  },{
+    id:"pub_124",
+    title:"Green Transformation of CO2 to Ethanol using Water and Sunlight by Cooperative Endeavour of Naturally Abundant Red Phosphorus and Bi2MoO6",
+    authors:[
+      "Risov Das",
+      "Kousik Das",
+      "Bitan Ray",
+      "C P Vinod",
+      "Sebastian C Peter*"
+    ],
+    other_details:"Energy and Environmental Science., (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1039/D1EE02976B"
+  },{
+    id:"pub_125",
+    title:"In Situ Mechanistic Insights for the Oxygen Reduction Reaction in Chemically Modulated Ordered Intermetallic Catalyst Promoting Complete Electron Transfer",
+    authors:[
+      "S Mondal",
+      "D Bagchi",
+      "M Riyaz",
+      "S Sarkar",
+      "AK Singh",
+      "CP Vinod",
+      "SC Peter"
+    ],
+    other_details:"Journal of the American Chemical Society., 144, 26, 11859 - 11869 (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1021/jacs.2c04541"
+  },{
+    id:"pub_126",
+    title:"Process for the preparation of bimetallic core/shell nanoparticles and their catalytic applications",
+    authors:[
+      "C P Vinod",
+      "Vysakh Alengattil Bharathan"
+    ],
+    other_details:"US Patent 11,305,344 B2., (2022)",
+    year:"2022"
+  },{
+    id:"pub_127",
+    title:"La Cu based heterogeneous perovskite catalyst for highly selective benzene hydroxylation under mild conditions",
+    authors:[
+      "Pawan Kumar",
+      "Anuradha Vijay Jagtap",
+      "Sharad Gupta",
+      "C. P. Vinod*"
+    ],
+    other_details:"Chem Asian J., (2022)",
+    year:"2022",
+    doi:"https://doi.org/10.1002/asia.202200788"
+  },{
+    id:"pub_128",
+    title:"Structural ordering enhances highly selective production of acetic acid from CO 2 at ultra-low potential",
+    authors:[
+      "S Sarkar",
+      "J Raj",
+      "D Bagchi",
+      "A Cherevotan",
+      "CP Vinod",
+      "SC Peter*"
+    ],
+    other_details:"EES Catalysis., 1 (2), 162 - 170 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1039/D2EY00081D"
+  },{
+    id:"pub_129",
+    title:"Oxidation of ethylene by Cu/TiO 2: reducibility of Cu 2+ in TiO 2 as a possible descriptor of catalytic efficiency",
+    authors:[
+      "K Rajendran",
+      "Mandeep Sharma",
+      "Augustine Jaison",
+      "Menon Ankitha",
+      "Ankit D Tiwari",
+      "CP Vinod",
+      "Dinesh Jagadeesan*"
+    ],
+    other_details:"Catalysis Science & Technology., 13(8), 2330 - 2339 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1039/D2CY02170F"
+  },{
+    id:"pub_130",
+    title:"Unprecedented energy storage in metal–organic complexes via constitutional isomerism",
+    authors:[
+      "Alagar Raja Kottaichamy",
+      "Siraprapha Deebansok",
+      "Jie Deng",
+      "Mohammed Azeezulla Nazrulla",
+      "Yachao Zhu",
+      "Zahid Manzoor Bhat",
+      "Mruthyunjayachari Chattanahalli Devendrachari",
+      "Chathakudath Prabhakaran Vinod",
+      "Harish Makri Nimbegondi Kotresh",
+      "Olivier Fontaine",
+      "Musthafa Ottakam Thotiyl*"
+    ],
+    other_details:"Chemical Science., 14 (23), 6383 - 6392 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1039/D3SC01692G"
+  },{
+    id:"pub_131",
+    title:"Hydrogenation of levulinic acid to gamma-valerolactone over nickel supported organoclay catalyst",
+    authors:[
+      "PA Kamble",
+      "CP Vinod",
+      "VK Rathod",
+      "ML Kantam*"
+    ],
+    other_details:"Catalysis Today., 408, 36 - 49 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1016/j.cattod.2022.10.004"
+  },{
+    id:"pub_132",
+    title:"Enhancing the catalytic activity of Pd nanocrystals towards Suzuki Cross?Coupling by g?C3N4 photosensitization",
+    authors:[
+      "S Mondal",
+      "L Sahoo",
+      "M Banoo",
+      "Y Vaishnav",
+      "CP Vinod",
+      "UK Gautam*"
+    ],
+    other_details:"ChemNanoMat., (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1002/cnma.202300451"
+  },{
+    id:"pub_133",
+    title:"Intrinsic Charge Polarization in Bi19S27Cl3 Nanorods Promotes Selective C?C Coupling Reaction during Photoreduction of CO2 to Ethanol",
+    authors:[
+      "Kousik Das",
+      "Risov Das",
+      "Mohd Riyaz",
+      "Arko Parui",
+      "Debabrata Bagchi",
+      "Ashutosh Kumar Singh",
+      "Abhishek Kumar Singh",
+      "Chathakudath P Vinod",
+      "Sebastian C Peter*"
+    ],
+    other_details:"Advanced Materials., 35 (5), 2205994 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1002/adma.202205994"
+  },{
+    id:"pub_134",
+    title:"Wurtzite CuGaS2 with an In?Situ?Formed CuO Layer Photocatalyzes CO2 Conversion to Ethylene with High Selectivity",
+    authors:[
+      "Subhajit Chakraborty",
+      "Risov Das",
+      "Mohd Riyaz",
+      "Kousik Das",
+      "Ashutosh Kumar Singh",
+      "Debabrata Bagchi",
+      "Chathakudath P Vinod",
+      "Sebastian C Peter*"
+    ],
+    other_details:"Angewandte Chemie., 135 (9), (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1002/anie.202216613"
+  },{
+    id:"pub_135",
+    title:"Covalently interconnected layers in g-C3N4: Toward high mechanical stability, catalytic efficiency and sustainability",
+    authors:[
+      "Raj Sekhar Roy",
+      "Sanjit Mondal",
+      "Samita Mishra",
+      "Maqsuma Banoo",
+      "Lipipuspa Sahoo",
+      "Amit Kumar",
+      "CP Vinod",
+      "Arijit K De",
+      "Ujjal K Gautam*"
+    ],
+    other_details:"Applied Catalysis B: Environmental., 322, 122069 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1016/j.apcatb.2022.122069"
+  },{
+    id:"pub_136",
+    title:"Imine Oxidation Catalyzed by Zinc Hydroxyapatite: Kinetic Studies",
+    authors:[
+      "Rakhi Vishwakarma",
+      "CP Vinod",
+      "Virendra K Rathod",
+      "Mannepalli Lakshmi Kantam*"
+    ],
+    other_details:"ChemistrySelect., (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1002/slct.202203503"
+  },{
+    id:"pub_137",
+    title:"Wadsworth–Emmons Reaction by Using the Fluorapatite Catalyst: Kinetic Studies",
+    authors:[
+      "Rakhi Vishwakarma",
+      "Chathakudath P Vinod",
+      "Virendra Rathod",
+      "Mannepalli Lakshmi Kantam*"
+    ],
+    other_details:"Industrial & Engineering Chemistry Research., 62, 20, 7901 - 7911 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1021/acs.iecr.3c00407"
+  },{
+    id:"pub_138",
+    title:"Unusual Ligand Assistance in Molecular Electrocatalysis via Interfacial Proton Charge Assembly",
+    authors:[
+      "Sanchayita Mukhopadhyay",
+      "Alagar Raja Kottaichamy",
+      "Pallavi Vyankuram Chame",
+      "Prasenjit Ghosh",
+      "Chathakudath Prabhakaran Vinod",
+      "Harish Makri Nimbegondi Kotresh",
+      "Sandeep C Kanade",
+      "Musthafa Ottakam Thotiyl*"
+    ],
+    other_details:"The Journal of Physical Chemistry Letters., 14, 5377 - 5385 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1021/acs.jpclett.3c01262"
+  },{
+    id:"pub_139",
+    title:"Copper Fluorapatite-Catalyzed Aza-Michael Reaction and Kinetic Studies",
+    authors:[
+      "R Vishwakarma",
+      "CP Vinod",
+      "V Rathod",
+      "ML Kantam*"
+    ],
+    other_details:"Industrial & Engineering Chemistry Research., 62 (34), 13401 - 13411 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1021/acs.iecr.3c01383"
+  },{
+    id:"pub_140",
+    title:"Metal Deficiency Tailored by the 18-Electron Rule Stabilizes Metal-Based Inorganic Compounds",
+    authors:[
+      "AK Singh",
+      "D Mumbaraddi",
+      "V Mishra",
+      "S Roy",
+      "CP Vinod",
+      "SC Peter*"
+    ],
+    other_details:"Chemistry of Materials., 35 (15), 6050 - 6058 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1021/acs.chemmater.3c01142"
+  },{
+    id:"pub_141",
+    title:"Active Site Engineering and Theoretical Aspects of “Superhydrophilic” Nanostructure Array Enabling Efficient Overall Water Electrolysis",
+    authors:[
+      "Sidharth Barik",
+      "Geeta Pandurang Kharabe",
+      "Rajith Illathvalappil",
+      "Chandrodai Pratap Singh",
+      "Fayis Kanheerampockil",
+      "Priyanka S Walko",
+      "Suresh K Bhat",
+      "R Nandini Devi",
+      "CP Vinod*",
+      "Sailaja Krishnamurty*",
+      "Sreekumar Kurungot*"
+    ],
+    other_details:"Small., (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1002/smll.202304143"
+  },{
+    id:"pub_142",
+    title:"Made to Measure Squaramide COF Cathode for Zinc Dual?Ion Battery with Enriched Storage via Redox Electrolyte",
+    authors:[
+      "Rinku Kushwaha",
+      "Chitvan Jain",
+      "Pragalbh Shekhar",
+      "Deepak Rase",
+      "Rajith Illathvalappil",
+      "Deep Mekan",
+      "Augastus Camellus",
+      "Chathakudath Prabhakaran Vinod",
+      "Ramanathan Vaidhyanathan*"
+    ],
+    other_details:"Advanced Energy Materials., 13 (34), 2301049 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1002/aenm.202301049"
+  },{
+    id:"pub_143",
+    title:"Distortion-Induced Interfacial Charge Transfer at Single Cobalt Atom Secured on Ordered Intermetallic Surface Enhances Pure Oxygen Production",
+    authors:[
+      "Soumi Mondal",
+      "Mohd Riyaz",
+      "Debabrata Bagchi",
+      "Nilutpal Dutta",
+      "Ashutosh Kumar Singh",
+      "Chathakudath P Vinod",
+      "Sebastian C Peter*"
+    ],
+    other_details:"ACS Nano., 7, 22, 23169 - 23180 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1021/acsnano.3c09680"
+  },{
+    id:"pub_144",
+    title:"Tailoring COFs: Transforming Nonconducting 2D Layered COF into a Conducting Quasi-3D Architecture via Interlayer Knitting with Polypyrrole",
+    authors:[
+      "Chitvan Jain",
+      "Rinku Kushwaha",
+      "Deepak Rase",
+      "Pragalbh Shekhar",
+      "Ankita Shelke",
+      "Disha Sonwani",
+      "Thalasseril G Ajithkumar",
+      "Chathakudath Prabhakaran Vinod",
+      "Ramanathan Vaidhyanathan*"
+    ],
+    other_details:"Journal of the American Chemical Society., (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1021/jacs.3c09937"
+  },{
+    id:"pub_145",
+    title:"Pd Nanoparticles Supported on N-Incorporated Hybrid Organosilica as an Active and Selective Low-Temperature Phenol Hydrogenation Catalyst",
+    authors:[
+      "KJ Betsy",
+      "P Bajpai",
+      "A Lazar",
+      "K Vanka",
+      " CP Vinod*"
+    ],
+    other_details:"ACS Applied Nano Materials., 6, 13, 11500 - 11512 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1021/acsanm.3c01540"
+  },{
+    id:"pub_146",
+    title:"Morphology-Dependent Catalysis by Co3O4 Nanostructures in Atmospheric Pressure Carbon Dioxide Hydrogenation",
+    authors:[
+      "S Gupta",
+      "P Jain",
+      "D Jagadeesan",
+      "C. P. Vinod*"
+    ],
+    other_details:"The Journal of Physical Chemistry C., 127 (27), 13055 - 13064 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1021/acs.jpcc.3c02857"
+  },{
+    id:"pub_147",
+    title:"Deciphering Particle Morphology Effects in Cinnamaldehyde Hydrogenation over Palladium Nanostructures",
+    authors:[
+      "G Porwal",
+      "H KV",
+      "S Sreedhala",
+      "TS Khan",
+      "MA Haider*",
+      "CP Vinod*"
+    ],
+    other_details:"ACS Engineering Au., 3, 6, 477 - 487 (2023)",
+    year:"2023",
+    doi:"https://doi.org/10.1021/acsengineeringau.3c00017"
+  },{
+    id:"pub_148",
+    title:"Electrochemical energy storage in an organic supercapacitor via a non-electrochemical proton charge assembly",
+    authors:[
+      "Sanchayita Mukhopadhyay",
+      "Alagar Raja Kottaichamy",
+      "Mruthyunjayachari Chattanahalli Devendrachari",
+      "Rahul Mahadeo Mendhe",
+      "Harish Makri Nimbegondi Kotresh",
+      "Chathakudath Prabhakaran Vinod",
+      "Musthafa Ottakam Thotiyl*"
+    ],
+    other_details:"Chemical Science., 15, 1726 - 1735 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1039/D3SC05639B"
+  },{
+    id:"pub_149",
+    title:"Iron-catalyzed (E)-selective hydrosilylation of alkynes: scope and mechanistic insights",
+    authors:[
+      "A Sen",
+      "T Tewari",
+      "R Kumar",
+      "CP Vinod",
+      "H Sharma",
+      "K Vanka",
+      "SH Chikkali*"
+    ],
+    other_details:"Catalysis Science & Technology., 14 (10), 2752 - 2760 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1039/D3CY01775C"
+  },{
+    id:"pub_150",
+    title:"Facile synthesis of nanostructured Ni/NiO/N-doped graphene electrocatalysts for enhanced oxygen evolution reaction",
+    authors:[
+      "R Madampadi",
+      "AB Patel",
+      "CP Vinod",
+      "R Gupta",
+      "D Jagadeesan*"
+    ],
+    other_details:"Nanoscale Advances., 6 (11), 2813 - 2822 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1039/D4NA00141A"
+  },{
+    id:"pub_151",
+    title:"Fuel from waste: electrosynthesizing ammonia directly from agricultural digestate through ligand isomerization",
+    authors:[
+      "Rahul Mahadeo Mendhe",
+      "Ritwik Mondal",
+      "Alagar Raja Kottaichamy",
+      "Akshay Haridas",
+      "Harish Makri Nimbegondi Kotresh",
+      "Chathakudath Prabhakaran Vinod",
+      "Ravikumar Thimmappa",
+      "Musthafa Ottakam Thotiyl*"
+    ],
+    other_details:"Green Chemistry., 26, 6490 - 6500 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1039/D4GC00740A"
+  },{
+    id:"pub_152",
+    title:"Kinetic Model of Hydrogenation of Glucose to Sorbitol on a Ni/Bentonite Catalyst",
+    authors:[
+      "H Pandya",
+      "CP Vinod",
+      "V Rathod",
+      "ML Kantam"
+    ],
+    other_details:"Industrial & Engineering Chemistry Research., 63 (11), 4771 - 4781 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1021/acs.iecr.3c03808"
+  },{
+    id:"pub_153",
+    title:"Hydrogenation of furfural to tetrahydrofurfuryl alcohol over nickel-supported on organoclay catalyst",
+    authors:[
+      "PA Kamble",
+      "CP Vinod",
+      "VK Rathod",
+      "ML Kantam*"
+    ],
+    other_details:"Applied Catalysis A: General., 674, 119621 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1016/j.apcata.2024.119621"
+  },{
+    id:"pub_154",
+    title:"Unraveling the Cooperative Mechanisms in Ultralow Copper-Loaded WC@NGC for Enhanced CO2 Electroreduction to Acetic Acid",
+    authors:[
+      "Debabrata Bagchi",
+      "Mohd Riyaz",
+      "Jithu Raj",
+      "Soumyabrata Roy",
+      "Ashutosh Kumar Singh",
+      "Arjun Cherevotan",
+      "Chathakudath P Vinod",
+      "Sebastian C Peter*"
+    ],
+    other_details:"Chemistry of Materials., 36 (7), 3464 - 3476 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1021/acs.chemmater.4c00405"
+  },{
+    id:"pub_155",
+    title:"Photocatalytic Regeneration of Reactive Cofactors with InP Quantum Dots for the Continuous Chemical Synthesis",
+    authors:[
+      "IN Chakraborty",
+      "V Jain",
+      "P Roy",
+      "P Kumar",
+      "CP Vinod",
+      "PP Pillai*"
+    ],
+    other_details:"ACS Catalysis., 14 (9), 6740 - 6748 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1021/acscatal.4c00817"
+  },{
+    id:"pub_156",
+    title:"Aluminium, Nitrogen-Dual-Doped Reduced Graphene Oxide Co-Existing with Cobalt-Encapsulated Graphitic Carbon Nanotube as an Activity Modulated Electrocatalyst for Oxygen Electrocatalyst for Oxygen Electrochemistry Applications",
+    authors:[
+      "Geeta Pandurang Kharabe",
+      "Sidharth Barik",
+      "Sudheesh Kumar Veeranmaril",
+      "Aathira Nair",
+      "Rajith Illathvalappil",
+      "Athira Yoyakki",
+      "Kavita Joshi*",
+      "Chathakudath Prabhakaran Vinod*",
+      "Sreekumar Kurungot*"
+    ],
+    other_details:"Small., (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1002/smll.202400012"
+  },{
+    id:"pub_157",
+    title:"Ligand Isomerization Driven Electrocatalytic Switching",
+    authors:[
+      "Alagar Raja Kottaichamy",
+      "Mohammed Azeezulla Nazrulla",
+      "Muskan Parmar",
+      "Ravikumar Thimmappa",
+      "Mruthyunjayachari Chattanahalli Devendrachari",
+      "Chathakudath Prabhakaran Vinod",
+      "Michael Volokh",
+      "Harish Makri Nimbegondi Kotresh",
+      "Menny Shalom",
+      "Musthafa Ottakam Thotiyl*"
+    ],
+    other_details:"Angewandte Chemie., (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1002/anie.202405664"
+  },{
+    id:"pub_158",
+    title:"Hydrogenation of Glucose to Sorbitol by Using Nickel Hydroxyapatite Catalyst",
+    authors:[
+      "PA Kamble",
+      "CP Vinod",
+      "VK Rathod",
+      "M Lakshmi Kantam*"
+    ],
+    other_details:"ChemCatChem., 16 (9), e202301590 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1002/cctc.202301590"
+  },{
+    id:"pub_159",
+    title:"Resorcinol–Azodianiline Covalent Organic Framework Supported FeOOH Quantum Dot-Catalyzed Electrochemical Ammonia Synthesis under Ambient Conditions",
+    authors:[
+      "Pragalbh Shekhar",
+      "Kento Kosugi",
+      "Himan Dev Singh",
+      "Rinku Kushwaha",
+      "Deepak Rase",
+      "Takumi Matsuzaki",
+      "Chitvan Jain",
+      "Piyush Singh",
+      "Yashraj Singh",
+      "C P Vinod",
+      "Mio Kondo*",
+      "Shigeyuki Masaoka*",
+      "Ramanathan Vaidhyanathan*"
+    ],
+    other_details:"Chemistry of Materials., (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1021/acs.chemmater.4c00859"
+  },{
+    id:"pub_160",
+    title:"Atmospheric-Pressure Continuous-Flow Methane Oxidation to Methanol and Acetic Acid Using H2O2 over the Au–Fe Catalyst",
+    authors:[
+      "Anuradha V Jagtap",
+      "Pawan Kumar",
+      "Sharad Gupta",
+      "Abharana Nagendra",
+      "Shambhu Nath Jha",
+      "Dibyendu Bhattacharyya",
+      "Thalasseril G Ajithkumar",
+      "CP Vinod*"
+    ],
+    other_details:"ACS Sustainable Chemistry & Engineering., 12, 23, 8958 - 8967 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1021/acssuschemeng.4c02993"
   }
-
 ];
