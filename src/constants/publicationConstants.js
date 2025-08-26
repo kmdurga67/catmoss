@@ -2183,5 +2183,163 @@ export const publicationConstant = [
     other_details:"ACS Sustainable Chemistry & Engineering., 12, 23, 8958 - 8967 (2024)",
     year:"2024",
     doi:"https://doi.org/10.1021/acssuschemeng.4c02993"
+  },{
+    id:"pub_161",
+    title:"Exploring the CeO2 Support Morphology for the Carbon Dioxide Hydrogenation Reaction using Nickel Catalysts",
+    authors:[
+      "S  Gupta",
+      "A Jagtap",
+      "CP Vinod*"
+    ],
+    other_details:"The Journal of Physical Chemistry C., 128, 44, 18782–18792 (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1021/acs.jpcc.4c05258"
+  },{
+    id:"pub_162",
+    title:"Breaking the Pt Electron Symmetry and OH Spillover towards PtIr Active Center for Performance Modulation in Direct Ammonia Fuel Cell",
+    authors:[
+      "Sidharth Barik",
+      "Geeta Pandurang Kharabe",
+      "Pragnya Paramita Samal",
+      "Rajashri R Urkude",
+      "Sachin Kumar",
+      "Athira Yoyakki",
+      "CP Vinod",
+      "Sailaja Krishnamurty",
+      "Sreekumar Kurungot"
+    ],
+    other_details:"Small., 20, 49, (2024)",
+    year:"2024",
+    doi:"https://doi.org/10.1002/smll.202406589"
+  },{
+    id:"pub_163",
+    title:"Enhanced light–matter interaction in gas nitridation-derived TiNx thin films for potential plasmonic applications",
+    authors:[
+      "L Tony",
+      "IP Selvam",
+      "CP Vinod",
+      "SN Potty"
+    ],
+    other_details:"Journal of Materials Science, 1-17 (2024)",
+    year:"2024"
+  },{
+    id:"pub_164",
+    title:"Ultra-Small Pd Nanoparticles on SBA-15: An Efficient Catalyst for One-Pot Reductive Alkylation of Nitrobenzene with Size-Dependent Activity",
+    authors:[
+      "Y Soni*",
+      "MC Philip",
+      "CP Vinod*"
+    ],
+    other_details:"Topics in Catalysis., 1-16 (2024)",
+    year:"2024",
+    doi:"https://dx.doi.org/10.1007/s11244-024-02042-3"
+  },{
+    id:"pub_165",
+    title:"Metal deficiency tuned charge transfer in intermetallic Ni 2− x Sn (x= 0.37–0.65) enhances selective conversion of furfural to furfuryl alcohol towards the theoretical limit",
+    authors:[
+      "Arjun Cherevotan",
+      "Ashutosh Kumar Singh",
+      "Anish Yadav",
+      "Raghu V Maligal-Ganesh",
+      "Jithu Raj",
+      "Anu Pulparambil",
+      "Devender Goud",
+      "Chathakudath P Vinod",
+      "Sebastian C Peter*"
+    ],
+    other_details:"Journal of Materials Chemistry A., 13, 6042-6048 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1039/D4TA06383J"
+  },{
+    id:"pub_166",
+    title:"Synthesis of glycolic acid from glyoxal by using hydrotalcite catalyst and kinetic studies",
+    authors:[
+      "Harmitkumar N Pandya",
+      "Paresh A Kamble",
+      "Chathakudath P Vinod",
+      "Virendra Rathod",
+      "Mannepalli Lakshmi Kantam*"
+    ],
+    other_details:"ChemCatChem, 17,12, e202500321 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1002/cctc.202500321"
+  },{
+    id:"pub_167",
+    title:"Hot Injection Assisted Electronically Modulated Twin and Grain Boundary Rich Sub‐2 nm Pt3Co Alloy Resistant to Phosphate Ion for PEMFCs",
+    authors:[
+      "Mayank U Singh",
+      "Swapnil D Jadhav",
+      "Bhavana R Shivankar",
+      "Ajmal Pandikassala",
+      "Yogesh Kumar",
+      "Sailaja Krishnamurty*",
+      "CP Vinod*",
+      "Sreekumar Kurungot*"
+    ],
+    other_details:"Small, 21 (20), 2500954 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1002/smll.202500954"
+  },{
+    id:"pub_168",
+    title:"Dopant and Exfoliation Induced Simultaneous Modification of Charge Density and C─C Coupling Sites for Efficient CO2 Photoreduction to Ethylene",
+    authors:[
+      "Kousik Das",
+      "Subhajit Chakraborty",
+      "Siddhi Kediya",
+      "Ashutosh Kumar Singh",
+      "Risov Das",
+      "Soumi Mondal",
+      "Mohd Riyaz",
+      "Devender Goud",
+      "Nilutpal Dutta",
+      "Chathakudath P Vinod",
+      "Sebastian C Peter*"
+    ],
+    other_details:"Angew Chem, 64, 28, e202423471 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1002/anie.202423471"
+  },{
+    id:"pub_169",
+    title:"Hydrogenation of CO2 Catalyzed by Thermally Decomposed Cobalt-Containing Alkaline Earth Metal Carbonates",
+    authors:[
+      "Sharad Gupta*",
+      "CP Vinod",
+      "Christophe Poupin",
+      "Dinesh Jagadeesan*"
+    ],
+    other_details:"Energy and Fuels, 39, 27, 12982–12991 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1021/acs.energyfuels.5c01793"
+  },{
+    id:"pub_170",
+    title:"Facet dependence for solvent-modulated proton coupled electron transfer in furfural acetalization on Pd nanostructures",
+    authors:[
+      "G Porwal",
+      "P Dandekar",
+      "T Gorai",
+      "TS Khan",
+      "MA Haider*",
+      "S Gupta*",
+      "CP Vinod*"
+    ],
+    other_details:"Chemical Engineering Journal, 514, 15, 163159 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1016/j.cej.2025.163159"
+  },{
+    id:"pub_171",
+    title:"Unravelling the Cu-Co nanoparticle synergy over Ceria-Zirconia support toward efficient reverse water gas shift (RWGS) conversion under H2 lean conditions",
+    authors:[
+      "Anuradha Vijay Jagtap",
+      "Mahesh Kumar Bamnia",
+      "Ashakiran Maibam",
+      "Jyotsna Paliwal Bajpai",
+      "Sharad Gupta",
+      "Sharon K Thomas",
+      "Niteen B Dabke",
+      "CP Vinod*"
+    ],
+    other_details:"Chemical Engineering Journal, 508, 15, 160705 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1016/j.cej.2025.160705"
   }
 ];
