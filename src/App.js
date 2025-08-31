@@ -11,6 +11,9 @@ import Patents from "./pages/Patents";
 import Accolades from "./pages/Accolades";
 import Contact from "./pages/Contact";
 import NewsPage from "./pages/NewsPage";
+import CatalysisPage from "./pages/CatalysisPage";
+import NanomaterialsPage from "./pages/NanomaterialPage";
+import SurfaceSciencePage from "./pages/SurfaceScience";
 
 function App() {
   return (
@@ -19,6 +22,9 @@ function App() {
       <main className="flex-grow">
         <Routes>
           <Route path="/" element={<HomePage />} />
+          <Route path="/catalysis" element={<CatalysisPage />} />
+          <Route path="/nanomaterials" element={<NanomaterialsPage />} />
+          <Route path="/surface-science" element={<SurfaceSciencePage />} />
           <Route path="/group-members" element={<GroupMembers />} />
           <Route path="/research-topics" element={<ResearchTopics />} />
           <Route path="/facilities" element={<Facilities />} />

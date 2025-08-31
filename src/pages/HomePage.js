@@ -4,12 +4,13 @@ import { carouselData, workDetails } from "../constants/constant";
 import SectionTitle from "../components/SectionTitle";
 import ResearchCard from "../components/ResearchCard";
 import NewsSection from "../components/NewsSection";
+import { Link } from 'react-router-dom';
 
 const HomePage = () => {
   return (
     <div>
       <div className="relative">
-        <Carousel 
+        <Carousel
           showArrows={true}
           showStatus={false}
           showThumbs={false}
@@ -24,7 +25,7 @@ const HomePage = () => {
         >
           {carouselData.map((item) => (
             <div key={item.id} className="relative h-[500px]">
-              <div 
+              <div
                 className="absolute inset-0 bg-cover bg-center"
                 style={{ backgroundImage: `url(${item.imageUrl})` }}
               >
@@ -42,8 +43,8 @@ const HomePage = () => {
 
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
-          <SectionTitle 
-            title="About Our Research" 
+          <SectionTitle
+            title="About Our Research"
             subtitle="Exploring the frontiers of catalysis science"
           />
           <div className="max-w-4xl mx-auto">
@@ -56,26 +57,34 @@ const HomePage = () => {
 
       <section className="py-16 bg-gray-50">
         <div className="container mx-auto px-4">
-          <SectionTitle 
-            title="Research Highlights" 
+          <SectionTitle
+            title="Research Highlights"
             subtitle="Our key areas of investigation"
           />
           <div className="grid md:grid-cols-3 gap-8 mt-12">
-            <ResearchCard 
-              title="Catalysis"
-              description="Developing novel catalysts for sustainable chemical processes"
-              icon="🧪"
-            />
-            <ResearchCard 
-              title="Surface Science"
-              description="Exploring surfaces relevant to catalysis under realistic conditions (Bridging the pressure Gap)"
-              icon="🔬"
-            />
-            <ResearchCard 
-              title="Nanomaterial synthesis"
-              description="Synthesis of functional nanomaterials for catalytic applications. Predictive and Rational catalyst design"
-              icon="⚛️"
-            />
+            <Link to="/catalysis">
+              <ResearchCard
+                title="Catalysis"
+                description="Developing novel catalysts for sustainable chemical processes"
+                icon="🧪"
+              />
+            </Link>
+
+            <Link to="/surface-science">
+              <ResearchCard
+                title="Surface Science"
+                description="Exploring surfaces relevant to catalysis under realistic conditions"
+                icon="🔬"
+              />
+            </Link>
+
+            <Link to="/nanomaterials">
+              <ResearchCard
+                title="Nanomaterial synthesis"
+                description="Synthesis of functional nanomaterials for catalytic applications"
+                icon="⚛️"
+              />
+            </Link>
           </div>
         </div>
       </section>
