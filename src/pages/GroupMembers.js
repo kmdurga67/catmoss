@@ -191,7 +191,7 @@ const PhdAlumniCard = ({ alumni }) => (
             </div>
 
             <ContentSection title="Thesis Title" content={alumni.thesisTitle} small />
-            <ContentSection title="Current Position" content={alumni.currentPosition} small />
+           {alumni.currentPosition && ( <ContentSection title="Current Position" content={alumni.currentPosition} small />)}
 
             <div>
                 <h4 className="text-xs font-semibold uppercase tracking-wider text-gray-500 mb-1">
@@ -262,10 +262,10 @@ const StatBadge = ({ count, label, color }) => {
 
 const ContentSection = ({ title, content, small = false }) => (
     <div className="mb-4">
-        <h4 className={`${small ? 'text-xs' : 'text-sm'} font-semibold uppercase tracking-wider text-gray-700 mb-1`}>
+        <h4 className={`${small ? 'text-xs' : 'text-sm'} font-semibold uppercase tracking-wider text-gray-800 mb-1`}>
             {title}
         </h4>
-        <p className={`${small ? 'text-sm' : 'text-base'} text-gray-600 ${small ? '' : 'text-justify'} text-justify`}>
+        <p className={`${small ? 'text-sm' : 'text-base'} text-gray-500 ${small ? '' : 'text-justify'} text-justify`}>
             {content}
         </p>
     </div>

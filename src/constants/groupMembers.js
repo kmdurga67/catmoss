@@ -20,6 +20,8 @@ import SUNILSEKHAR from "../assets/team/Sunilsekhar.PNG";
 import VYSAKHAB from "../assets/team/Vysakhab.PNG";
 import YOGITASONI from "../assets/team/yogitasoni.PNG";
 import JYOTSNA from "../assets/team/Jyotsna.png";
+import ANURADHA from "../assets/team/ANURADHA.jpg";
+import PAWAN from "../assets/team/PAWANKUMAR.jpg";
 
 export const groupMembers = [
     {
@@ -298,8 +300,24 @@ export const phdAlumini = [
         name:"Dr. Govind Porwal",
         tenure:"2016 - 2020",
         thesisTitle:"Insights on the synthesis of fine chemicals and its upscaling on heterogenous catalysts",
-        currentPosition:"Project Scientist, NCL Pune",
+        currentPosition:"Research Manager in Rashtriya Chemicals & Fertilizers Limited",
         email:"govind2708@gmail.com",
         imageURL:GOVINDPORWAL
+    },{
+        id:"phdalumini_010",
+        name:"Dr. Anuradha V Jagtap",
+        tenure:"2018",
+        thesisTitle:"Developing new catalytic material for C1 molecule activation",
+        // currentPosition:"N/A",
+        email:"av.jagtap @ncl.res.in",
+        imageURL:ANURADHA
+    },{
+        id:"phdalumini_011",
+        name:"Dr. Pawan Kumar",
+        tenure:"2020",
+        thesisTitle:"Catalyst designing for C-H activation",
+        // currentPosition:"N/A",
+        email:"p.singh@ncl.res.in",
+        imageURL:PAWAN
     }
 ];
