@@ -2341,15 +2341,5 @@ export const publicationConstant = [
     other_details:"Chemical Engineering Journal, 508, 15, 160705 (2025)",
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.160705"
-  },
-  {
-    id:"pub_172",
-    title:"Hot Injection Assisted Electronically Modulated Twin and Grain Boundary Rich Sub‐2 nm Pt3Co Alloy Resistant to Phosphate Ion for PEMFCs",
-    authors:[
-      "Mayank U Singh", "Swapnil D Jadhav", "Bhavana R Shivankar", "Ajmal Pandikassala", "Yogesh Kumar", "Sailaja Krishnamurty", "CP Vinod", "Sreekumar Kurungot"
-    ],
-    other_details:"Small",
-    year:"2025",    
-    doi:"https://doi.org/10.1002/smll.202500954"
   }
 ];
