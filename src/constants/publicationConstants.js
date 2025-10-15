@@ -2349,7 +2349,7 @@ export const publicationConstant = [
       "Mayank U Singh", "Swapnil D Jadhav", "Bhavana R Shivankar", "Ajmal Pandikassala", "Yogesh Kumar", "Sailaja Krishnamurty", "CP Vinod", "Sreekumar Kurungot"
     ],
     other_details:"Small",
-    year:"2025",
+    year:"2025",    
     doi:"https://doi.org/10.1002/smll.202500954"
   }
 ];
