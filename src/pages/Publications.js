@@ -127,14 +127,11 @@ YearFilter.propTypes = {
 };
 
 const Publications = () => {
-  // First, sort all publications by year (descending) and then by ID (descending)
   const sortedPublicationConstant = useMemo(() => {
     return [...publicationConstant].sort((a, b) => {
-      // First sort by year descending (newest first)
       if (parseInt(b.year) !== parseInt(a.year)) {
         return parseInt(b.year) - parseInt(a.year);
       }
-      // If same year, sort by ID descending (highest ID first)
       return parseInt(b.id) - parseInt(a.id);
     });
   }, []);
@@ -161,7 +158,6 @@ const Publications = () => {
       return acc;
     }, {});
 
-    // Sort publications within each year by ID in descending order (highest ID first)
     Object.keys(grouped).forEach(year => {
       grouped[year].sort((a, b) => parseInt(b.id) - parseInt(a.id));
     });
