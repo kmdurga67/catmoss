@@ -127,20 +127,32 @@ YearFilter.propTypes = {
 };
 
 const Publications = () => {
-  const allYears = useMemo(() => {
-    const years = new Set(publicationConstant.map(pub => pub.year));
-    return Array.from(years).sort((a, b) => b - a);
+  // First, sort all publications by year (descending) and then by ID (descending)
+  const sortedPublicationConstant = useMemo(() => {
+    return [...publicationConstant].sort((a, b) => {
+      // First sort by year descending (newest first)
+      if (parseInt(b.year) !== parseInt(a.year)) {
+        return parseInt(b.year) - parseInt(a.year);
+      }
+      // If same year, sort by ID descending (highest ID first)
+      return parseInt(b.id) - parseInt(a.id);
+    });
   }, []);
+
+  const allYears = useMemo(() => {
+    const years = new Set(sortedPublicationConstant.map(pub => pub.year));
+    return Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+  }, [sortedPublicationConstant]);
 
   const [selectedYear, setSelectedYear] = useState('all');
 
   const filteredPublications = useMemo(() => {
-    if (selectedYear === 'all') return publicationConstant;
-    return publicationConstant.filter(pub => pub.year === selectedYear);
-  }, [selectedYear]);
+    if (selectedYear === 'all') return sortedPublicationConstant;
+    return sortedPublicationConstant.filter(pub => pub.year === selectedYear);
+  }, [selectedYear, sortedPublicationConstant]);
 
   const groupedPublications = useMemo(() => {
-    return filteredPublications.reduce((acc, publication) => {
+    const grouped = filteredPublications.reduce((acc, publication) => {
       const year = publication.year;
       if (!acc[year]) {
         acc[year] = [];
@@ -148,9 +160,16 @@ const Publications = () => {
       acc[year].push(publication);
       return acc;
     }, {});
+
+    // Sort publications within each year by ID in descending order (highest ID first)
+    Object.keys(grouped).forEach(year => {
+      grouped[year].sort((a, b) => parseInt(b.id) - parseInt(a.id));
+    });
+
+    return grouped;
   }, [filteredPublications]);
 
-  const sortedYears = Object.keys(groupedPublications).sort((a, b) => b - a);
+  const sortedYears = Object.keys(groupedPublications).sort((a, b) => parseInt(b) - parseInt(a));
   const totalPublications = publicationConstant.length;
 
   return (

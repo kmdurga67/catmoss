@@ -1,6 +1,6 @@
 export const publicationConstant = [
   {
-    "id": "pub_001",
+    "id": "001",
     "title": "Diverse reactivity patterns of nickel deposited on gold and tungsten surfaces",
     "authors": [
       " G. U. Kulkarni",
@@ -9,7 +9,7 @@ export const publicationConstant = [
     "other_details": "Appl. Surf. Sci., 115, 336 (1997).",
     year: "1997"
   }, {
-    "id": "pub_002",
+    "id": "002",
     "title": "Size dependent changes on the electronic structure of metal clusters as investigated by Scanning tunneling spectroscopy",
     authors: [
       "C. P. Vinod",
@@ -20,7 +20,7 @@ export const publicationConstant = [
     year: "1998"
   },
   {
-    id: "pub_003",
+    id: "003",
     title: "Facile CO bond scission in alcohols on Zn surfaces",
     authors: [
       "K. R. Hari Kumar",
@@ -32,7 +32,7 @@ export const publicationConstant = [
     year: '1999'
   },
   {
-    id: "pub_004",
+    id: "004",
     title: "Formation of aligned carbon and carbon-nitrogen nanotubes on silica-supported iron and cobalt catalysts",
     authors: [
       "Manashi Nath",
@@ -44,7 +44,7 @@ export const publicationConstant = [
     other_details: "Chem. Phys. Lett., 322, 333 (2000).",
     year: "2000"
   }, {
-    id: "pub_005",
+    id: "005",
     title: "Interaction of carbon monoxide with Cu-Pd and Cu-Ni bimetallic clusters",
     authors: [
       "C. P. Vinod",
@@ -55,7 +55,7 @@ export const publicationConstant = [
     other_details: "Topics in Catalysis., 11/12, 293 (2000).",
     year: "2000"
   }, {
-    id: "pub_006",
+    id: "006",
     title: "A method employing STM for the estimation of relative changes in the work function of modified metal tips",
     authors: [
       "R. B. Sharma",
@@ -65,7 +65,7 @@ export const publicationConstant = [
     other_details: " Bulletin of Material Science., 25, 247 (2002).",
     year: "2002"
   }, {
-    id: "pub_007",
+    id: "007",
     title: "Boron nitride nanotubes and nanowires",
     authors: [
       "F. L. Deepak",
@@ -77,7 +77,7 @@ export const publicationConstant = [
     other_details: "Chem. Phys. Lett., 353, 345 (2002).",
     year: "2002"
   }, {
-    id: "pub_008",
+    id: "008",
     title: "Nanoscale catalysis by Gold, Surface Chemistry and Catalysis",
     authors: [
       "G. U. Kulkarni",
@@ -87,7 +87,7 @@ export const publicationConstant = [
     other_details: "(Eds. A. Carley, P. Davies, G. Hutchings and M. Spencer, Springer, 2002)., , 191 - 206 (2002).",
     year: "2002"
   }, {
-    id: "pub_009",
+    id: "009",
     title: "A methanol-water complex stabilized on a Zn(0001) surface",
     authors: [
       "S. Vijayalakhshmi",
@@ -97,7 +97,7 @@ export const publicationConstant = [
     other_details: "Surf. Rev. Lett., 10, 87 (2003).",
     year: "2003"
   }, {
-    id: "pub_010",
+    id: "010",
     title: "Polyethersulfone supported titanium complexes as ethylene polymerization catalysts",
     authors: [
       "V. Gupta",
@@ -110,7 +110,7 @@ export const publicationConstant = [
     other_details: " Current Science., 88 ( 7), 1162 (2005).",
     year: "2005"
   }, {
-    id: "pub_011",
+    id: "011",
     title: "Synthesis and Reactivity of Dimethyl Gold Complexes Supported on MgO: Characterization by Infrared and X-ray Absorption Spectroscopies",
     authors: [
       "Javier Guzman",
@@ -123,7 +123,7 @@ export const publicationConstant = [
     other_details: "Langmuir., 21(8), 3675 (2005).",
     year: '2005'
   }, {
-    id: "pub_012",
+    id: "012",
     title: "Interaction of small molecules with Au(310): Decomposition of NO",
     authors: [
       "C.P.Vinod",
@@ -133,7 +133,7 @@ export const publicationConstant = [
     other_details: "Applied Catalysis A-General., 291 (1-2), 93 (2005).",
     year: "2005"
   }, {
-    id: "pub_013",
+    id: "013",
     title: "NH3 adsorption and decomposition on Ir(110), a combined TPD and high resolution “fast” XPS study",
     authors: [
       "C.J. Westrate",
@@ -148,7 +148,7 @@ export const publicationConstant = [
     other_details: "J. Chem. Phys., 122, 184705 (2005).",
     year: '2005'
   }, {
-    id: "pub_014",
+    id: "014",
     title: "Zeolite NaY-supported gold complexes prepared from Au(CH3)2(C5H7O2): reactivity with carbon monoxide",
     authors: [
       "Juan C. Fierro-Gonzalez",
@@ -161,7 +161,7 @@ export const publicationConstant = [
     other_details: "Cat. Lett., 101 (3–4), 265 (2005).",
     year: '2005'
   }, {
-    id: "pub_015",
+    id: "015",
     title: "The role of Oad in the decomposition of NH3 adsorbed on Ir(110): a combined TPD and high-energy resolution fast XPS study",
     authors: [
       "C. J. Weststrate",
@@ -176,7 +176,7 @@ export const publicationConstant = [
     other_details: "Phys. Chem. Chem. Phys., 7(13), 2629 (2005).",
     year: '2005'
   }, {
-    id: "pub_016",
+    id: "016",
     title: "Chaos, oscillations and the golden future of catalysis",
     authors: [
       "B.E. Nieuwenhuys",
@@ -188,7 +188,7 @@ export const publicationConstant = [
     other_details: "Catalysis Today., 100 (1-2), 49 (2005).",
     year: '2005'
   }, {
-    id: "pub_017",
+    id: "017",
     title: "Selective NH3 oxidation on (110) and (111) iridium surfaces",
     authors: [
       "Weststrate CJ",
@@ -204,7 +204,7 @@ export const publicationConstant = [
     other_details: " Journal of Catalysis., 235 (1), 92 (2005).",
     year: '2005'
   }, {
-    id: "pub_018",
+    id: "018",
     title: "Decomposition of methanol on Au(310)",
     authors: [
       "C.P.Vinod*",
@@ -214,7 +214,7 @@ export const publicationConstant = [
     other_details: "Phys. Chem. Chem. Phys., 7(8), 1824 (2005).",
     year: '2005'
   }, {
-    id: "pub_019",
+    id: "019",
     title: "Tricarbonyls of low-coordinated Au(0) atoms in zeolite-supported gold nanoparticles: Evidence from infrared and X-ray absorption spectroscopies",
     authors: [
       "Anderson BG",
@@ -227,7 +227,7 @@ export const publicationConstant = [
     other_details: "Langmuir., 22 (9), 4310 (2006).",
     year: "2006"
   }, {
-    id: "pub_020",
+    id: "020",
     title: "Synchrotron XPS and desorption study of the NO chemistry on a stepped Pt surface",
     authors: [
       "Weststrate CJ",
@@ -242,7 +242,7 @@ export const publicationConstant = [
     other_details: "Surface Science., 600 (10), 1991 (2006).",
     year: '2006'
   }, {
-    id: "pub_021",
+    id: "021",
     title: "Ammonia oxidation on Pt(410)",
     authors: [
       "C.J. Weststrate",
@@ -256,7 +256,7 @@ export const publicationConstant = [
     other_details: "Journal of Catalysis., 242, 184 (2006).",
     year: '2006'
   }, {
-    id: "pub_022",
+    id: "022",
     title: "Reactivity of crotonaldehyde and propene over Au/Pd(111) surfaces",
     authors: [
       "James Naughton",
@@ -268,7 +268,7 @@ export const publicationConstant = [
     other_details: "Phys. Chem. Chem. Phys., 12, 2670 (2010).",
     year: "2010"
   }, {
-    id: "pub_023",
+    id: "023",
     title: "Surface science as a tool for probing nanocatalysis phenomena",
     authors: [
       "C. P. Vinod"
@@ -276,7 +276,7 @@ export const publicationConstant = [
     other_details: "Catalysis Today., 154, 113 (2010).",
     year: '2010'
   }, {
-    id: "pub_024",
+    id: "024",
     title: "Surface X-ray studies of catalytic clean technologies",
     authors: [
       "Adam F Lee",
@@ -286,7 +286,7 @@ export const publicationConstant = [
     other_details: "Chemical Communications., 46, 3827 (2010).",
     year: "2010"
   }, {
-    id: "pub_025",
+    id: "025",
     title: "Recent advances in the heterogeneously catalysed aerobic selective oxidation of alcohols",
     authors: [
       "C. P. Vinod",
@@ -296,7 +296,7 @@ export const publicationConstant = [
     other_details: "J Chem Technol Biotechnology., 86(2), 161 (2011).",
     year: "2011"
   }, {
-    id: "pub_026",
+    id: "026",
     title: "A simple one pot synthesis of nano gold–mesoporous silica and its oxidation catalysis",
     authors: [
       "A. C. Sunil Sekhar",
@@ -307,7 +307,7 @@ export const publicationConstant = [
     other_details: "Catalysis Today., 198, 92 (2012).",
     year: "2012"
   }, {
-    id: "pub_027",
+    id: "027",
     title: "Synthesis and catalytic activity of monodisperse gold–mesoporous silica core–shell nanocatalysts",
     authors: [
       "A. C. Sunil Sekhar",
@@ -319,7 +319,7 @@ export const publicationConstant = [
     other_details: "Catal. Sci. Technol., 3, 1190 (2013).",
     year: "2013"
   }, {
-    id: "pub_028",
+    id: "028",
     title: "Insights into heterogeneous catalysis through surface science techniques",
     authors: [
       "C. P. Vinod"
@@ -328,7 +328,7 @@ export const publicationConstant = [
     year: "2013",
     doi: "https://10.1016/B978-0-444-53874-1.00012-3."
   }, {
-    id: "pub_029",
+    id: "029",
     title: "Design and Performance Aspects of a Custom-Built Ambient Pressure Photoelectron Spectrometer toward Bridging the Pressure Gap: Oxidation of Cu, Ag, and Au Surfaces at 1 mbar O-2 Pressure",
     authors: [
       "Roy",
@@ -339,7 +339,7 @@ export const publicationConstant = [
     other_details: " J. Phys. Chem C., 117, 4717 (2013).",
     year: "2013"
   }, {
-    id: "pub_030",
+    id: "030",
     title: "Synthesis and Reactivity of Magnetically Diverse Au@Ni Core-shell Nanostructures",
     authors: [
       "Vysakh A. Bharathan",
@@ -351,7 +351,7 @@ export const publicationConstant = [
     year: "2014",
     doi: "https://10.1002/ppsc.201300195."
   }, {
-    id: "pub_031",
+    id: "031",
     title: "Structure Sensitive Chemical Reactivity by Palladium Concave Nanocubes and Nanoflowers Synthesised by Seed Mediated Procedure in Aqueous Medium",
     authors: [
       "S. Sreedhala",
@@ -362,7 +362,7 @@ export const publicationConstant = [
     year: '2014',
     doi: "https://10.1039/c4nr01283f."
   }, {
-    id: "pub_032",
+    id: "032",
     title: "Oxidation catalysis by large trisoctahedral gold nanoparticles: Mind the step!",
     authors: [
       "S. Sreedhala",
@@ -373,7 +373,7 @@ export const publicationConstant = [
     year: "2015",
     doi: "https://10.1016/j.cattod.2014.02.049."
   }, {
-    id: "pub_033",
+    id: "033",
     title: "Activity enhancement on Titanium incorporation: Au@Ti-SiO2 core shell nanocatalysts for CO oxidation reaction",
     authors: [
       "A. C. Sunil Sekhar",
@@ -385,7 +385,7 @@ export const publicationConstant = [
     year: "2015",
     doi: "https://10.1002/cctc.201402954."
   }, {
-    id: "pub_034",
+    id: "034",
     title: "Demonstration of Synergistic Catalysis in Au@Ni Bimetallic Core Shell Nanostructures",
     authors: [
       "Vysakh A. Bharathan",
@@ -396,7 +396,7 @@ export const publicationConstant = [
     year: "2015",
     doi: "https://10.1021/jp5128089."
   }, {
-    id: "pub_035",
+    id: "035",
     title: "Mesoporous TUD-1 supported indium oxide nanoparticles for epoxidation of styrene using molecular O2",
     authors: [
       "Sumbul Rahman",
@@ -416,7 +416,7 @@ export const publicationConstant = [
     year: "2015",
     doi: "https://10.1039/C5RA03400K."
   }, {
-    id: "pub_036",
+    id: "036",
     title: "Pd loaded amphiphilic COF as catalyst for multi-fold Heck reactions, C-C couplings and CO oxidation",
     authors: [
       "D. Mullangi",
@@ -430,7 +430,7 @@ export const publicationConstant = [
     year: '2015',
     doi: "https://10.1038/srep10876."
   }, {
-    id: "pub_037",
+    id: "037",
     title: "Surfactant assisted formation of Ruthenium nanochains under mild conditions and their catalytic CO oxidation activity",
     authors: [
       "S. Sreedhala",
@@ -440,7 +440,7 @@ export const publicationConstant = [
     year: '2015',
     doi: "https://10.1039/C4CC09430A."
   }, {
-    id: "pub_038",
+    id: "038",
     title: "Preparation of mesoporous titanosilicate with isolated Ti active centers for cyclohexene oxidation",
     authors: [
       "S. Gupta",
@@ -451,7 +451,7 @@ export const publicationConstant = [
     year: "2015",
     doi: "https://10.1039/c5ra18044a."
   }, {
-    id: "pub_039",
+    id: "039",
     title: "Porous Thin Films Towards Bridging the Material Gap in Heterogeneous Catalysis",
     authors: [
       "Anjani Dubey",
@@ -464,7 +464,7 @@ export const publicationConstant = [
     other_details: "Catalysis, Structure and Reactivity., (accepted), (2016).",
     year: "2016"
   }, {
-    id: "pub_040",
+    id: "040",
     title: "A simple, phosphine free, reusable Pd(II)-2,2’-Dihydroxybenzophenone-SBA-15 catalyst for arylation and hydrogenation reactions of alkenes",
     authors: [
       "Anish Lazar",
@@ -475,7 +475,7 @@ export const publicationConstant = [
     year: "2016",
     doi: "https://10.1039/C5NJ02686E."
   }, {
-    id: "pub_041",
+    id: "041",
     title: "Correlating the role of hydrophilic/hydrophobic nature of Rh(I) and Ru(II) supported organosilica/silica catalysts in organotransformation reactions",
     authors: [
       "Anish Lazar",
@@ -488,7 +488,7 @@ export const publicationConstant = [
     year: '2016',
     doi: "https://10.1016/j.apcata.2015.12.026."
   }, {
-    id: "pub_042",
+    id: "042",
     title: "Synthesis of Au@Ni bimetallic core shell nanoparticle and nanochains in soyabean oil and their catalytic hydrogenation reactions",
     authors: [
       "A. B. Vysakh",
@@ -501,7 +501,7 @@ export const publicationConstant = [
     year: "2016",
     doi: "https://10.1002/slct.201500006."
   }, {
-    id: "pub_043",
+    id: "043",
     title: "Phenyl acetylene hydrogenation on Au@Ni bimetallic core shell nanoparticles synthesized under mild conditions",
     authors: [
       "A. B. Vysakh",
@@ -514,7 +514,7 @@ export const publicationConstant = [
     year: "2016",
     doi: "https://10.1039/C5CY02005K."
   }, {
-    id: "pub_044",
+    id: "044",
     title: "CO oxidation on large high index faceted Pd nanostructures",
     authors: [
       "S. Sreedhala",
@@ -525,7 +525,7 @@ export const publicationConstant = [
     year: "2016",
     doi: "https://10.1016/j.jcat.2016.01.017."
   }, {
-    id: "pub_045",
+    id: "045",
     title: "Gold incorporated mesoporous silica thin film model surface as a robust SERS and catalytically active substrate",
     authors: [
       "A C Sunil Sekhar*",
@@ -534,7 +534,7 @@ export const publicationConstant = [
     other_details: `Molecules., (invited article for a speciail issue "Coinage Metal (Copper, Silver, and Gold) Catalysis", (2016).`,
     year: "2016"
   }, {
-    id: "pub_046",
+    id: "046",
     title: " Large Trisoctahedral Au nanoparticles encapsulated inside porous silica catalyses CO oxidation at room temperature: Probing the effect of encapsulation and the role of step atoms and interfaces",
     authors: [
       "Sreedhala S",
@@ -547,7 +547,7 @@ export const publicationConstant = [
     doi: "https://10.1016/j.apcata.2016.05.023."
   },
   {
-    id: "pub_047",
+    id: "047",
     title: "Highly stable In-SBA-15 catalyst for vapor phase Beckmann rearrangement reaction",
     authors: [
       "Rawesh Kumara",
@@ -563,7 +563,7 @@ export const publicationConstant = [
     year: "2016",
     doi: "https://10.1016/j.micromeso.2016.07.024."
   }, {
-    id: "pub_048",
+    id: "048",
     title: "Low Band Gap Benzimidazole COF Supported Ni3N as highly active OER catalyst",
     authors: [
       "Shyamapada Nandi",
@@ -579,7 +579,7 @@ export const publicationConstant = [
     year: "2016",
     doi: "https://10.1002/aenm.201601189."
   }, {
-    id: "pub_049",
+    id: "049",
     title: "A heterogeneous route for transfer hydrogenation reactions of ketones using Ru (II) Cymene complex over modified benzene-organosilica (PMO B)",
     authors: [
       "A Lazar",
@@ -591,7 +591,7 @@ export const publicationConstant = [
     year: "2017",
     doi: "https://https://doi.org/10.1016/j.mcat.2017.07.018."
   }, {
-    id: "pub_050",
+    id: "050",
     title: "Exploration of amination reactions on highly extendable active sites of Pd (II)-3-allylsalicylaldiminophenol (ASIP) complex over thiofunctionalized SBA-15",
     authors: [
       "A Lazar",
@@ -602,7 +602,7 @@ export const publicationConstant = [
     year: "2017",
     doi: "https://https://doi.org/10.1016/j.micromeso.2017.01.026."
   }, {
-    id: "pub_051",
+    id: "051",
     title: "A Convenient Route for Au@Ti-SiO2 Nanocatalyst Synthesis and its Application for Room Temperature CO Oxidation",
     authors: [
       "Yogita Soni",
@@ -615,7 +615,7 @@ export const publicationConstant = [
     year: "2017",
     doi: "https://10.1021/acs.jpcc.6b10202."
   }, {
-    id: "pub_052",
+    id: "052",
     title: "Diverse reactivity trends of Ni surface in Au@Ni core-shell nanoparticle probed by Near Ambient Pressure (NAP) XPS",
     authors: [
       "A B Vysakh",
@@ -627,7 +627,7 @@ export const publicationConstant = [
     year: "2017",
     doi: "https://10.1039/C7CY01070B."
   }, {
-    id: "pub_053",
+    id: "053",
     title: `Model Nanoparticles in Catalysis, book chapter in "Metal Nanoparticles and Clusters Advances in Synthesis, Properties and Applications"`,
     authors: [
       "C P Vinod*",
@@ -638,7 +638,7 @@ export const publicationConstant = [
     year: "2017",
     doi: "https://doi.org/10.1007/978-3-319-68053-8_5."
   }, {
-    id: "pub_054",
+    id: "054",
     title: " Ru(II)-functionalized SBA-15 as highly chemoselective, acid free and sustainable heterogeneous catalyst for acetalization of aldehydes and ketones",
     authors: [
       "Anish Lazar",
@@ -650,7 +650,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://doi.org/10.1016/j.catcom.2017.10.016."
   }, {
-    id: "pub_055",
+    id: "055",
     title: "Highly selective aqueous phase hydrogenation of phenols over nanostructured RuO 2 on MCM-41 catalysts",
     authors: [
       "K. J. Betsy",
@@ -661,7 +661,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://doi.org/10.1016/j.nanoso.2017.11.004"
   }, {
-    id: "pub_056",
+    id: "056",
     title: "Iron Catalyzed Hydroformylation of Alkenes under Mild Conditions: Evidence of an Fe (II) Catalyzed Process",
     authors: [
       "Swechchha Pandey",
@@ -677,7 +677,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://10.1021/jacs.8b01286."
   }, {
-    id: "pub_057",
+    id: "057",
     title: "Selective oxidation of cyclohexane to cyclohexanone using chromium oxide supported mesoporous MCM-41 nanospheres: Probing the nature of catalytically active chromium sites",
     authors: [
       "K. J. Betsy",
@@ -692,7 +692,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "10.1002/cctc.201800309"
   }, {
-    id: "pub_058",
+    id: "058",
     title: "Judicious Reduction of Supported Ti Catalyst Enables Access to Disentangled Ultrahigh Molecular Weight Polyethylene",
     authors: [
       "Ravindra P Gote",
@@ -707,7 +707,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://10.1002/cnma.201800081."
   }, {
-    id: "pub_059",
+    id: "059",
     title: "Mesoporous shell@macroporous core aluminosilicates as sustainable nanocatalysts for direct N-alkylation of Amines",
     authors: [
       "A C Sunil Sekhar",
@@ -721,7 +721,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://10.1002/cnma.201800081."
   }, {
-    id: "pub_060",
+    id: "060",
     title: "Enhanced selectivity of 3-D ordered macroporous Pt/Al2O3 catalysts in nitrites removal from water",
     authors: [
       "A.C. SunilSekhar",
@@ -736,7 +736,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://10.1016/j.apcata.2018.07.014."
   }, {
-    id: "pub_061",
+    id: "061",
     title: "Highly Stable COF?Supported Co/Co(OH)2 Nanoparticles Heterogeneous Catalyst for Reduction of Nitrile/Nitro Compounds under Mild Conditions",
     authors: [
       "Dinesh Mullangi",
@@ -752,7 +752,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://10.1002/smll.201801233."
   }, {
-    id: "pub_062",
+    id: "062",
     title: "Distribution of Water in Pores of Periodic Mesoporous OrganoSilicates – a Proton Solid State MAS NMR Study",
     authors: [
       "V. S. Veena",
@@ -766,7 +766,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://doi.org/10.1039/C8CP04902E"
   }, {
-    id: "pub_063",
+    id: "063",
     title: "Role of oxygen vacancies and interstitials on structural phase transition, grain growth, and optical properties of Ga doped TiO2",
     authors: [
       "N Khatun",
@@ -781,7 +781,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://doi.org/10.1063/1.5027672"
   }, {
-    id: "pub_064",
+    id: "064",
     title: "Nickel-Catalyzed Straightforward and Regioselective C-H Alkenylation of Indoles with Alkenyl Bromides: Scope and Mechanistic Aspect",
     authors: [
       "Rahul A Jagtap",
@@ -792,7 +792,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://doi.org/10.1021/acscatal.8b04267"
   }, {
-    id: "pub_065",
+    id: "065",
     title: "One Pot Ligand Exchange Method for a Highly Stable Au- SBA- 15 Catalyst and its room temperature CO Oxidation",
     authors: [
       "Yogita Soni",
@@ -804,7 +804,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://doi.org/10.1039/C8CC90494D"
   }, {
-    id: "pub_066",
+    id: "066",
     title: "A direct Z-scheme g-C3N4/FeWO4 nanocomposite for Enhanced and Selective Photocatalytic CO2 Reduction under Visible Light",
     authors: [
       "R Bhosale",
@@ -817,7 +817,7 @@ export const publicationConstant = [
     year: "2018",
     doi: "https://doi.org/10.1021/acsami.8b22434"
   }, {
-    id: "pub_067",
+    id: "067",
     title: "Role of Li+ and Fe3+ in modified ZnO: Structural, vibrational, opto-electronic, mechanical and magnetic properties",
     authors: [
       "Gaurav Bajpai",
@@ -838,7 +838,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1039/C8CP04902E" //not found
   }, {
-    id: "pub_068",
+    id: "068",
     title: "In-situ X ray Absorption Spectroscopy Study of Fischer Tropsch Reaction with Co catalysts",
     authors: [
       "Chandrani. Nayak",
@@ -851,7 +851,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1107/S1600577518015588"
   }, {
-    id: "pub_069",
+    id: "069",
     title: "Palladium Impregnated Amine Co-condensed Hexagonal Mesoporous Silica: A Novel Catalyst in Tailoring Suzuki and Heck Coupling Reactions in Base Free Condition",
     authors: [
       "Prangya Paramita Das",
@@ -864,7 +864,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1002/slct.201803485"
   }, {
-    id: "pub_070",
+    id: "070",
     title: "Au based Ni and Co Bimetallic Core Shell Nanocatalysts for room temperature selective Decomposition of Hydrous Hydrazine to hydrogen",
     authors: [
       "Preeti Jain",
@@ -875,7 +875,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1039/C8CP04902E" //not found
   }, {
-    id: "pub_071",
+    id: "071",
     title: "Cu/Cu2O Nanoparticles Supported on a Phenol-Pyridyl COF as Heterogeneous Catalyst for the Synthesis of Unsymmetrical Diynes via Glaser-Hay Coupling",
     authors: [
       "D. Chakraborty",
@@ -889,7 +889,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1021/acsami.9b02860"
   }, {
-    id: "pub_072",
+    id: "072",
     title: "Carbon derived from soft pyrolysis of COF as a support for small-sized RuO2 showing exceptionally low-overpotential for OER",
     authors: [
       "Debanjan Chakraborty",
@@ -907,7 +907,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1021/acsomega.9b01777"
   }, {
-    id: "pub_073",
+    id: "073",
     title: "Aqueous-Phase Differentiation and Speciation of Fe3+ and Fe2+ Using Water-Stable Photoluminescent Lanthanide-Based Metal-Organic Framework",
     authors: [
       "Rahul Maity",
@@ -922,7 +922,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1021/acsanm.9b01047"
   }, {
-    id: "pub_074",
+    id: "074",
     title: "MnO2@Fe3O4 MNP: An Efficient and Recyclable Heterogeneous Catalyst for Benzylic sp3 C?H Oxidation",
     authors: [
       "Boopathy Gnanaprakasam*",
@@ -934,7 +934,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1002/asia.201900810"
   }, {
-    id: "pub_075",
+    id: "075",
     title: "Surfactant free Synthesis of Au@Ni Core-shell Nanochains in Aqueous Medium as Efficient Transfer Hydrogenation Catalyst",
     authors: [
       "A B Vysakh",
@@ -948,7 +948,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1016/j.apcata.2019.01.017"
   }, {
-    id: "pub_076",
+    id: "076",
     title: "Nickel-catalyzed C-H alkylation of indoles with unactivated alkyl chlorides: Evidence of Ni(I)/Ni(III) pathway",
     authors: [
       "Dilip K. Pandey",
@@ -961,7 +961,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1039/C9SC01446B"
   }, {
-    id: "pub_077",
+    id: "077",
     title: "Ag nanoparticles supported on a resorcinol?phenylenediamine based COF for chemical fixation of CO2",
     authors: [
       "Debanjan Chakraborty",
@@ -975,7 +975,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1002/asia.201901157"
   }, {
-    id: "pub_078",
+    id: "078",
     title: "Mechanistic Insights into the Pathways of Phenol Hydrogenation on Pd Nanostructures",
     authors: [
       "Govind Porwal",
@@ -990,7 +990,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1021/acssuschemeng.9b03392"
   }, {
-    id: "pub_079",
+    id: "079",
     title: "Unprecedented Isomerism-Activity Relation in Molecular Electrocatalysis",
     authors: [
       "Alagar Raja Kottaichamy",
@@ -1007,7 +1007,7 @@ export const publicationConstant = [
     year: "2019",
     doi: "https://doi.org/10.1021/acs.jpclett.9b02689"
   }, {
-    id: "pub_080",
+    id: "080",
     title: "Stress-Induced Electronic Structure Modulation of Manganese-Incorporated Ni2P Leading to Enhanced Activity for Water Splitting",
     authors: [
       "Shreya Sarkar",
@@ -1021,7 +1021,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1021/acsaem.9b02097"
   }, {
-    id: "pub_081",
+    id: "081",
     title: "Geometrical Isomerism Directed Electrochemical Sensing",
     authors: [
       "Kottaichamy Alagar",
@@ -1037,7 +1037,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1021/acs.analchem.9b05753"
   }, {
-    id: "pub_082",
+    id: "082",
     title: "Dynamics in Amine-functionalized Mesoporous Hybrid Materials Probed through Deuterium MAS NMR and Molecular Dynamic Simulations",
     authors: [
       "V. S. Veena",
@@ -1051,7 +1051,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1021/acs.jpcc.9b11948"
   }, {
-    id: "pub_083",
+    id: "083",
     title: "Nanocrystalline Ag3PO4 for sunlight and ambient air driven oxidation of amines: high photocatalytic efficiency and a facile catalyst regeneration strategy",
     authors: [
       "Reeya Garg",
@@ -1064,7 +1064,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1021/acsami.0c05961"
   }, {
-    id: "pub_084",
+    id: "084",
     title: "Iron-Catalyzed C(sp2)-H Alkylation of Indolines and Benzo[h]quinoline with Unactivated Alkyl Chlorides through Chelation-Assistance",
     authors: [
       "Rahul A. Jagtap",
@@ -1077,7 +1077,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1021/acscatal.0c02030"
   }, {
-    id: "pub_085",
+    id: "085",
     title: "Role of B site ion in bifunctional oxygen electrocatalysis: A structure property correlation study on doped Ca2Fe2O5 brownmillerites",
     authors: [
       "Shibin Thundiyil",
@@ -1089,7 +1089,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1039/D0CP02391D"
   }, {
-    id: "pub_086",
+    id: "086",
     title: "Tweaking Palladium Electronic Structure to Attain Oxygen Reduction Activity Superior to Platinum/C",
     authors: [
       "Saurav Sarma",
@@ -1102,7 +1102,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1021/acsaem.0c01241"
   }, {
-    id: "pub_087",
+    id: "087",
     title: "Nanoporous Covalent Organic Framework Embedded with Fe/Fe3O4 Nanoparticles as Air-Stable Low-Density Nanomagnets",
     authors: [
       "Rinku Kushwaha",
@@ -1119,7 +1119,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1021/acsomega.9b01777"
   }, {
-    id: "pub_088",
+    id: "088",
     title: "Wavelength dependent luminescence decay kinetics in quantum confined g-C3N4 nanosheets exhibiting high photocatalytic efficiency upon plasmonic coupling",
     authors: [
       "Sanjit Mondal",
@@ -1135,7 +1135,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1039/D0TA08001B"
   }, {
-    id: "pub_089",
+    id: "089",
     title: "Boron Nitride and Oxide Supported on Dendritic Fibrous Nanosilica for Catalytic Oxidative Dehydrogenation of Propane",
     authors: [
       "Rajesh Belgamwar",
@@ -1152,7 +1152,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.48550/arXiv.2011.00831"
   }, {
-    id: "pub_090",
+    id: "090",
     title: "Role of exposed crystal facets in the atmospheric pressure CO hydrogenation on Co3O4 nanostructures",
     authors: [
       "Preeti Jain",
@@ -1163,7 +1163,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1016/j.nanoso.2020.100504"
   }, {
-    id: "pub_091",
+    id: "091",
     title: "Can We Identify the Salt–Cocrystal Continuum State Using XPS?",
     authors: [
       "Srinu Tothadi",
@@ -1177,7 +1177,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1021/mp0601345"
   }, {
-    id: "pub_092",
+    id: "092",
     title: "Engineering pore morphology using silica template route over mesoporous cobalt oxide and its implications in atmospheric pressure carbon dioxide hydrogenation to olefins",
     authors: [
       "Sharad Gupta",
@@ -1190,7 +1190,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1016/j.apmt.2020.100586"
   }, {
-    id: "pub_093",
+    id: "093",
     title: "CO2 Hydrogenation to Formate by Palladium Nanoparticles Supported on N-Incorporated Periodic Mesoporous Organosilica",
     authors: [
       "K. J. Betsy",
@@ -1202,7 +1202,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1021/acssuschemeng.0c03860"
   }, {
-    id: "pub_094",
+    id: "094",
     title: "Spectroscopic Evidences for the Size Dependent Generation of Pd Species Responsible for the Low Temperature CO Oxidation Activity on Pd-SBA-15 Nanocatalyst",
     authors: [
       "Yogita Soni",
@@ -1219,7 +1219,7 @@ export const publicationConstant = [
     year: "2020",
     doi: "https://doi.org/10.1016/j.apcatb.2020.118934"
   }, {
-    id: "pub_095",
+    id: "095",
     title: "Unveiling the Roles of Lattice Strain and Descriptor Species on Pt-like Oxygen Reduction Activity in Pd-Bi catalysts",
     authors: [
       "Shreya Sarkar",
@@ -1234,7 +1234,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1021/acscatal.0c03415"
   }, {
-    id: "pub_096",
+    id: "096",
     title: "Operando Generated Ordered Heterogeneous Catalyst for the Selective Conversion of CO2 to Methanol",
     authors: [
       "Arjun Cherevotan",
@@ -1253,7 +1253,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1021/acsenergylett.0c02614"
   }, {
-    id: "pub_097",
+    id: "097",
     title: "Conductive Interface Promoted Bifunctional Oxygen Reduction/Evolution Activity in Ultra-low Precious Metal based Hybrid Catalyst",
     authors: [
       "Shreya Sarkar",
@@ -1265,7 +1265,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1039/D0CC08225B"
   }, {
-    id: "pub_098",
+    id: "098",
     title: "Facile transfer of excited electrons in Au/SnS2 nanosheets for efficient solar-driven selective organic transformations",
     authors: [
       "Sanjit Mondal",
@@ -1277,7 +1277,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1016/j.apcatb.2021.119927"
   }, {
-    id: "pub_099",
+    id: "099",
     title: "Exceptional Capacitance Enhancement of a Non-conducting COF Through Potentialdriven Chemical Modulation by Redox Electrolyte",
     authors: [
       "Rinku Kushwaha",
@@ -1294,7 +1294,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1002/aenm.202003626"
   }, {
-    id: "pub_100",
+    id: "100",
     title: "Lithium Silicates Nanosheets with Excellent Capture Capacity and Kinetics with Unprecedented Stability for High-Temperature CO2 Capture",
     authors: [
       "Rajesh Belgamwar",
@@ -1308,7 +1308,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1039/D0SC06843H"
   }, {
-    id: "pub_101",
+    id: "101",
     title: "'Autophagy’ and unique aerial oxygen harvesting properties exhibited by highly photocatalytic carbon quantum dots",
     authors: [
       "Sanjit Mondal",
@@ -1319,7 +1319,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1016/j.carbon.2021.04.054"
   }, {
-    id: "pub_102",
+    id: "102",
     title: "Structure Tailored Non-Noble Metal based Ternary Chalcogenide Nanocrystals for Pt-like Electrocatalytic Hydrogen Production",
     authors: [
       "Shreya Sarkar",
@@ -1334,7 +1334,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1002/cssc.202100967"
   }, {
-    id: "pub_103",
+    id: "103",
     title: "CuO as a reactive and reusable reagent for the hydrogenation of nitroarenes",
     authors: [
       "K. Rajendran",
@@ -1349,7 +1349,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1016/j.apcatb.2021.120417"
   }, {
-    id: "pub_104",
+    id: "104",
     title: "Role of Metal-Support Interaction for Atmospheric Pressure CO2 Hydrogenation over Pd/(Ti)-SBA-15 catalysts: Effects of Titanium Composition on Products Selectivity",
     authors: [
       "Yogita Soni*",
@@ -1360,7 +1360,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1016/j.mcat.2021.111732"
   }, {
-    id: "pub_105",
+    id: "105",
     title: "Unprecedented stability in Au@ Co core-shell bimetallic catalyst supported on SBA-15 (Au@ Co/SBA-15) for atmospheric pressure CO hydrogenation",
     authors: [
       "Preeti Jain",
@@ -1371,7 +1371,7 @@ export const publicationConstant = [
     year: "2021",
     doi: "https://doi.org/10.1016/j.mtsust.2021.100068"
   }, {
-    id: "pub_106",
+    id: "106",
     title: "Coordination flexibility aided CO2-specific gating in an Iron Isonicotinate MOF",
     authors: [
       "Ramanathan Vaidhyanathan*",
@@ -1385,7 +1385,7 @@ export const publicationConstant = [
     year: "2022",
     doi: " https://doi.org/10.1002/asia.202101305"
   }, {
-    id: "pub_107",
+    id: "107",
     title: "Synergistic Electronic Effects in AuCo Nanoparticles Stabilized in a Triazine-Based Covalent Organic Framework: A Catalyst for Methyl Orange and Methylene Blue Reduction",
     authors: [
       "Venkata Swaroopa Datta Devulapalli",
@@ -1402,7 +1402,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1021/acsanm.1c04212"
   }, {
-    id: "pub_108",
+    id: "108",
     title: "Potential- and Time-Dependent Dynamic Nature of an Oxide-Derived PdIn Nanocatalyst during Electrochemical CO2 Reduction",
     authors: [
       "D Bagchi",
@@ -1415,7 +1415,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1021/acsnano.1c11664"
   }, {
-    id: "pub_109",
+    id: "109",
     title: "Controlled exchange bias behavior of manganese nanoparticles",
     authors: [
       "Garima Tiwari",
@@ -1426,7 +1426,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1016/j.jmmm.2022.169504"
   }, {
-    id: "pub_110",
+    id: "110",
     title: "Single-step insertion of M-Nx moieties in commercial carbon for sustainable bifunctional electrocatalysis: Mapping insertion capacity, mass loss, and carbon reconstruction",
     authors: [
       "Reeya Garg",
@@ -1439,7 +1439,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1016/j.carbon.2022.06.008"
   }, {
-    id: "pub_111",
+    id: "111",
     title: "Improvement in Oxygen Evolution Performance of NiFe Layered Double Hydroxide Grown in the Presence of 1T-Rich MoS2",
     authors: [
       "Soumita Chakraborty",
@@ -1456,7 +1456,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1021/acsami.2c06210"
   }, {
-    id: "pub_112",
+    id: "112",
     title: "Incorporating Conducting Polypyrrole into a Polyimide COF for Carbon?Free Ultra?High Energy Supercapacitor",
     authors: [
       "Sattwick Haldar",
@@ -1473,7 +1473,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1002/aenm.202200754"
   }, {
-    id: "pub_113",
+    id: "113",
     title: "Regio-isomerism Directed Electrocatalysis for Energy Efficient Zinc-air Battery",
     authors: [
       "Sanchayita Mukhopadhyay",
@@ -1487,7 +1487,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1016/j.isci.2022.105179"
   }, {
-    id: "pub_114",
+    id: "114",
     title: "Single step strategy for crafting tin/carbon soot composite as highly stable Li?ion battery anode",
     authors: [
       "S Vashishth",
@@ -1499,7 +1499,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1002/elsa.202100019"
   }, {
-    id: "pub_115",
+    id: "115",
     title: "Tuning of work function of ZnO by doping and co-doping: An investigation using X-ray photoelectron spectroscopy",
     authors: [
       "Soumya K",
@@ -1511,7 +1511,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1016/j.tsf.2022.139538"
   }, {
-    id: "pub_116",
+    id: "116",
     title: "Tuning the hybridization and charge polarization in metal nanoparticles dispersed over Schiff base functionalized SBA-15 enhances CO 2 capture and conversion to formic acid",
     authors: [
       "Arjun Cherevotan",
@@ -1531,7 +1531,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1039/D2TA03690H"
   }, {
-    id: "pub_117",
+    id: "117",
     title: "A covalent organic framework with electrodeposited copper nanoparticles–a desirable catalyst for the Ullmann coupling reaction",
     authors: [
       "Chandana Chandran",
@@ -1547,7 +1547,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1039/D2TA01326F"
   }, {
-    id: "pub_118",
+    id: "118",
     title: "Influence of Support Textural Property on CO2 to Methane Activity of Ni/SiO2 Catalysts",
     authors: [
       "Arjun Cherevotan",
@@ -1562,7 +1562,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1016/j.apcatb.2022.121692"
   }, {
-    id: "pub_119",
+    id: "119",
     title: "Noble-Metal-Free Heterojunction Photocatalyst for Selective CO2 Reduction to Methane upon Induced Strain Relaxation",
     authors: [
       "Risov Das",
@@ -1579,7 +1579,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1021/acscatal.1c04587"
   }, {
-    id: "pub_120",
+    id: "120",
     title: "PdNi Alloy Nanowires as Highly Active ORR Electrocatalysts Exhibiting Morphology-Induced Durability over 200 K Cycles",
     authors: [
       "Lipipuspa Sahoo",
@@ -1592,7 +1592,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1021/acs.nanolett.1c03704"
   }, {
-    id: "pub_121",
+    id: "121",
     title: "Structure-Tailored Surface Oxide on Cu-Ga Intermetallics Enhances CO2 Reduction Selectivity to Methanol at Ultra-Low Potential",
     authors: [
       "Debabrata Bagchi",
@@ -1608,7 +1608,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1002/adma.202109426"
   }, {
-    id: "pub_122",
+    id: "122",
     title: "Morphology Tuned Pt3Ge Accelerates Water Dissociation to Industrial Standard Hydrogen Production over a wide pH Range",
     authors: [
       "Soumi Mondal",
@@ -1626,7 +1626,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1002/adma.202202294"
   }, {
-    id: "pub_123",
+    id: "123",
     title: "Strain-Enhanced Phase Transformation of Iron Oxide for Higher Alcohol Production from CO2",
     authors: [
       "D Goud",
@@ -1641,7 +1641,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1021/acscatal.2c03183"
   }, {
-    id: "pub_124",
+    id: "124",
     title: "Green Transformation of CO2 to Ethanol using Water and Sunlight by Cooperative Endeavour of Naturally Abundant Red Phosphorus and Bi2MoO6",
     authors: [
       "Risov Das",
@@ -1654,7 +1654,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1039/D1EE02976B"
   }, {
-    id: "pub_125",
+    id: "125",
     title: "In Situ Mechanistic Insights for the Oxygen Reduction Reaction in Chemically Modulated Ordered Intermetallic Catalyst Promoting Complete Electron Transfer",
     authors: [
       "S Mondal",
@@ -1669,7 +1669,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1021/jacs.2c04541"
   }, {
-    id: "pub_126",
+    id: "126",
     title: "Process for the preparation of bimetallic core/shell nanoparticles and their catalytic applications",
     authors: [
       "C P Vinod",
@@ -1678,7 +1678,7 @@ export const publicationConstant = [
     other_details: "US Patent 11,305,344 B2., (2022)",
     year: "2022"
   }, {
-    id: "pub_127",
+    id: "127",
     title: "La Cu based heterogeneous perovskite catalyst for highly selective benzene hydroxylation under mild conditions",
     authors: [
       "Pawan Kumar",
@@ -1690,7 +1690,7 @@ export const publicationConstant = [
     year: "2022",
     doi: "https://doi.org/10.1002/asia.202200788"
   }, {
-    id: "pub_128",
+    id: "128",
     title: "Structural ordering enhances highly selective production of acetic acid from CO 2 at ultra-low potential",
     authors: [
       "S Sarkar",
@@ -1704,7 +1704,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1039/D2EY00081D"
   }, {
-    id: "pub_129",
+    id: "129",
     title: "Oxidation of ethylene by Cu/TiO 2: reducibility of Cu 2+ in TiO 2 as a possible descriptor of catalytic efficiency",
     authors: [
       "K Rajendran",
@@ -1719,7 +1719,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1039/D2CY02170F"
   }, {
-    id: "pub_130",
+    id: "130",
     title: "Unprecedented energy storage in metal–organic complexes via constitutional isomerism",
     authors: [
       "Alagar Raja Kottaichamy",
@@ -1738,7 +1738,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1039/D3SC01692G"
   }, {
-    id: "pub_131",
+    id: "131",
     title: "Hydrogenation of levulinic acid to gamma-valerolactone over nickel supported organoclay catalyst",
     authors: [
       "PA Kamble",
@@ -1750,7 +1750,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1016/j.cattod.2022.10.004"
   }, {
-    id: "pub_132",
+    id: "132",
     title: "Enhancing the catalytic activity of Pd nanocrystals towards Suzuki Cross?Coupling by g?C3N4 photosensitization",
     authors: [
       "S Mondal",
@@ -1764,7 +1764,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1002/cnma.202300451"
   }, {
-    id: "pub_133",
+    id: "133",
     title: "Intrinsic Charge Polarization in Bi19S27Cl3 Nanorods Promotes Selective C?C Coupling Reaction during Photoreduction of CO2 to Ethanol",
     authors: [
       "Kousik Das",
@@ -1781,7 +1781,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1002/adma.202205994"
   }, {
-    id: "pub_134",
+    id: "134",
     title: "Wurtzite CuGaS2 with an In?Situ?Formed CuO Layer Photocatalyzes CO2 Conversion to Ethylene with High Selectivity",
     authors: [
       "Subhajit Chakraborty",
@@ -1797,7 +1797,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1002/anie.202216613"
   }, {
-    id: "pub_135",
+    id: "135",
     title: "Covalently interconnected layers in g-C3N4: Toward high mechanical stability, catalytic efficiency and sustainability",
     authors: [
       "Raj Sekhar Roy",
@@ -1814,7 +1814,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1016/j.apcatb.2022.122069"
   }, {
-    id: "pub_136",
+    id: "136",
     title: "Imine Oxidation Catalyzed by Zinc Hydroxyapatite: Kinetic Studies",
     authors: [
       "Rakhi Vishwakarma",
@@ -1826,7 +1826,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1002/slct.202203503"
   }, {
-    id: "pub_137",
+    id: "137",
     title: "Wadsworth–Emmons Reaction by Using the Fluorapatite Catalyst: Kinetic Studies",
     authors: [
       "Rakhi Vishwakarma",
@@ -1838,7 +1838,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1021/acs.iecr.3c00407"
   }, {
-    id: "pub_138",
+    id: "138",
     title: "Unusual Ligand Assistance in Molecular Electrocatalysis via Interfacial Proton Charge Assembly",
     authors: [
       "Sanchayita Mukhopadhyay",
@@ -1854,7 +1854,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1021/acs.jpclett.3c01262"
   }, {
-    id: "pub_139",
+    id: "139",
     title: "Copper Fluorapatite-Catalyzed Aza-Michael Reaction and Kinetic Studies",
     authors: [
       "R Vishwakarma",
@@ -1866,7 +1866,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1021/acs.iecr.3c01383"
   }, {
-    id: "pub_140",
+    id: "140",
     title: "Metal Deficiency Tailored by the 18-Electron Rule Stabilizes Metal-Based Inorganic Compounds",
     authors: [
       "AK Singh",
@@ -1880,7 +1880,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1021/acs.chemmater.3c01142"
   }, {
-    id: "pub_141",
+    id: "141",
     title: "Active Site Engineering and Theoretical Aspects of “Superhydrophilic” Nanostructure Array Enabling Efficient Overall Water Electrolysis",
     authors: [
       "Sidharth Barik",
@@ -1899,7 +1899,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1002/smll.202304143"
   }, {
-    id: "pub_142",
+    id: "142",
     title: "Made to Measure Squaramide COF Cathode for Zinc Dual?Ion Battery with Enriched Storage via Redox Electrolyte",
     authors: [
       "Rinku Kushwaha",
@@ -1916,7 +1916,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1002/aenm.202301049"
   }, {
-    id: "pub_143",
+    id: "143",
     title: "Distortion-Induced Interfacial Charge Transfer at Single Cobalt Atom Secured on Ordered Intermetallic Surface Enhances Pure Oxygen Production",
     authors: [
       "Soumi Mondal",
@@ -1931,7 +1931,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1021/acsnano.3c09680"
   }, {
-    id: "pub_144",
+    id: "144",
     title: "Tailoring COFs: Transforming Nonconducting 2D Layered COF into a Conducting Quasi-3D Architecture via Interlayer Knitting with Polypyrrole",
     authors: [
       "Chitvan Jain",
@@ -1948,7 +1948,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1021/jacs.3c09937"
   }, {
-    id: "pub_145",
+    id: "145",
     title: "Pd Nanoparticles Supported on N-Incorporated Hybrid Organosilica as an Active and Selective Low-Temperature Phenol Hydrogenation Catalyst",
     authors: [
       "KJ Betsy",
@@ -1961,7 +1961,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1021/acsanm.3c01540"
   }, {
-    id: "pub_146",
+    id: "146",
     title: "Morphology-Dependent Catalysis by Co3O4 Nanostructures in Atmospheric Pressure Carbon Dioxide Hydrogenation",
     authors: [
       "S Gupta",
@@ -1973,7 +1973,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1021/acs.jpcc.3c02857"
   }, {
-    id: "pub_147",
+    id: "147",
     title: "Deciphering Particle Morphology Effects in Cinnamaldehyde Hydrogenation over Palladium Nanostructures",
     authors: [
       "G Porwal",
@@ -1987,7 +1987,7 @@ export const publicationConstant = [
     year: "2023",
     doi: "https://doi.org/10.1021/acsengineeringau.3c00017"
   }, {
-    id: "pub_148",
+    id: "148",
     title: "Electrochemical energy storage in an organic supercapacitor via a non-electrochemical proton charge assembly",
     authors: [
       "Sanchayita Mukhopadhyay",
@@ -2002,7 +2002,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1039/D3SC05639B"
   }, {
-    id: "pub_149",
+    id: "149",
     title: "Iron-catalyzed (E)-selective hydrosilylation of alkynes: scope and mechanistic insights",
     authors: [
       "A Sen",
@@ -2017,7 +2017,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1039/D3CY01775C"
   }, {
-    id: "pub_150",
+    id: "150",
     title: "Facile synthesis of nanostructured Ni/NiO/N-doped graphene electrocatalysts for enhanced oxygen evolution reaction",
     authors: [
       "R Madampadi",
@@ -2030,7 +2030,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1039/D4NA00141A"
   }, {
-    id: "pub_151",
+    id: "151",
     title: "Fuel from waste: electrosynthesizing ammonia directly from agricultural digestate through ligand isomerization",
     authors: [
       "Rahul Mahadeo Mendhe",
@@ -2046,7 +2046,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1039/D4GC00740A"
   }, {
-    id: "pub_152",
+    id: "152",
     title: "Kinetic Model of Hydrogenation of Glucose to Sorbitol on a Ni/Bentonite Catalyst",
     authors: [
       "H Pandya",
@@ -2058,7 +2058,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1021/acs.iecr.3c03808"
   }, {
-    id: "pub_153",
+    id: "153",
     title: "Hydrogenation of furfural to tetrahydrofurfuryl alcohol over nickel-supported on organoclay catalyst",
     authors: [
       "PA Kamble",
@@ -2070,7 +2070,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1016/j.apcata.2024.119621"
   }, {
-    id: "pub_154",
+    id: "154",
     title: "Unraveling the Cooperative Mechanisms in Ultralow Copper-Loaded WC@NGC for Enhanced CO2 Electroreduction to Acetic Acid",
     authors: [
       "Debabrata Bagchi",
@@ -2086,7 +2086,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1021/acs.chemmater.4c00405"
   }, {
-    id: "pub_155",
+    id: "155",
     title: "Photocatalytic Regeneration of Reactive Cofactors with InP Quantum Dots for the Continuous Chemical Synthesis",
     authors: [
       "IN Chakraborty",
@@ -2100,7 +2100,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1021/acscatal.4c00817"
   }, {
-    id: "pub_156",
+    id: "156",
     title: "Aluminium, Nitrogen-Dual-Doped Reduced Graphene Oxide Co-Existing with Cobalt-Encapsulated Graphitic Carbon Nanotube as an Activity Modulated Electrocatalyst for Oxygen Electrocatalyst for Oxygen Electrochemistry Applications",
     authors: [
       "Geeta Pandurang Kharabe",
@@ -2117,7 +2117,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1002/smll.202400012"
   }, {
-    id: "pub_157",
+    id: "157",
     title: "Ligand Isomerization Driven Electrocatalytic Switching",
     authors: [
       "Alagar Raja Kottaichamy",
@@ -2135,7 +2135,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1002/anie.202405664"
   }, {
-    id: "pub_158",
+    id: "158",
     title: "Hydrogenation of Glucose to Sorbitol by Using Nickel Hydroxyapatite Catalyst",
     authors: [
       "PA Kamble",
@@ -2147,7 +2147,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1002/cctc.202301590"
   }, {
-    id: "pub_159",
+    id: "159",
     title: "Resorcinol–Azodianiline Covalent Organic Framework Supported FeOOH Quantum Dot-Catalyzed Electrochemical Ammonia Synthesis under Ambient Conditions",
     authors: [
       "Pragalbh Shekhar",
@@ -2168,7 +2168,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1021/acs.chemmater.4c00859"
   }, {
-    id: "pub_160",
+    id: "160",
     title: "Atmospheric-Pressure Continuous-Flow Methane Oxidation to Methanol and Acetic Acid Using H2O2 over the Au–Fe Catalyst",
     authors: [
       "Anuradha V Jagtap",
@@ -2184,7 +2184,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1021/acssuschemeng.4c02993"
   }, {
-    id: "pub_161",
+    id: "161",
     title: "Exploring the CeO2 Support Morphology for the Carbon Dioxide Hydrogenation Reaction using Nickel Catalysts",
     authors: [
       "S  Gupta",
@@ -2195,7 +2195,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1021/acs.jpcc.4c05258"
   }, {
-    id: "pub_162",
+    id: "162",
     title: "Breaking the Pt Electron Symmetry and OH Spillover towards PtIr Active Center for Performance Modulation in Direct Ammonia Fuel Cell",
     authors: [
       "Sidharth Barik",
@@ -2212,7 +2212,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://doi.org/10.1002/smll.202406589"
   }, {
-    id: "pub_163",
+    id: "163",
     title: "Enhanced light–matter interaction in gas nitridation-derived TiNx thin films for potential plasmonic applications",
     authors: [
       "L Tony",
@@ -2223,7 +2223,7 @@ export const publicationConstant = [
     other_details: "Journal of Materials Science, 1-17 (2024)",
     year: "2024"
   }, {
-    id: "pub_164",
+    id: "164",
     title: "Ultra-Small Pd Nanoparticles on SBA-15: An Efficient Catalyst for One-Pot Reductive Alkylation of Nitrobenzene with Size-Dependent Activity",
     authors: [
       "Y Soni*",
@@ -2234,7 +2234,7 @@ export const publicationConstant = [
     year: "2024",
     doi: "https://dx.doi.org/10.1007/s11244-024-02042-3"
   }, {
-    id: "pub_165",
+    id: "165",
     title: "Metal deficiency tuned charge transfer in intermetallic Ni 2− x Sn (x= 0.37–0.65) enhances selective conversion of furfural to furfuryl alcohol towards the theoretical limit",
     authors: [
       "Arjun Cherevotan",
@@ -2251,7 +2251,7 @@ export const publicationConstant = [
     year: "2025",
     doi: "https://doi.org/10.1039/D4TA06383J"
   }, {
-    id: "pub_166",
+    id: "166",
     title: "Synthesis of glycolic acid from glyoxal by using hydrotalcite catalyst and kinetic studies",
     authors: [
       "Harmitkumar N Pandya",
@@ -2264,7 +2264,7 @@ export const publicationConstant = [
     year: "2025",
     doi: "https://doi.org/10.1002/cctc.202500321"
   }, {
-    id: "pub_167",
+    id: "167",
     title: "Hot Injection Assisted Electronically Modulated Twin and Grain Boundary Rich Sub‐2 nm Pt3Co Alloy Resistant to Phosphate Ion for PEMFCs",
     authors: [
       "Mayank U Singh",
@@ -2280,7 +2280,7 @@ export const publicationConstant = [
     year: "2025",
     doi: "https://doi.org/10.1002/smll.202500954"
   }, {
-    id: "pub_168",
+    id: "168",
     title: "Dopant and Exfoliation Induced Simultaneous Modification of Charge Density and C─C Coupling Sites for Efficient CO2 Photoreduction to Ethylene",
     authors: [
       "Kousik Das",
@@ -2299,7 +2299,7 @@ export const publicationConstant = [
     year: "2025",
     doi: "https://doi.org/10.1002/anie.202423471"
   }, {
-    id: "pub_169",
+    id: "169",
     title: "Hydrogenation of CO2 Catalyzed by Thermally Decomposed Cobalt-Containing Alkaline Earth Metal Carbonates",
     authors: [
       "Sharad Gupta*",
@@ -2311,7 +2311,7 @@ export const publicationConstant = [
     year: "2025",
     doi: "https://doi.org/10.1021/acs.energyfuels.5c01793"
   }, {
-    id: "pub_170",
+    id: "170",
     title: "Facet dependence for solvent-modulated proton coupled electron transfer in furfural acetalization on Pd nanostructures",
     authors: [
       "G Porwal",
@@ -2326,7 +2326,7 @@ export const publicationConstant = [
     year: "2025",
     doi: "https://doi.org/10.1016/j.cej.2025.163159"
   }, {
-    id: "pub_171",
+    id: "171",
     title: "Unravelling the Cu-Co nanoparticle synergy over Ceria-Zirconia support toward efficient reverse water gas shift (RWGS) conversion under H2 lean conditions",
     authors: [
       "Anuradha Vijay Jagtap",
@@ -2342,7 +2342,7 @@ export const publicationConstant = [
     year: "2025",
     doi: "https://doi.org/10.1016/j.cej.2025.160705"
   }, {
-    id: "pub_172",
+    id: "172",
     title: "Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
     authors: [
       "Jyotsna P Bajpai",
