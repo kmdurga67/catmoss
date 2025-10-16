@@ -2342,7 +2342,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.160705"
   },{
-    id:"pub_172",
+    id:"pub_173",
     title:"Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
     authors:[
       "Jyotsna P Bajpai",
@@ -2358,5 +2358,6 @@ export const publicationConstant = [
     other_details:"Chemical Engineering Journal, 520, 15, 165921 (2025)",
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.165921"
-  }
+  },
+  
 ];
