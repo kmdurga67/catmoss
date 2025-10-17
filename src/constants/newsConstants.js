@@ -1,4 +1,5 @@
 import GOVINND from "../assets/team/Aditya.jpg";
+
 export const newsData = [
  {
     id: 1,
@@ -667,6 +668,6 @@ export const newsData = [
     date: "July 2022",
     summary: "Betsy has been awarded a postdoctoral fellowship at Denmark Technical University (DTU). Congratulations and best wishes for your future research endeavors!",
     category: "alumni achievement",
-    image: GOVINND
+    image: "GOVINND"
   }
 ];
