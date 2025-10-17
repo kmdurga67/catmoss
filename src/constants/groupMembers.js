@@ -306,7 +306,7 @@ export const phdAlumini = [
     },{
         id:"phdalumini_010",
         name:"Dr. Anuradha V Jagtap",
-        tenure:"2018",
+        tenure:"2018 - 2024",
         thesisTitle:"Developing new catalytic material for C1 molecule activation",
         // currentPosition:"N/A",
         email:"avjagtap30@gmail.com",
@@ -314,7 +314,7 @@ export const phdAlumini = [
     },{
         id:"phdalumini_011",
         name:"Dr. Pawan Kumar",
-        tenure:"2020",
+        tenure:"2020 - 2024",
         thesisTitle:"Catalyst designing for C-H activation",
         currentPosition:"CNRS Postdoctoral Researcher, Univ of Lille, France",
         email:"pawan4singh15@gmail.com",
