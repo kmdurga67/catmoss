@@ -2369,5 +2369,5 @@ export const publicationConstant = [
     other_details:"Chemical Engineering Journal, 520, 15, 165921 (2025)",
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.165921"
-  },{   
+  } 
 ];
