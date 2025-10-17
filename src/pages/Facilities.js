@@ -108,7 +108,7 @@ const Facilities = () => {
             Research Facilities & Equipment
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Explore our cutting-edge instrumentation and specialized research infrastructure
+            Explore our cutting-edge instruments and research infrastructure
           </p>
         </header>
 
