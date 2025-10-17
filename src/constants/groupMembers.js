@@ -309,15 +309,15 @@ export const phdAlumini = [
         tenure:"2018",
         thesisTitle:"Developing new catalytic material for C1 molecule activation",
         // currentPosition:"N/A",
-        email:"av.jagtap @ncl.res.in",
+        email:"avjagtap30@gmail.com",
         imageURL:ANURADHA
     },{
         id:"phdalumini_011",
         name:"Dr. Pawan Kumar",
         tenure:"2020",
         thesisTitle:"Catalyst designing for C-H activation",
-        // currentPosition:"N/A",
-        email:"p.singh@ncl.res.in",
+        currentPosition:"CNRS Postdoctoral Researcher, Univ of Lille, France",
+        email:"pawan4singh15@gmail.com",
         imageURL:PAWAN
     }
 ];
