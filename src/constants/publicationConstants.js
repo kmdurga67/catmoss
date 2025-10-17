@@ -2321,8 +2321,22 @@ export const publicationConstant = [
     other_details:"Chem Cat Chem, 17, 15, e02092 (2025)",
     year:"2025",
     doi:"https://doi.org/10.1002/cctc.202402092"
-  },{
+    },{
     id:"pub_171",
+    title:"A Tunable, Amine‐Functionalized Porous Silica Catalyst for CO2 Transformation into Cyclic Organic Carbonates at Atmospheric Pressure",
+    authors:[
+      "Twinkle Gorai",
+      "Chandragopal Thanasekar",
+      "Pawan Kumar",
+      "Athira Babu",
+      "Sreekumar Kurungot",
+      "C P Vinod*"
+    ],
+    other_details:"Chemistry–A European Journal, 31, 47, e00873 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1002/chem.202500873"
+  },{
+    id:"pub_172",
     title:"Facet dependence for solvent-modulated proton coupled electron transfer in furfural acetalization on Pd nanostructures",
     authors:[
       "G Porwal",
@@ -2337,7 +2351,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.163159"
   },{
-    id:"pub_172",
+    id:"pub_173",
     title:"Unravelling the Cu-Co nanoparticle synergy over Ceria-Zirconia support toward efficient reverse water gas shift (RWGS) conversion under H2 lean conditions",
     authors:[
       "Anuradha Vijay Jagtap",
@@ -2353,7 +2367,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.160705"
   },{
- id:"pub_173",
+ id:"pub_174",
     title:"Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
     authors:[
       "Jyotsna P Bajpai",
