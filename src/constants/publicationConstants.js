@@ -2312,6 +2312,17 @@ export const publicationConstant = [
     doi:"https://doi.org/10.1021/acs.energyfuels.5c01793"
   },{
     id:"pub_170",
+    title:"Selective Hydrogenation of Furfural to Furfuryl Alcohol over Pd Supported on Ternary Oxide in Aqueous Medium Under Mild Conditions",
+    authors:[
+      "Pooja Nehra",
+      "K J Betsy",
+      "C P Vinod*"
+    ],
+    other_details:"Chem Cat Chem, 17, 15, e02092 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1002/cctc.202402092"
+  },{
+    id:"pub_171",
     title:"Facet dependence for solvent-modulated proton coupled electron transfer in furfural acetalization on Pd nanostructures",
     authors:[
       "G Porwal",
@@ -2326,7 +2337,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.163159"
   },{
-    id:"pub_171",
+    id:"pub_172",
     title:"Unravelling the Cu-Co nanoparticle synergy over Ceria-Zirconia support toward efficient reverse water gas shift (RWGS) conversion under H2 lean conditions",
     authors:[
       "Anuradha Vijay Jagtap",
@@ -2342,7 +2353,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.160705"
   },{
- id:"pub_172",
+ id:"pub_173",
     title:"Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
     authors:[
       "Jyotsna P Bajpai",
