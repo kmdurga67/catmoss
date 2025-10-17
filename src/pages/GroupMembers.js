@@ -365,7 +365,7 @@ const GroupMembers = () => {
             <div className="max-w-7xl mx-auto">
                 {renderSectionHeader(
                     "Research Team",
-                    "Pioneering researchers driving advancements in sustainable catalysis and green chemistry solutions."
+                    "Researchers driving advancements in sustainable catalysis and green chemistry solutions at Cat&MOSS."
                 )}
 
                 {groupLeader.length > 0 && (
