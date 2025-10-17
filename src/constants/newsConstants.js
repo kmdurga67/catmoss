@@ -1,4 +1,4 @@
-import GOVINND from "../assets/facility/Facility1.jpeg"
+import GOVINND from "../assets/team/Aditya.jpg";
 export const newsData = [
  {
     id: 1,
