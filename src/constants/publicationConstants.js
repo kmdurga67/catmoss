@@ -2406,21 +2406,18 @@ export const publicationConstant = [
     doi:"https://doi.org/10.1016/j.cej.2025.165921"
     },{
  id:"pub_176",
-    title:"Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
+    title:"A Pt-Based Carbon-Free Cathode with Embedded Oxygen Nanoreservoirs: A Promising Approach for Oxygen Buffering to Aid Oxygen Reduction Reactions of PEMFCs",
     authors:[
-      "Jyotsna P Bajpai",
-      "Sharad Gupta",
-      "Devender Goud",
-      "JDiku Raj Deka",
-      "Anuradha V Jagtap",
-      "Pawan Kumar",
-      "Momin Ahamed",
-      "Sebastian C Peter",
-      "CP Vinod*"
+      "Athira Yoyakki",
+      "Sachin Kumar",
+      "Ajmal Pandikassala",
+      "Swapnil D Jadhav",
+      "CP Vinod*",
+      "Sreekumar Kurungot*"
     ],
-    other_details:"Chemical Engineering Journal, 520, 15, 165921 (2025)",
+    other_details:"ACS Catalysis, 15, 19677-19694 (2025)",
     year:"2025",
-    doi:"https://doi.org/10.1016/j.cej.2025.165921"
+    doi:"https://doi.org/10.1021/acscatal.5c06455"
   } 
   
 ];
