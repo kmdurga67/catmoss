@@ -2337,6 +2337,27 @@ export const publicationConstant = [
     doi:"https://doi.org/10.1002/chem.202500873"
   },{
     id:"pub_172",
+    title:"Towards improved activity and stability in RWGS reaction: Dispersed copper in mesoporous alumina matrix as a strategy for enhanced performance",
+    authors:[
+      "Simi Saju",
+      "Sivaraj Rajendran",
+      "Ulviye Oztas",
+      "Sergio Carrasco Ruiz",
+      "Tomas Ramirez Reina",
+      "Biplab Ghosh",
+      "Sreeprasanth Pulinthanathu Sree",
+      "Raghavendra Meena",
+      "Guanna Li",
+      "Luis F Bobadilla",
+      "CP Vinod",
+      "Thomas Mathew*",
+      "N Raveendran Shiju*"
+    ],
+    other_details:"Chemical Engineering Journal, 525, 15, 169863 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1016/j.cej.2025.169863"
+  },{
+    id:"pub_173",
     title:"Facet dependence for solvent-modulated proton coupled electron transfer in furfural acetalization on Pd nanostructures",
     authors:[
       "G Porwal",
@@ -2351,7 +2372,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.163159"
   },{
-    id:"pub_173",
+    id:"pub_174",
     title:"Unravelling the Cu-Co nanoparticle synergy over Ceria-Zirconia support toward efficient reverse water gas shift (RWGS) conversion under H2 lean conditions",
     authors:[
       "Anuradha Vijay Jagtap",
@@ -2367,7 +2388,24 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.160705"
   },{
- id:"pub_174",
+ id:"pub_175",
+    title:"Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
+    authors:[
+      "Jyotsna P Bajpai",
+      "Sharad Gupta",
+      "Devender Goud",
+      "JDiku Raj Deka",
+      "Anuradha V Jagtap",
+      "Pawan Kumar",
+      "Momin Ahamed",
+      "Sebastian C Peter",
+      "CP Vinod*"
+    ],
+    other_details:"Chemical Engineering Journal, 520, 15, 165921 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1016/j.cej.2025.165921"
+    },{
+ id:"pub_176",
     title:"Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
     authors:[
       "Jyotsna P Bajpai",
@@ -2384,4 +2422,5 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.165921"
   } 
+  
 ];
