@@ -9,13 +9,13 @@ import { publicationConstant } from '../constants/publicationConstants';
  */
 const formatPublicationDetails = (details) => {
   if (!details) return '';
-  
+
   let formatted = details.replace(/\.\s*$/, '').trim();
-  
+
   if (formatted && !formatted.endsWith('.')) {
     formatted += '.';
   }
-  
+
   return formatted;
 };
 
@@ -26,13 +26,13 @@ const formatPublicationDetails = (details) => {
  */
 const formatTitle = (title) => {
   if (!title) return '';
-  
+
   let formatted = title.trim();
-  
+
   if (!/[.!?]$/.test(formatted)) {
     formatted += '.';
   }
-  
+
   return formatted;
 };
 
@@ -67,9 +67,9 @@ const PublicationItem = ({ publication }) => {
           </div>
 
           {doi && (
-            <a 
-              href={doi.startsWith('http') ? doi : `https://doi.org/${doi}`} 
-              target="_blank" 
+            <a
+              href={doi.startsWith('http') ? doi : `https://doi.org/${doi}`}
+              target="_blank"
               rel="noopener noreferrer"
               className="flex items-center text-indigo-600 hover:text-indigo-800"
             >
@@ -127,17 +127,21 @@ YearFilter.propTypes = {
 };
 
 const Publications = () => {
-  const allYears = useMemo(() => {
-    const years = new Set(publicationConstant.map(pub => pub.year));
-    return Array.from(years).sort((a, b) => b - a);
+  const sortedPublications = useMemo(() => {
+    return [...publicationConstant].reverse();
   }, []);
+
+  const allYears = useMemo(() => {
+    const years = new Set(sortedPublications.map(pub => pub.year));
+    return Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+  }, [sortedPublications]);
 
   const [selectedYear, setSelectedYear] = useState('all');
 
   const filteredPublications = useMemo(() => {
-    if (selectedYear === 'all') return publicationConstant;
-    return publicationConstant.filter(pub => pub.year === selectedYear);
-  }, [selectedYear]);
+    if (selectedYear === 'all') return sortedPublications;
+    return sortedPublications.filter(pub => pub.year === selectedYear);
+  }, [selectedYear, sortedPublications]);
 
   const groupedPublications = useMemo(() => {
     return filteredPublications.reduce((acc, publication) => {
@@ -150,7 +154,7 @@ const Publications = () => {
     }, {});
   }, [filteredPublications]);
 
-  const sortedYears = Object.keys(groupedPublications).sort((a, b) => b - a);
+  const sortedYears = Object.keys(groupedPublications).sort((a, b) => parseInt(b) - parseInt(a));
   const totalPublications = publicationConstant.length;
 
   return (
@@ -166,10 +170,10 @@ const Publications = () => {
         </div>
 
         <div className="mb-10 bg-white p-6 rounded-xl shadow-sm border border-gray-200">
-          <YearFilter 
-            allYears={allYears} 
-            selectedYear={selectedYear} 
-            onYearChange={setSelectedYear} 
+          <YearFilter
+            allYears={allYears}
+            selectedYear={selectedYear}
+            onYearChange={setSelectedYear}
           />
         </div>
 
