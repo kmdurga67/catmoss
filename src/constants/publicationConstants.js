@@ -2204,9 +2204,9 @@ export const publicationConstant = [
       "Rajashri R Urkude",
       "Sachin Kumar",
       "Athira Yoyakki",
-      "CP Vinod",
-      "Sailaja Krishnamurty",
-      "Sreekumar Kurungot"
+      "CP Vinod*",
+      "Sailaja Krishnamurty*",
+      "Sreekumar Kurungot*"
     ],
     other_details:"Small., 20, 49, (2024)",
     year:"2024",
