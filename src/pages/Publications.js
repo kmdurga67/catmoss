@@ -164,7 +164,7 @@ const Publications = () => {
           <h1 className="text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl mb-4">
             Publications
           </h1>
-          <p className="max-w-3xl mx-auto text-2xl font-extrabold text-red-600">
+          <p className="max-w-3xl mx-auto text-2xl font-extrabold text-green-600">
             {totalPublications} research publication{totalPublications !== 1 ? 's' : ''}
           </p>
         </div>
