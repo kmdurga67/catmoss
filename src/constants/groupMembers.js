@@ -224,7 +224,7 @@ export const groupLeader = [
         mail:"cp.vinod.ncl@csir.res.in",
         description:"C P Vinod completed his PhD in 2001 under the guidance of Prof. CNR Rao FRS in the field of Surface Science and Catalysis from Jawaharlal Nehru Centre For Advanced Scientific Research, Bangalore. Subsequently, he was a postdoctoral fellow at several prestigious European universities like, the Technical University of Eindhoven, Technical University of Denmark and Cardiff University (UK). In 2010, he joined as Senior Scientist at CSIR-National Chemical Laboratory, Pune where he currently holds the position of Chief Scientist. He is also a Professor at the Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India, an institute of national importance.",
         researchFocus:"We work in the field of surface science  with special emphasize on understanding nanoscale catalysis phenomena. Designing new functional nanomaterials for catalytic application requires a molecular level understanding on the bond breaking and making process on the catalyst surface. We create flat model surfaces or structured nanoparticles and employ surface sensitive technique like X-ray Photoelectron Spectroscopy (XPS) and high resolution microscopes like STM/AFM and HRTEM to arrive at structure vs activity correlations. Such studies has resulted in novel catalysts for environmentally important reactions like CO oxidation, CO2 hydrogentaion and methane partial oxidation. We also look at catalyst development for fixing CO2 more efficiently for producing platform organic molecules",
-        imageURL: CPVINOD
+        imageURL: Vinod_PP Specs
     }
 ];
 
