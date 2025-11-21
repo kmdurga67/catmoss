@@ -9,7 +9,7 @@ import SRISHTI from "../assets/team/Srishti .jpeg";
 import SUMANTA from "../assets/team/Sumanta.jpg";
 import TWINKLE from "../assets/team/Twinkle.jpeg";
 import VISHNU from "../assets/team/Vishnu.jpeg";
-import Vinod_PP Specs from "../assets/team/Vinod_PP Specs.jpeg";
+import Vinod_PP Specs from "../assets/team/Vinod_PP Specs.JPG";
 import ANISHLAZAR from "../assets/team/Anishlazar.PNG";
 import BETSYKJ from "../assets/team/Betsykj.PNG";
 import GOVINDPORWAL from "../assets/team/GovindPorwal.PNG";
