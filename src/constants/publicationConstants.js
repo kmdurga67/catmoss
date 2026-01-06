@@ -2265,6 +2265,33 @@ export const publicationConstant = [
     doi:"https://doi.org/10.1002/cctc.202500321"
   },{
     id:"pub_167",
+    title:"W/HAP catalyzed terpenic alcohols oxidation: kinetic studies",
+    authors:[
+      "Aishwarya Poman",
+      "Paresh A Kamble",
+      "Chathakudath P Vinod",
+      "Virendra Rathod",
+      "Mannepalli Lakshmi Kantam*"
+    ],
+    other_details:"Reaction Chemistry & Engineering, 10, 2696-2710 (2025)",
+    year:"2025",
+    doi:"DOI	https://doi.org/10.1039/D5RE00132C"
+  },{
+    id:"pub_168",
+    title:"Synthesis of 5-hydroxymethylfurfural from glucose using a tert-butoxyapatite catalyst",
+    authors:[
+      "Hemant S Kulkarni",
+      "Paresh A Kamble",
+      "Chathakudath P Vinod",
+      "Virendra Rathod",
+      "Mannepalli Lakshmi Kantam*"
+    ],
+    other_details:"Dalton Transactions, 54, 13574-13587 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1039/D5DT01450F"
+  },{
+    
+    id:"pub_169",
     title:"Hot Injection Assisted Electronically Modulated Twin and Grain Boundary Rich Sub‐2 nm Pt3Co Alloy Resistant to Phosphate Ion for PEMFCs",
     authors:[
       "Mayank U Singh",
@@ -2280,7 +2307,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1002/smll.202500954"
   },{
-    id:"pub_168",
+    id:"pub_170",
     title:"Dopant and Exfoliation Induced Simultaneous Modification of Charge Density and C─C Coupling Sites for Efficient CO2 Photoreduction to Ethylene",
     authors:[
       "Kousik Das",
@@ -2299,7 +2326,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1002/anie.202423471"
   },{
-    id:"pub_169",
+    id:"pub_171",
     title:"Hydrogenation of CO2 Catalyzed by Thermally Decomposed Cobalt-Containing Alkaline Earth Metal Carbonates",
     authors:[
       "Sharad Gupta*",
@@ -2311,7 +2338,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1021/acs.energyfuels.5c01793"
   },{
-    id:"pub_170",
+    id:"pub_172",
     title:"Selective Hydrogenation of Furfural to Furfuryl Alcohol over Pd Supported on Ternary Oxide in Aqueous Medium Under Mild Conditions",
     authors:[
       "Pooja Nehra",
@@ -2322,7 +2349,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1002/cctc.202402092"
     },{
-    id:"pub_171",
+    id:"pub_173",
     title:"A Tunable, Amine‐Functionalized Porous Silica Catalyst for CO2 Transformation into Cyclic Organic Carbonates at Atmospheric Pressure",
     authors:[
       "Twinkle Gorai",
@@ -2336,7 +2363,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1002/chem.202500873"
   },{
-    id:"pub_172",
+    id:"pub_174",
     title:"Towards improved activity and stability in RWGS reaction: Dispersed copper in mesoporous alumina matrix as a strategy for enhanced performance",
     authors:[
       "Simi Saju",
@@ -2357,7 +2384,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.169863"
   },{
-    id:"pub_173",
+    id:"pub_175",
     title:"Facet dependence for solvent-modulated proton coupled electron transfer in furfural acetalization on Pd nanostructures",
     authors:[
       "G Porwal",
@@ -2372,7 +2399,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.163159"
   },{
-    id:"pub_174",
+    id:"pub_176",
     title:"Unravelling the Cu-Co nanoparticle synergy over Ceria-Zirconia support toward efficient reverse water gas shift (RWGS) conversion under H2 lean conditions",
     authors:[
       "Anuradha Vijay Jagtap",
@@ -2388,7 +2415,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.160705"
   },{
- id:"pub_175",
+ id:"pub_177",
     title:"Exploring the electronic modulation in controlling the activity and selectivity of Ni-Au-In based catalyst in atmospheric pressure CO2 hydrogenation",
     authors:[
       "Jyotsna P Bajpai",
@@ -2405,7 +2432,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1016/j.cej.2025.165921"
     },{
- id:"pub_176",
+ id:"pub_178",
     title:"A Pt-Based Carbon-Free Cathode with Embedded Oxygen Nanoreservoirs: A Promising Approach for Oxygen Buffering to Aid Oxygen Reduction Reactions of PEMFCs",
     authors:[
       "Athira Yoyakki",
@@ -2419,7 +2446,7 @@ export const publicationConstant = [
     year:"2025",
     doi:"https://doi.org/10.1021/acscatal.5c06455"
      },{
- id:"pub_177",
+ id:"pub_179",
     title:"Aldol Condensation of Furfural with Acetone by Using Mg–Al–O-t-Bu HT Catalyst and Kinetic Studies",
     authors:[
       "S Patil",
