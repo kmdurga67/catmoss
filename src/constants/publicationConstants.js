@@ -2418,6 +2418,19 @@ export const publicationConstant = [
     other_details:"ACS Catalysis, 15, 19677-19694 (2025)",
     year:"2025",
     doi:"https://doi.org/10.1021/acscatal.5c06455"
+     },{
+ id:"pub_177",
+    title:"Aldol Condensation of Furfural with Acetone by Using Mg–Al–O-t-Bu HT Catalyst and Kinetic Studies",
+    authors:[
+      "S Patil",
+      "P Kamble",
+      "CP Vinod",
+      "V Rathod",
+      "ML Kantam*",
+    ],
+    other_details:"Industrial & Engineering Chemistry Research, 64,52, 24938–24948 (2025)",
+    year:"2025",
+    doi:"https://doi.org/10.1021/acs.iecr.5c03287"
   } 
   
 ];
