@@ -219,27 +219,6 @@ const ResearchTopic = () => {
 
     return (
         <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-50">
-            <header className="bg-white/80 backdrop-blur-md border-b border-gray-200/50 sticky top-0 z-50 shadow-sm">
-                <div className="container mx-auto px-4 py-3">
-                    <div className="flex items-center justify-between">
-                        <Link
-                            to="/"
-                            className="flex items-center text-blue-600 hover:text-blue-800 font-semibold transition-colors group"
-                        >
-                            <svg className="w-5 h-5 mr-2 group-hover:-translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-                            </svg>
-                            Back to Home
-                        </Link>
-
-                        <nav className="hidden md:flex space-x-6">
-                            <Link to="/research" className="text-gray-600 hover:text-blue-600 transition-colors font-medium">All Research</Link>
-                            <Link to="/publications" className="text-gray-600 hover:text-blue-600 transition-colors font-medium">Publications</Link>
-                            <Link to="/contact" className="text-gray-600 hover:text-blue-600 transition-colors font-medium">Contact</Link>
-                        </nav>
-                    </div>
-                </div>
-            </header>
             <div className="relative overflow-hidden py-16">
                 <div
                     className="absolute inset-0 bg-cover bg-center bg-fixed opacity-20"
