@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import NANOMATERIAL1 from "../assets/researchcard/1Surface.png";
 import NANOMATERIAL2 from "../assets/researchcard/2Surface.jpg";
@@ -219,13 +218,13 @@ const ResearchTopics = () => {
 
     return (
         <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-50">
-            <div className="relative overflow-hidden py-16">    
+            <div className="relative overflow-hidden py-16">
                 <div
                     className="absolute inset-0 bg-cover bg-center bg-fixed opacity-20"
                     style={{
                         backgroundImage: `url(${activeTab === 0 ? NANOMATERIAL1 :
-                                activeTab === 1 ? CATALYST2 :
-                                    SURFACESCIENCE1
+                            activeTab === 1 ? CATALYST2 :
+                                SURFACESCIENCE1
                             })`
                     }}
                 ></div>
