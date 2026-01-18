@@ -22,7 +22,7 @@ import SURFACESCIENCE1 from "../assets/researchcard/SurfaceScience1.jpg";
 import SURFACESCIENCE2 from "../assets/researchcard/SurfaceScience2.jpg";
 import SURFACESCIENCE3 from "../assets/researchcard/SurfaceScience3.png";
 
-const ResearchTopic = () => {
+const ResearchTopics = () => {
     const [activeTab, setActiveTab] = useState(0);
     const researchTopics = [
         {
@@ -514,4 +514,4 @@ const ResearchTopic = () => {
     );
 };
 
-export default ResearchTopic;
+export default ResearchTopics;
