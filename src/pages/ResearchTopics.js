@@ -219,7 +219,7 @@ const ResearchTopic = () => {
 
     return (
         <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-50">
-            <div className="relative overflow-hidden py-16">
+            <div className="relative overflow-hidden py-16">    
                 <div
                     className="absolute inset-0 bg-cover bg-center bg-fixed opacity-20"
                     style={{
