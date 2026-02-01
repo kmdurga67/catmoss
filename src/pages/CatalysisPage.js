@@ -48,15 +48,15 @@ const CatalysisPage = () => {
             images: [
                 {
                     src: CATALYST4,
-                    alt: "Gold Catalyst 1",
+                    alt: "Gold Catalyst 1.",
                 },
                 {
                     src: CATALYST5,
-                    alt: "Gold Catalyst 2",
+                    alt: "Gold Catalyst 2.",
                 },
                 {
                     src: CATALYST6,
-                    alt: "Gold Catalyst 3",
+                    alt: "Gold Catalyst 3.",
                 },
                 {
                     src: CATALYST7,
