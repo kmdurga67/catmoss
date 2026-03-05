@@ -2473,6 +2473,23 @@ export const publicationConstant = [
     other_details:"Industrial & Engineering Chemistry Research, 64,52, 24938–24948 (2025)",
     year:"2025",
     doi:"https://doi.org/10.1021/acs.iecr.5c03287"
+    },{
+ id:"pub_181",
+    title:"Direct conversion of methane to formic acid over Au–Fe-NaZSM-5 at ambient pressure using H 2 O 2",
+    authors:[
+      "Pawan Kumar",
+      "Iqra Ahangar",
+      "Srishti Kesarwani",
+      "Rajashri Urkude",
+      "Nita AR Patil",
+      "Prashant Niphadkar",
+      "Vijay V Bokade",
+      "M Ali Haider",
+      " C P Vinod*",
+    ],
+    other_details:"Catalysis Science & Technology, (2026)",
+    year:"2026",
+    doi:"https://doi.org/10.1039/D5CY01422K"
   } 
   
 ];
