@@ -2466,7 +2466,7 @@ export const publicationConstant = [
     authors:[
       "S Patil",
       "P Kamble",
-      "CP Vinod",
+      "C P Vinod",
       "V Rathod",
       "ML Kantam*",
     ],
