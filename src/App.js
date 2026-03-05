@@ -1,4 +1,5 @@
-import { Routes, Route } from "react-router-dom";
+import { useEffect } from "react";
+import { Routes, Route, useLocation } from "react-router-dom";
 import './App.css';
 import Header from './components/Header';
 import HomePage from "./pages/HomePage";
@@ -14,8 +15,16 @@ import NewsPage from "./pages/NewsPage";
 import CatalysisPage from "./pages/CatalysisPage";
 import NanomaterialsPage from "./pages/NanomaterialPage";
 import SurfaceSciencePage from "./pages/SurfaceScience";
+import ReactGA from "react-ga4";
 
 function App() {
+  const { pathname } = useLocation();
+  const GA4_MEASUREMENT_ID = "G-4G17HQHDZD";
+
+  useEffect(() => {
+    ReactGA.initialize(GA4_MEASUREMENT_ID);
+    ReactGA.send({ hitType: "pageview", page: window.location.pathname });
+  }, [pathname]);
   return (
     <div className="flex flex-col min-h-screen">
       <Header />
