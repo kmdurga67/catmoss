@@ -2502,7 +2502,7 @@ export const publicationConstant = [
       "Yogesh Kumar",
       "Biplab Ghosh",
       "Kirti Dahiya",
-      "CP Vinod*",
+      "C P Vinod*",
       "Sailaja Krishnamurty*",
       "Sreekumar Kurungot*",
     ],
