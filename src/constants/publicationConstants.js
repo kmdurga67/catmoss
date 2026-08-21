@@ -2460,7 +2460,7 @@ export const publicationConstant = [
     other_details:"ACS Catalysis, 15, 19677-19694 (2025)",
     year:"2025",
     doi:"https://doi.org/10.1021/acscatal.5c06455"
-     },{
+   },{
  id:"pub_180",
     title:"Aldol Condensation of Furfural with Acetone by Using Mg–Al–O-t-Bu HT Catalyst and Kinetic Studies",
     authors:[
@@ -2473,7 +2473,7 @@ export const publicationConstant = [
     other_details:"Industrial & Engineering Chemistry Research, 64,52, 24938–24948 (2025)",
     year:"2025",
     doi:"https://doi.org/10.1021/acs.iecr.5c03287"
-    },{
+   },{
  id:"pub_181",
     title:"Direct conversion of methane to formic acid over Au–Fe-NaZSM-5 at ambient pressure using H 2 O 2",
     authors:[
@@ -2508,7 +2508,90 @@ export const publicationConstant = [
     ],
     other_details:"ACS Catalysis, 6, 10, 9180–9198 (2026)",
     year:"2026",
-    doi:"https://doi.org/10.1021/acscatal.6c00594"  
+    doi:"https://doi.org/10.1021/acscatal.6c00594"
+   },{
+ id:"pub_183",
+    title:"Synthesis of Raspberry Ketone Using Aluminium Bentonite Catalyst",
+    authors:[
+      "Rutuja S Patange",
+      "Paresh A Kamble",
+      "C P Vinod",
+      "Virendra K Rathod,",
+      "Mannepalli Lakshmi Kantam*",
+    ],
+    other_details:"Flavour and Fragrance Journal,41 (5), 1310-1318 (2026)",
+    year:"2026",
+    doi:"https://doi.org/10.1002/ffj.70120"
+   },{
+ id:"pub_184",
+    title:"Development of a Kinetic Model for the Hydrogenolysis of Glycerol to Propylene Glycol by Using Ni/FAP Catalyst",
+    authors:[
+      "Harmitkumar N Pandya",
+      "Paresh A Kamble",
+      "C P Vinod",
+      "Virendra K Rathod,",
+      "Mannepalli Lakshmi Kantam*",
+    ],
+    other_details:"ChemCatChem,18 (14), e70929",
+    year:"2026",
+    doi:"https://doi.org/10.1002/cctc.70929"
+   },{
+ id:"pub_185",
+    title:"Unraveling the Mechanism of Higher Alcohol Production on the Ordered PdCu3 Nanointermetallic Surface during CO2 Electroreduction",
+    authors:[
+      "Debabrata Bagchi",
+      "Jayendran Iyer",
+      "Tuhin S Khan",
+      "Geetansh Chawla",
+      "Nilutpal Dutta",
+      "Bishnubasu Giri",
+      "Ashutosh Kumar Singh",
+      "Saurav Saha",
+      "Komalpreet Kaur",
+      "CP Vinod",
+      "Ujjal K Gautam",
+      "M Ali Haider",
+      "Sebastian C Peter*",
+    ],
+    other_details:"ACS Catalysis, 16, 13, 12486–12504 (2026)",
+    year:"2026",
+    doi:"https://doi.org/10.1021/acscatal.6c02384"
+   },{  
+id:"pub_186",
+    title:"Selectivity Reversal from CO to Ethylene Products in CO2 Photoreduction via Electronic Modulation of SnS2 Using a Vinyl-Bridged Porous Organic Polymer",
+    authors:[
+      "Subhajit Chakraborty",
+      "Bishal Boro",
+      "SA Keishana Navodye",
+      "Rajib Ghosh",
+      "Abhijit Shrotri",
+      "Rajashri Urkude",
+      "Geetansh Chawla",
+      "CP Vinod",
+      "Komalpreet Kaur",
+      "CP Vinod",
+      "GT Kasun Kalhara Gunasooriya",
+      "John Mondal",
+      "Sebastian C Peter*",
+    ],
+    other_details:"Journal of the American Chemical Society, 148, 25, 25669–25684 (2026)",
+    year:"2026",
+    doi:"https://doi.org/10.1021/jacs.6c02822"
+   },{
+id:"pub_187",
+    title:"Ambient-pressure continuous-flow methane oxidation to methanol: Harnessing in-situ H2O2 generation for sustainable catalysis",
+    authors:[
+      "Pawan Kumar",
+      "Anuradha V Jagtap",
+      "Nikhil S Samudre",
+      "Tanmay Ghosh",
+      "Rajashri Urkude",
+      "Sailaja Krishnamurty",
+      " C P Vinod*",
+    ],
+    other_details:"Applied Surface Science,749, 167911 (2026)",
+    year:"2026",
+    doi:"10.1016/j.apsusc.2026.167911"           
   } 
   
 ];
